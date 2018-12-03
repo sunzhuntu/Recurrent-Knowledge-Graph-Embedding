@@ -12,8 +12,7 @@ id:1|genre:Animation,Adventure,Comedy|director:John Lasseter|actors:Tom Hanks,Ti
 - For the original user-movie rating data, we remove all items without auxiliary information. The data is save in a txt file (rating-delete-missing-itemid.txt) and the format is as follows:
 
 ```
-userid  itemid  rating  timestamp
-196 242 3 881250949
+userid itemid rating timestamp
 ```
 
 

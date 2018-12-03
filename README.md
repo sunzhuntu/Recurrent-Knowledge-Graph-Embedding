@@ -13,6 +13,7 @@ id:1|genre:Animation,Adventure,Comedy|director:John Lasseter|actors:Tom Hanks,Ti
 
 ```
 userid  itemid  rating  timestamp
+196 242 3 881250949
 ```
 
 

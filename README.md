@@ -15,10 +15,10 @@ id:1|genre:Animation,Adventure,Comedy|director:John Lasseter|actors:Tom Hanks,Ti
 userid itemid rating timestamp
 ```
 
-### Auxiliary Data Mapping
-
 
 ### Data Split (data-split.py)
 
 - Input Data: rating-delete-missing-itemid.txt
 - Output Data: training.txt, test.txt
+
+### Path Extraction

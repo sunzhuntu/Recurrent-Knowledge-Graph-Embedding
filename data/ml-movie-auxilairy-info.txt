@@ -1,0 +1,1675 @@
+﻿id:1|genre:Animation,Adventure,Comedy|director:John Lasseter|actors:Tom Hanks,Tim Allen,Don Rickles,Jim Varney
+id:2|genre:Action,Adventure,Thriller|director:Martin Campbell|actors:Pierce Brosnan,Sean Bean,Izabella Scorupco,Famke Janssen
+id:3|genre:Comedy|director:Allison Anders,Alexandre Rockwell,Robert Rodriguez,Quentin Tarantino|actors:Sammi Davis,Amanda De Cadenet,Valeria Golino,Madonna
+id:4|genre:Comedy,Crime,Thriller|director:Barry Sonnenfeld|actors:John Travolta,Gene Hackman,Rene Russo,Danny DeVito
+id:5|genre:Drama,Mystery,Thriller|director:Jon Amiel|actors:Sigourney Weaver,Holly Hunter,Dermot Mulroney,William McNamara
+id:6|genre:Crime,Drama,Romance|director:Yimou Zhang|actors:Li Gong,Baotian Li,Xiaoxiao Wang,Xuejian Li
+id:7|genre:Mystery,Sci-Fi,Thriller|director:Terry Gilliam|actors:Joseph Melito,Bruce Willis,Jon Seda,Michael Chance
+id:8|genre:Comedy,Drama,Family|director:Chris Noonan|actors:Christine Cavanaugh,Miriam Margolyes,Danny Mann,Hugo Weaving
+id:9|genre:Crime,Drama|director:Tim Robbins|actors:Susan Sarandon,Sean Penn,Robert Prosky,Raymond J. Barry
+id:10|genre:Drama,Sci-Fi,War|director:Richard Loncraine|actors:Christopher Bowen,Edward Jewesbury,Ian McKellen,Bill Paterson
+id:11|genre:Adventure,Drama|director:Akira Kurosawa|actors:Toshirô Mifune,Takashi Shimura,Keiko Tsushima,Yukiko Shimazaki
+id:12|genre:Crime,Drama,Mystery|director:Bryan Singer|actors:Stephen Baldwin,Gabriel Byrne,Benicio Del Toro,Kevin Pollak
+id:13|genre:Comedy,Fantasy,Romance|director:Woody Allen|actors:Pamela Blair,Rene Ceballos,Elie Chaib,George De La Pena
+id:14|genre:Biography,Comedy,Drama|director:Michael Radford,Massimo Troisi|actors:Philippe Noiret,Massimo Troisi,Maria Grazia Cucinotta,Renato Scarpa
+id:15|genre:Drama,Music|director:Stephen Herek|actors:Richard Dreyfuss,Glenne Headly,Jay Thomas,Olympia Dukakis
+id:16|genre:Comedy|director:Josiane Balasko|actors:Victoria Abril,Josiane Balasko,Alain Chabat,Ticky Holgado
+id:17|genre:Action,Crime,Horror|director:Robert Rodriguez|actors:George Clooney,Quentin Tarantino,Harvey Keitel,Juliette Lewis
+id:18|genre:Drama,Family|director:Jafar Panahi|actors:Aida Mohammadkhani,Mohsen Kafili,Fereshteh Sadre Orafaiy,Anna Borkowska
+id:19|genre:Comedy,Drama|director:Marleen Gorris|actors:Willeke van Ammelrooy,Els Dottermans,Dora van der Groen,Veerle van Overloop
+id:20|genre:Drama,Romance|director:Philip Haas|actors:Mark Rylance,Kristin Scott Thomas,Patsy Kensit,Jeremy Kemp
+id:21|genre:Action,Adventure,Comedy|director:Brian Henson,David Lane|actors:Tim Curry,Billy Connolly,Jennifer Saunders,Kevin Bishop
+id:22|genre:Biography,Drama,History|director:Mel Gibson|actors:James Robinson,Sean Lawlor,Sandy Nelson,James Cosmo
+id:23|genre:Crime,Drama|director:Martin Scorsese|actors:Diahnne Abbott,Frank Adu,Victor Argo,Gino Ardito
+id:24|genre:Action,Comedy,Thriller|director:Stanley Tong|actors:Jackie Chan,Anita Mui,Françoise Yip,Bill Tung
+id:25|genre:Comedy|director:Mike Nichols|actors:Robin Williams,Gene Hackman,Nathan Lane,Dianne Wiest
+id:26|genre:Comedy,Drama,Romance|director:Edward Burns|actors:Shari Albert,Maxine Bahns,Catharine Bolz,Connie Britton
+id:27|genre:Action,Comedy,Crime|director:Michael Bay|actors:Lisa Boyle,Will Smith,Martin Lawrence,Michael Taliferro
+id:28|genre:Adventure,Drama,History|director:Ron Howard|actors:Tom Hanks,Bill Paxton,Kevin Bacon,Gary Sinise
+id:29|genre:Action,Adventure,Fantasy|director:Joel Schumacher|actors:Val Kilmer,Tommy Lee Jones,Jim Carrey,Nicole Kidman
+id:30|genre:Drama|director:Luis Buñuel|actors:Catherine Deneuve,Jean Sorel,Michel Piccoli,Geneviève Page
+id:31|genre:Action,Drama,Thriller|director:Tony Scott|actors:Denzel Washington,Gene Hackman,Matt Craven,George Dzundza
+id:32|genre:Documentary,Biography,Comedy|director:Terry Zwigoff|actors:Robert Crumb,Aline Kominsky,Charles Crumb,Maxon Crumb
+id:33|genre:Action,Crime,Thriller|director:Robert Rodriguez|actors:Antonio Banderas,Salma Hayek,Joaquim de Almeida,Cheech Marin
+id:34|genre:Action,Comedy,Crime|director:Gregg Araki|actors:James Duval,Rose McGowan,Johnathon Schaech,Cress Williams
+id:35|genre:Adventure,Drama,Family|director:Dwight H. Little|actors:Jason James Richter,Francis Capra,Mary Kate Schellhardt,August Schellenberg
+id:36|genre:Drama,Romance|director:Antonia Bird|actors:Chris O'Donnell,Drew Barrymore,Matthew Lillard,Richard Chaim
+id:37|genre:Drama,Horror|director:Michael Almereyda|actors:Elina Löwensohn,Nic Ratner,Karl Geary,Peter Fonda
+id:38|genre:Action,Crime,Drama|director:Irwin Winkler|actors:Sandra Bullock,Jeremy Northam,Dennis Miller,Diane Baker
+id:39|genre:Action,Crime,Drama|director:Kathryn Bigelow|actors:Ralph Fiennes,Angela Bassett,Juliette Lewis,Tom Sizemore
+id:40|genre:Comedy,Drama|director: Beeban Kidron|Actors:Wesley Snipes,Patrick Swayze,John Leguizamo,Stockard Channing
+id:41|genre:Comedy|director:Tamra Davis|actors:Adam Sandler,Darren McGavin,Bridgette Wilson-Sampras,Bradley Whitford
+id:42|genre:Comedy|director:Kevin Smith|actors:Brian O'Halloran,Jeff Anderson,Marilyn Ghigliotti,Lisa Spoonauer
+id:43|genre:Drama,Thriller|director:Barry Levinson|actors:Michael Douglas,Demi Moore,Donald Sutherland,Caroline Goodall
+id:44|genre:Crime,Drama,Mystery|director:Taylor Hackford|actors:Kathy Bates,Jennifer Jason Leigh,Judy Parfitt,Christopher Plummer
+id:45|genre:Comedy,Drama,Romance|director:Ang Lee|actors:Sihung Lung,Yu-Wen Wang,Chien-Lien Wu,Kuei-Mei Yang
+id:46|genre:Drama|director:Atom Egoyan|actors:David Hemblen,Calvin Green,Don McKellar,Peter Krantz
+id:47|genre:Biography,Comedy,Drama|director:Tim Burton|actors:Johnny Depp,Martin Landau,Sarah Jessica Parker,Patricia Arquette
+id:48|genre:Documentary,Drama,Sport|director:Steve James|actors:William Gates,Arthur Agee,Emma Gates,Curtis Gates
+id:49|genre:Comedy,Romance|director:Fred Schepisi|actors:Tim Robbins,Meg Ryan,Walter Matthau,Lou Jacobi
+id:50|genre:Action,Adventure,Fantasy|director:George Lucas|actors:Mark Hamill,Harrison Ford,Carrie Fisher,Peter Cushing
+id:51|genre:Drama,Romance,War|director:Edward Zwick|actors:Brad Pitt,Anthony Hopkins,Aidan Quinn,Julia Ormond
+id:52|genre:Biography,Comedy,Drama|director:Nicholas Hytner|actors:Rupert Graves,Helen Mirren,Amanda Donohoe,Charlotte Curley
+id:53|genre:Crime,Drama|director:Oliver Stone|actors:Woody Harrelson,Juliette Lewis,Tom Sizemore,Rodney Dangerfield
+id:54|genre:Action,Drama,Thriller|director:Wolfgang Petersen|actors:Dustin Hoffman,Rene Russo,Morgan Freeman,Kevin Spacey
+id:55|genre:Action,Crime,Drama|director:Georges Lautner|actors:Jean-Paul Belmondo,Jean Desailly,Cyrielle Clair,Marie-Christine Descouard
+id:56|genre:Crime,Drama|director:Quentin Tarantino|actors:Tim Roth,Amanda Plummer,Laura Lovelace,John Travolta
+id:57|genre:Action,Fantasy,Horror|director:Scott Stewart|actors:Paul Bettany,Karl Urban,Cam Gigandet,Maggie Q
+id:58|genre:Biography,Drama,History|director:Robert Redford|actors:John Turturro,Rob Morrow,Ralph Fiennes,Paul Scofield
+id:59|genre:Drama,Mystery,Romance|director:Krzysztof Kieslowski|actors:Irène Jacob,Jean-Louis Trintignant,Frédérique Feder,Jean-Pierre Lorit
+id:60|genre:Drama,Music,Mystery|director:Krzysztof Kieslowski|actors:Juliette Binoche,Benoît Régent,Florence Pernel,Charlotte Véry
+id:61|genre:Comedy,Drama,Romance|director:Krzysztof Kieslowski|actors:Zbigniew Zamachowski,Julie Delpy,Janusz Gajos,Jerzy Stuhr
+id:62|genre:Action,Adventure,Sci-Fi|director:Roland Emmerich|actors:Kurt Russell,James Spader,Jaye Davidson,Viveca Lindfors
+id:63|genre:Comedy,Drama,Family|director:John Pasquin|actors:Tim Allen,Judge Reinhold,Wendy Crewson,Eric Lloyd
+id:64|genre:Crime,Drama|director:Frank Darabont|actors:Tim Robbins,Morgan Freeman,Bob Gunton,William Sadler
+id:65|genre:Drama|director:Lasse Hallström|actors:Johnny Depp,Leonardo DiCaprio,Juliette Lewis,Mary Steenburgen
+id:66|genre:Comedy,Drama,Romance|director:Jon Turteltaub|actors:Sandra Bullock,Bill Pullman,Peter Gallagher,Peter Boyle
+id:67|genre:Comedy|director:Tom Shadyac|actors:Jim Carrey,Courteney Cox,Sean Young,Tone Loc
+id:68|genre:Action,Drama,Fantasy|director:Alex Proyas|actors:Brandon Lee,Rochelle Davis,Ernie Hudson,Michael Wincott
+id:69|genre:Comedy,Drama,Romance|director:Robert Zemeckis|actors:Tom Hanks,Rebecca Williams,Sally Field,Michael Conner Humphreys
+id:70|genre:Comedy,Drama,Romance|director:Mike Newell|actors:Hugh Grant,James Fleet,Simon Callow,John Hannah
+id:71|genre:Animation,Adventure,Drama|director:Roger Allers,Rob Minkoff|actors:Rowan Atkinson,Matthew Broderick,Niketa Calame,Jim Cummings
+id:72|genre:Comedy,Fantasy|director:Chuck Russell|actors:Jim Carrey,Peter Riegert,Peter Greene,Amy Yasbeck
+id:73|genre:Action,Adventure,Comedy|director:Richard Donner|actors:Mel Gibson,Jodie Foster,James Garner,Graham Greene
+id:74|genre:Action,Comedy|director:Russ Meyer|actors:Tura Satana,Haji,Lori Williams,Ray Barlow
+id:75|genre:Documentary|director:Jefri Aalmuhammed,Jack Baxter|actors:Peter Bailey,Roscoe Lee Browne,John Henrik Clarke,Louis Farrakhan
+id:76|genre:Crime,Drama,Thriller|director:Brian De Palma|actors:Al Pacino,Sean Penn,Penelope Ann Miller,John Leguizamo
+id:77|genre:Drama,Mystery,Thriller|director:Sydney Pollack|actors:Tom Cruise,Jeanne Tripplehorn,Gene Hackman,Hal Holbrook
+id:78|genre:Adventure,Drama,Family|director:Simon Wincer|actors:Jason James Richter,Lori Petty,Jayne Atkinson,August Schellenberg
+id:79|genre:Action,Crime,Drama|director:Andrew Davis|actors:Harrison Ford,Tommy Lee Jones,Sela Ward,Julianne Moore
+id:80|genre:Action,Comedy|director:Jim Abrahams|actors:Charlie Sheen,Lloyd Bridges,Valeria Golino,Richard Crenna
+id:81|genre:Comedy,Drama,Fantasy|director:Joel Coen,Ethan Coen|actors:Tim Robbins,Jennifer Jason Leigh,Paul Newman,Charles Durning
+id:82|genre:Adventure,Sci-Fi,Thriller|director:Steven Spielberg|actors:Sam Neill,Laura Dern,Jeff Goldblum,Richard Attenborough
+id:83|genre:Comedy,Drama,Romance|director:Kenneth Branagh|actors:Richard Briers,Kate Beckinsale,Imelda Staunton,Jimmy Yuill
+id:84|genre:Horror,Sci-Fi,Thriller|director:Stuart Orme|actors:Donald Sutherland,Eric Thal,Julie Warner,Keith David
+id:85|genre:Comedy,Crime,Drama|director:Ted Demme|actors:Denis Leary,Judy Davis,Kevin Spacey,Robert J. Steinmiller Jr.
+id:86|genre:Drama,Romance|director:James Ivory|actors:John Haycraft,Christopher Reeve,Anthony Hopkins,Emma Thompson
+id:87|genre:Biography,Drama|director:Steven Zaillian|actors:Max Pomeranc,Joe Mantegna,Joan Allen,Ben Kingsley
+id:88|genre:Comedy,Drama,Romance|director:Nora Ephron|actors:Tom Hanks,Ross Malinger,Rita Wilson,Victor Garber
+id:89|genre:Sci-Fi,Thriller|director:Ridley Scott|actors:Harrison Ford,Rutger Hauer,Sean Young,Edward James Olmos
+id:90|genre:Comedy,Romance|director:Thomas Schlamme|actors:Mike Myers,Nancy Travis,Anthony LaPaglia,Amanda Plummer
+id:91|genre:Animation,Family,Fantasy|director:Henry Selick|actors:Danny Elfman,Chris Sarandon,Catherine O'Hara,William Hickey
+id:92|genre:Crime,Drama,Romance|director:Tony Scott|actors:Christian Slater,Patricia Arquette,Dennis Hopper,Val Kilmer
+id:93|genre:Comedy,Drama|director:Todd Solondz|actors:Heather Matarazzo,Victoria Davis,Christina Brucato,Christina Vidal
+id:94|genre:Comedy,Family|director:Chris Columbus|actors:Macaulay Culkin,Joe Pesci,Daniel Stern,John Heard
+id:95|genre:Animation,Adventure,Comedy|director:Ron Clements,John Musker|actors:Scott Weinger,Robin Williams,Linda Larkin,Jonathan Freeman
+id:96|genre:Action,Sci-Fi,Thriller|director:James Cameron|actors:Arnold Schwarzenegger,Linda Hamilton,Edward Furlong,Robert Patrick
+id:97|genre:Adventure,Drama,Western|director:Kevin Costner|actors:Kevin Costner,Mary McDonnell,Graham Greene,Rodney A. Grant
+id:98|genre:Crime,Drama,Thriller|director:Jonathan Demme|actors:Jodie Foster,Lawrence A. Bonney,Kasi Lemmons,Lawrence T. Wrentz
+id:99|genre:Animation,Family,Fantasy|director:William Cottrell,David Hand,Wilfred Jackson,Larry Morey,Perce Pearce,Ben Sharpsteen|actors:Roy Atwell,Stuart Buchanan,Adriana Caselotti,Eddie Collins
+id:100|genre:Crime,Drama,Thriller|director:Joel Coen,Ethan Coen|actors:William H. Macy,Steve Buscemi,Peter Stormare,Kristin Rudrüd
+id:101|genre:Animation,Adventure,Fantasy|director:Gerald Potterton,John Bruno,John Halas,Julian Harris,Jimmy T. Murakami,Barrie Nelson,Paul Sabella,Jack Stokes,Pino Van Lamsweerde,Harold Whitaker|actors:Don Francks,Caroline Semple,Richard Romanus,Susan Roman
+id:102|genre:Animation,Adventure,Comedy|director:Wolfgang Reitherman|actors:Phil Harris,Eva Gabor,Sterling Holloway,Scatman Crothers
+id:103|genre:Animation,Adventure,Family|director:Larry Leker,Paul Sabella|actors:Bebe Neuwirth,Ernest Borgnine,Charlie Sheen,Hamilton Camp
+id:104|genre:Action,Comedy,Family|director:Jonathan R. Betuel|actors:Whoopi Goldberg,Armin Mueller-Stahl,Juliet Landau,Bud Cort
+id:105|genre:Comedy|director:Jonathan Lynn|actors:Steve Martin,Dan Aykroyd,Phil Hartman,Glenne Headly
+id:106|genre:Crime,Drama,Horror|director:Henri-Georges Clouzot|actors:Simone Signoret,Véra Clouzot,Paul Meurisse,Charles Vanel
+id:107|genre:Drama,Romance|director:Pen Densham|actors:Robin Wright,Morgan Freeman,Stockard Channing,John Lynch
+id:108|genre:Comedy|director:Kelly Makin|actors:Dave Foley,Bruce McCulloch,Kevin McDonald,Mark McKinney
+id:109|genre:Comedy,Horror,Sci-Fi|director:Jim Mallon|actors:Trace Beaulieu,Michael J. Nelson,Jim Mallon,Kevin Murphy
+id:110|genre:Action,Adventure,Comedy|director:Simon Wincer|actors:Danny Glover,Ray Liotta,Denis Leary,Doug E. Doug
+id:111|genre:Documentary|director:N/A|actors:N/A,
+id:112|genre:Family,Adventure|director:Alan Shapiro|actors:Elijah Wood,Paul Hogan,Jonathan Banks,Robert Deacon
+id:113|genre:Adventure,Drama,Romance|director:Jean-Paul Rappeneau|actors:Juliette Binoche,Olivier Martinez,Pierre Arditi,François Cluzet
+id:114|genre:Short,Comedy,Drama|director:Ian McCulloch|actors:George Demas,Nina Hellman,Annie Parisse,Dallas Roberts
+id:115|genre:Documentary,Biography|director:Brett Thompson|actors:Maila Nurmi,Dolores Fuller,Paul Marco,Conrad Brooks
+id:116|genre:Comedy,Romance|director:John Schlesinger|actors:Eileen Atkins,Kate Beckinsale,Sheila Burrell,Stephen Fry
+id:117|genre:Action,Adventure,Thriller|director:Michael Bay|actors:Sean Connery,Nicolas Cage,Ed Harris,John Spencer
+id:118|genre:Action,Adventure,Drama|director:Jan de Bont|actors:Helen Hunt,Bill Paxton,Cary Elwes,Jami Gertz
+id:119|genre:Documentary,Biography|director:Freida Lee Mock|actors:Maya Lin
+id:120|genre:Comedy,Crime,Drama|director:Andrew Bergman|actors:Demi Moore,Burt Reynolds,Armand Assante,Ving Rhames
+id:121|genre:Action,Adventure,Sci-Fi|director:Roland Emmerich|actors:Will Smith,Bill Pullman,Jeff Goldblum,Mary McDonnell
+id:122|genre:Comedy,Drama,Thriller|director:Ben Stiller|actors:Jim Carrey,Matthew Broderick,Leslie Mann,Jack Black
+id:123|genre:Comedy,Fantasy,Horror|director:Peter Jackson|actors:Michael J. Fox,Trini Alvarado,Peter Dobson,John Astin
+id:124|genre:Drama,Mystery|director:John Sayles|actors:Stephen Mendillo,Stephen J. Lang,Chris Cooper,Elizabeth Peña
+id:125|genre:Drama,Fantasy,Romance|director:Jon Turteltaub|actors:John Travolta,Kyra Sedgwick,Forest Whitaker,Robert Duvall
+id:126|genre:Drama|director:Lee David Zlotoff|actors:Alison Elliott,Ellen Burstyn,Marcia Gay Harden,Will Patton
+id:127|genre:Crime,Drama|director:Francis Ford Coppola|actors:Marlon Brando,Al Pacino,James Caan,Richard S. Castellano
+id:128|genre:Action,Comedy,Crime|director:Stanley Tong|actors:Jackie Chan,Michelle Yeoh,Maggie Cheung,Kenneth Tsang
+id:129|genre:Crime,Romance,Thriller|director:Lana Wachowski,Lilly Wachowski|actors:Jennifer Tilly,Gina Gershon,Joe Pantoliano,John P. Ryan
+id:130|genre:Crime,Drama,Music|director:Robert Altman|actors:Jennifer Jason Leigh,Miranda Richardson,Harry Belafonte,Michael Murphy
+id:131|genre:Comedy,Drama,Romance|director:Blake Edwards|actors:Audrey Hepburn,George Peppard,Patricia Neal,Buddy Ebsen
+id:132|genre:Adventure,Family,Fantasy|director:Victor Fleming,George Cukor,Mervyn LeRoy,Norman Taurog,King Vidor|actors:Judy Garland,Frank Morgan,Ray Bolger,Bert Lahr
+id:133|genre:Drama,History,Romance|director:Victor Fleming,George Cukor,Sam Wood|actors:Thomas Mitchell,Barbara O'Neil,Vivien Leigh,Evelyn Keyes
+id:134|genre:Drama,Mystery|director:Orson Welles|actors:Joseph Cotten,Dorothy Comingore,Agnes Moorehead,Ruth Warrick
+id:135|genre:Adventure,Sci-Fi|director:Stanley Kubrick|actors:Keir Dullea,Gary Lockwood,William Sylvester,Daniel Richter
+id:136|genre:Comedy,Drama|director:Frank Capra|actors:Jean Arthur,James Stewart,Claude Rains,Edward Arnold
+id:137|genre:Drama,Romance|director:Campbell Scott,Stanley Tucci|actors:Marc Anthony,Tony Shalhoub,Stanley Tucci,Larry Block
+id:138|genre:Action,Comedy,Drama|director:Robert Lieberman|actors:Emilio Estevez,Jeffrey Nordling,David Selby,Heidi Kling
+id:139|genre:Comedy,Family,Sport|director:Robert Stevenson|actors:Dean Jones,Michele Lee,David Tomlinson,Buddy Hackett
+id:140|genre:Adventure,Comedy,Drama|director:Duwayne Dunham|actors:Don Alder,Ed Bernard,Kevin Chevalia,Anne Christianson
+id:141|genre:Action,Sci-Fi,Thriller|director:James Cameron|actors:Arnold Schwarzenegger,Linda Hamilton,Edward Furlong,Robert Patrick
+id:142|genre:Animation,Adventure,Comedy|director:Robert Stevenson|actors:Angela Lansbury,David Tomlinson,Roddy McDowall,Sam Jaffe
+id:143|genre:Biography,Drama,Family|director:Robert Wise|actors:Julie Andrews,Christopher Plummer,Eleanor Parker,Richard Haydn
+id:144|genre:Action,Thriller|director:John McTiernan|actors:Bruce Willis,Bonnie Bedelia,Reginald VelJohnson,Paul Gleason
+id:145|genre:Horror,Sci-Fi|director:Brett Leonard|actors:Jeff Fahey,Pierce Brosnan,Jenny Wright,Mark Bringelson
+id:146|genre:Drama,Romance|director:Nick Cassavetes|actors:Gena Rowlands,Marisa Tomei,Gérard Depardieu,Jake Lloyd
+id:147|genre:Action,Crime,Drama|director:Renny Harlin|actors:Geena Davis,Samuel L. Jackson,Yvonne Zima,Craig Bierko
+id:148|genre:Adventure,Drama,Thriller|director:Stephen Hopkins|actors:Michael Douglas,Val Kilmer,Tom Wilkinson,John Kani
+id:149|genre:Drama,Romance|director:Michael Winterbottom|actors:Christopher Eccleston,Kate Winslet,Liam Cunningham,Rachel Griffiths
+id:150|genre:Comedy,Drama|director:Doug Liman|actors:Jon Favreau,Vince Vaughn,Ron Livingston,Patrick Van Horn
+id:151|genre:Animation,Adventure,Comedy|director:Spike Brandt|actors:JP Karliak,Jess Harnell,Lincoln Melcher,Mick Wingert
+id:152|genre:Comedy,Sci-Fi|director:Woody Allen|actors:Woody Allen,Diane Keaton,John Beck,Mary Gregory
+id:153|genre:Comedy,Crime|director:Charles Crichton,John Cleese|actors:John Cleese,Jamie Lee Curtis,Kevin Kline,Michael Palin
+id:154|genre:Comedy|director:Terry Jones|actors:Graham Chapman,John Cleese,Terry Gilliam,Eric Idle
+id:155|genre:Drama,Music,Romance|director:Emile Ardolino|actors:Jennifer Grey,Patrick Swayze,Jerry Orbach,Cynthia Rhodes
+id:156|genre:Crime,Drama,Thriller|director:Quentin Tarantino|actors:Harvey Keitel,Tim Roth,Michael Madsen,Chris Penn
+id:157|genre:Drama,War|director:Oliver Stone|actors:Tom Berenger,Keith David,Willem Dafoe,Forest Whitaker
+id:158|genre:Adventure,Comedy,Crime|director:Ted Kotcheff|actors:Andrew McCarthy,Jonathan Silverman,Catherine Mary Stewart,Terry Kiser
+id:159|genre:Drama,Mystery,Thriller|director:Paul Verhoeven|actors:Michael Douglas,Sharon Stone,George Dzundza,Jeanne Tripplehorn
+id:160|genre:Crime,Drama,Mystery|director:James Foley|actors:Al Pacino,Jack Lemmon,Alec Baldwin,Alan Arkin
+id:161|genre:Action,Drama,Romance|director:Tony Scott|actors:Tom Cruise,Kelly McGillis,Val Kilmer,Anthony Edwards
+id:162|genre:Drama|director:Mark Rydell|actors:Katharine Hepburn,Henry Fonda,Jane Fonda,Doug McKeon
+id:163|genre:Comedy,Crime,Mystery|director:Blake Edwards|actors:Peter Sellers,Christopher Plummer,Catherine Schell,Herbert Lom
+id:164|genre:Adventure,Drama,Sci-Fi|director:James Cameron|actors:Ed Harris,Mary Elizabeth Mastrantonio,Michael Biehn,Leo Burmester
+id:165|genre:Drama|director:Claude Berri|actors:Yves Montand,Gérard Depardieu,Daniel Auteuil,Elisabeth Depardieu
+id:166|genre:Drama|director:Claude Berri|actors:Yves Montand,Daniel Auteuil,Emmanuelle Béart,Hippolyte Girardot
+id:167|genre:Comedy,War|director:Howard Zieff|actors:Goldie Hawn,Eileen Brennan,Armand Assante,Robert Webber
+id:168|genre:Adventure,Comedy,Fantasy|director:Terry Gilliam,Terry Jones|actors:Graham Chapman,John Cleese,Eric Idle,Terry Gilliam
+id:169|genre:Animation,Short,Comedy|director:Nick Park|actors:Peter Sallis
+id:170|genre:Drama|director:Giuseppe Tornatore|actors:Antonella Attili,Enzo Cannavale,Isa Danieli,Leo Gullotta
+id:171|genre:Comedy,Crime|director:Marc Caro,Jean-Pierre Jeunet|actors:Pascal Benezech,Dominique Pinon,Marie-Laure Dougnac,Jean-Claude Dreyfus
+id:172|genre:Action,Adventure,Fantasy|director:Irvin Kershner|actors:Mark Hamill,Harrison Ford,Carrie Fisher,Billy Dee Williams
+id:173|genre:Adventure,Family,Fantasy|director:Rob Reiner|actors:Cary Elwes,Mandy Patinkin,Chris Sarandon,Christopher Guest
+id:174|genre:Action,Adventure|director:Steven Spielberg|actors:Harrison Ford,Karen Allen,Paul Freeman,Ronald Lacey
+id:175|genre:Drama,Sci-Fi|director:Terry Gilliam|actors:Jonathan Pryce,Robert De Niro,Katherine Helmond,Ian Holm
+id:176|genre:Action,Adventure,Sci-Fi|director:James Cameron|actors:Sigourney Weaver,Carrie Henn,Michael Biehn,Paul Reiser
+id:177|genre:Western|director:Sergio Leone|actors:Eli Wallach,Clint Eastwood,Lee Van Cleef,Aldo Giuffrè
+id:178|genre:Crime,Drama|director:Sidney Lumet|actors:Martin Balsam,John Fiedler,Lee J. Cobb,E.G. Marshall
+id:179|genre:Crime,Drama,Sci-Fi|director:Stanley Kubrick|actors:Malcolm McDowell,Patrick Magee,Michael Bates,Warren Clarke
+id:180|genre:Drama,War|director:Francis Ford Coppola|actors:Marlon Brando,Martin Sheen,Robert Duvall,Frederic Forrest
+id:181|genre:Action,Adventure,Fantasy|director:Richard Marquand|actors:Mark Hamill,Harrison Ford,Carrie Fisher,Billy Dee Williams
+id:182|genre:Crime,Drama|director:Martin Scorsese|actors:Robert De Niro,Ray Liotta,Joe Pesci,Lorraine Bracco
+id:183|genre:Horror,Sci-Fi|director:Ridley Scott|actors:Tom Skerritt,Sigourney Weaver,Veronica Cartwright,Harry Dean Stanton
+id:184|genre:Comedy,Horror|director:Sam Raimi|actors:Bruce Campbell,Embeth Davidtz,Marcus Gilbert,Ian Abercrombie
+id:185|genre:Horror,Mystery,Thriller|director:Alfred Hitchcock|actors:Anthony Perkins,Vera Miles,John Gavin,Janet Leigh
+id:186|genre:Action,Comedy,Crime|director:John Landis|actors:John Belushi,Dan Aykroyd,James Brown,Cab Calloway
+id:187|genre:Crime,Drama|director:Francis Ford Coppola|actors:Al Pacino,Robert Duvall,Diane Keaton,Robert De Niro
+id:188|genre:Drama,War|director:Stanley Kubrick|actors:Matthew Modine,Adam Baldwin,Vincent D'Onofrio,R. Lee Ermey
+id:189|genre:Animation,Short,Adventure|director:Nick Park|actors:Peter Sallis
+id:190|genre:Action,Biography,Drama|director:Kenneth Branagh|actors:Derek Jacobi,Kenneth Branagh,Simon Shepherd,James Larkin
+id:191|genre:Biography,Drama,History|director:Milos Forman|actors:F. Murray Abraham,Tom Hulce,Elizabeth Berridge,Roy Dotrice
+id:192|genre:Biography,Drama,Sport|director:Martin Scorsese|actors:Robert De Niro,Cathy Moriarty,Joe Pesci,Frank Vincent
+id:193|genre:Adventure,Biography,Drama|director:Philip Kaufman|actors:Sam Shepard,Scott Glenn,Ed Harris,Dennis Quaid
+id:194|genre:Comedy,Crime,Drama|director:George Roy Hill|actors:Paul Newman,Robert Redford,Robert Shaw,Charles Durning
+id:195|genre:Action,Sci-Fi|director:James Cameron|actors:Arnold Schwarzenegger,Michael Biehn,Linda Hamilton,Paul Winfield
+id:196|genre:Comedy,Drama|director:Peter Weir|actors:Robin Williams,Robert Sean Leonard,Ethan Hawke,Josh Charles
+id:197|genre:Comedy,Drama|director:Mike Nichols|actors:Anne Bancroft,Dustin Hoffman,Katharine Ross,William Daniels
+id:198|genre:Action,Crime,Drama|director:N/A|actors:Maggie Q,Shane West,Lyndsy Fonseca,Aaron Stanford
+id:199|genre:Adventure,Drama,War|director:David Lean|actors:William Holden,Alec Guinness,Jack Hawkins,Sessue Hayakawa
+id:200|genre:Drama,Horror|director:Stanley Kubrick|actors:Jack Nicholson,Shelley Duvall,Danny Lloyd,Scatman Crothers
+id:201|genre:Comedy,Horror|director:Sam Raimi|actors:Bruce Campbell,Sarah Berry,Dan Hicks,Kassie Wesley DePaiva
+id:202|genre:Comedy,Fantasy,Romance|director:Harold Ramis|actors:Bill Murray,Andie MacDowell,Chris Elliott,Stephen Tobolowsky
+id:203|genre:Drama,Western|director:Clint Eastwood|actors:Clint Eastwood,Gene Hackman,Morgan Freeman,Richard Harris
+id:204|genre:Adventure,Comedy,Sci-Fi|director:Robert Zemeckis|actors:Michael J. Fox,Christopher Lloyd,Lea Thompson,Crispin Glover
+id:205|genre:Biography,Drama,War|director:Franklin J. Schaffner|actors:George C. Scott,Karl Malden,Stephen Young,Michael Strong
+id:206|genre:Animation,Action,Drama|director:Katsuhiro Ôtomo|actors:Mitsuo Iwata,Nozomu Sasaki,Mami Koyama,Tesshô Genda
+id:207|genre:Biography,Comedy,Drama|director:Jean-Paul Rappeneau|actors:Gérard Depardieu,Anne Brochet,Vincent Perez,Jacques Weber
+id:208|genre:Comedy|director:Mel Brooks|actors:Gene Wilder,Peter Boyle,Marty Feldman,Madeline Kahn
+id:209|genre:Comedy,Music|director:Rob Reiner|actors:Rob Reiner,Kimberly Stringer,Chazz Dominguez,Shari Hall
+id:210|genre:Action,Adventure,Fantasy|director:Steven Spielberg|actors:Harrison Ford,Sean Connery,Denholm Elliott,Alison Doody
+id:211|genre:Comedy,Drama,War|director:N/A|actors:Alan Alda,Loretta Swit,Jamie Farr,William Christopher
+id:212|genre:Drama,Romance|director:Philip Kaufman|actors:Daniel Day-Lewis,Juliette Binoche,Lena Olin,Derek de Lint
+id:213|genre:Drama,Romance|director:James Ivory|actors:Maggie Smith,Helena Bonham Carter,Denholm Elliott,Julian Sands
+id:214|genre:Animation,Drama,Fantasy|director:Alan Parker|actors:Bob Geldof,Christine Hargreaves,James Laurenson,Eleanor David
+id:215|genre:Drama,Family,Fantasy|director:Phil Alden Robinson|actors:Kevin Costner,Amy Madigan,Gaby Hoffmann,Ray Liotta
+id:216|genre:Comedy,Drama,Romance|director:Rob Reiner|actors:Billy Crystal,Meg Ryan,Carrie Fisher,Bruno Kirby
+id:217|genre:Horror|director:Francis Ford Coppola|actors:Gary Oldman,Winona Ryder,Anthony Hopkins,Keanu Reeves
+id:218|genre:Crime,Thriller|director:Martin Scorsese|actors:Robert De Niro,Nick Nolte,Jessica Lange,Juliette Lewis
+id:219|genre:Horror|director:Wes Craven|actors:John Saxon,Ronee Blakley,Heather Langenkamp,Amanda Wyss
+id:220|genre:Comedy,Drama,Romance|director:Barbra Streisand|actors:Barbra Streisand,Jeff Bridges,Lauren Bacall,George Segal
+id:221|genre:Drama,Romance|director:Lars von Trier|actors:Emily Watson,Stellan Skarsgård,Katrin Cartlidge,Jean-Marc Barr
+id:222|genre:Sci-Fi,Short,Documentary|director:Natalie Barandes|actors:N/A
+id:223|genre:Drama|director:Billy Bob Thornton|actors:Billy Bob Thornton,Dwight Yoakam,J.T. Walsh,John Ritter
+id:224|genre:Comedy,Drama,Romance|director:Patrice Leconte|actors:Charles Berling,Jean Rochefort,Fanny Ardant,Judith Godrèche
+id:225|genre:Animation,Adventure,Comedy|director:Clyde Geronimi,Hamilton Luske,Wolfgang Reitherman|actors:Rod Taylor,J. Pat O'Malley,Betty Lou Gerson,Martha Wentworth
+id:226|genre:Action,Thriller|director:Renny Harlin|actors:Bruce Willis,Bonnie Bedelia,William Atherton,Reginald VelJohnson
+id:227|genre:Action,Adventure,Sci-Fi|director:Nicholas Meyer|actors:William Shatner,Leonard Nimoy,DeForest Kelley,James Doohan
+id:228|genre:Action,Adventure,Sci-Fi|director:Nicholas Meyer|actors:William Shatner,Leonard Nimoy,DeForest Kelley,James Doohan
+id:229|genre:Action,Adventure,Sci-Fi|director:Leonard Nimoy|actors:William Shatner,Leonard Nimoy,DeForest Kelley,James Doohan
+id:230|genre:Adventure,Comedy,Sci-Fi|director:Leonard Nimoy|actors:William Shatner,Leonard Nimoy,DeForest Kelley,James Doohan
+id:231|genre:Action,Adventure|director:Tim Burton|actors:Michael Keaton,Danny DeVito,Michelle Pfeiffer,Christopher Walken
+id:232|genre:Action,Crime,Drama|director:Christopher Cain|actors:Emilio Estevez,Kiefer Sutherland,Lou Diamond Phillips,Charlie Sheen
+id:233|genre:Action,Thriller|director:Andrew Davis|actors:Steven Seagal,Damian Chapa,Troy Evans,David McKnight
+id:234|genre:Adventure,Drama,Thriller|director:Steven Spielberg|actors:Roy Scheider,Robert Shaw,Richard Dreyfuss,Lorraine Gary
+id:235|genre:Comedy,Sci-Fi|director:Tim Burton|actors:Jack Nicholson,Glenn Close,Annette Bening,Pierce Brosnan
+id:236|genre:Comedy,Drama|director:Alexander Payne|actors:Laura Dern,Swoosie Kurtz,Kurtwood Smith,Mary Kay Place
+id:237|genre:Comedy,Drama,Romance|director:Cameron Crowe|actors:Tom Cruise,Cuba Gooding Jr.,Renée Zellweger,Kelly Preston
+id:238|genre:Comedy,Crime|director:Joel Coen,Ethan Coen|actors:Nicolas Cage,Holly Hunter,Trey Wilson,John Goodman
+id:239|genre:Comedy,Crime,Drama|director:Phil Alden Robinson|actors:Jo Marr,Gary Hershberger,Robert Redford,Sidney Poitier
+id:240|genre:Animation,Adventure,Comedy|director:Mike Judge,Mike de Seve,Brian Mulroney,Yvette Kaplan|actors:Mike Judge,Bruce Willis,Demi Moore,Cloris Leachman
+id:241|genre:Action,Adventure,Drama|director:Michael Mann|actors:Daniel Day-Lewis,Madeleine Stowe,Russell Means,Eric Schweig
+id:242|genre:Comedy,Drama,Music|director:Jan Sverák|actors:Zdenek Sverák,Andrey Khalimon,Libuse Safránková,Ondrej Vetchý
+id:243|genre:Comedy,Family|director:John Pasquin|actors:Tim Allen,Martin Short,JoBeth Williams,Lolita Davidovich
+id:244|genre:Action,Drama,Sci-Fi|director:Bille August|actors:Ona Fletcher,Julia Ormond,Agga Olsen,Patrick Field
+id:245|genre:Action,Crime,Drama|director:Alan J. Pakula|actors:Harrison Ford,Brad Pitt,Margaret Colin,Rubén Blades
+id:246|genre:Comedy,Drama,Romance|director:Kevin Smith|actors:Ethan Suplee,Ben Affleck,Scott Mosier,Jason Lee
+id:247|genre:Action,Adventure,Family|director:Shuki Levy,David Winning|actors:Jon Simanton,Kai Doi,Greg Collins,Steve Cardenas
+id:248|genre:Action,Comedy,Crime|director:George Armitage|actors:John Cusack,Minnie Driver,Alan Arkin,Dan Aykroyd
+id:249|genre:Adventure,Comedy|director:Jay Roach|actors:Mike Myers,Elizabeth Hurley,Michael York,Mimi Rogers
+id:250|genre:Action,Adventure,Sci-Fi|director:Luc Besson|actors:Bruce Willis,Gary Oldman,Ian Holm,Milla Jovovich
+id:251|genre:Comedy,Drama,Music|director:Masayuki Suo|actors:Kôji Yakusho,Tamiyo Kusakari,Naoto Takenaka,Eri Watanabe
+id:252|genre:Action,Adventure,Sci-Fi|director:Steven Spielberg|actors:Jeff Goldblum,Julianne Moore,Pete Postlethwaite,Arliss Howard
+id:253|genre:Drama|director:Peter Greenaway|actors:Vivian Wu,Yoshi Oida,Ken Ogata,Hideko Yoshida
+id:254|genre:Action,Adventure|director:Tim Burton|actors:Michael Keaton,Jack Nicholson,Kim Basinger,Robert Wuhl
+id:255|genre:Comedy,Drama,Romance|director:P.J. Hogan|actors:Julia Roberts,Dermot Mulroney,Cameron Diaz,Rupert Everett
+id:256|genre:Comedy,Romance|director:Cédric Klapisch|actors:Garance Clavel,Zinedine Soualem,Renée Le Calm,Olivier Py
+id:257|genre:Adventure,Comedy,Family|director:Barry Sonnenfeld|actors:Tommy Lee Jones,Will Smith,Linda Fiorentino,Vincent D'Onofrio
+id:258|genre:Drama,Mystery,Sci-Fi|director:Robert Zemeckis|actors:Jena Malone,David Morse,Jodie Foster,Geoffrey Blake
+id:259|genre:Action,Adventure,Comedy|director:Sam Weisman|actors:Brendan Fraser,Leslie Mann,Thomas Haden Church,Richard Roundtree
+id:260|genre:Horror,Sci-Fi,Thriller|director:Paul W.S. Anderson|actors:Laurence Fishburne,Sam Neill,Kathleen Quinlan,Joely Richardson
+id:261|genre:Comedy,Drama,Family|director:Charles Martin Smith|actors:Michael Jeter,Kevin Zegers,Wendy Makkena,Bill Cobbs
+id:262|genre:Comedy,Drama|director:Neil LaBute|actors:Aaron Eckhart,Stacy Edwards,Matt Malloy,Michael Martin
+id:263|genre:Action,Crime,Sci-Fi|director:Kenneth Johnson|actors:Shaquille O'Neal,Annabeth Gish,Judd Nelson,Richard Roundtree
+id:264|genre:Horror,Sci-Fi|director:Guillermo del Toro|actors:Mira Sorvino,Jeremy Northam,Alexander Goodwin,Giancarlo Giannini
+id:265|genre:Action,Adventure,Thriller|director:John McTiernan|actors:Sean Connery,Alec Baldwin,Scott Glenn,Sam Neill
+id:266|genre:Fantasy,Action,Adventure|director:John Nicolella|actors:Kevin Sorbo,Tia Carrere,Thomas Ian Griffith,Litefoot
+id:268|genre:Comedy,Drama,Romance|director:Kevin Smith|actors:Ethan Suplee,Ben Affleck,Scott Mosier,Jason Lee
+id:269|genre:Comedy,Drama|director:Peter Cattaneo|actors:Robert Carlyle,Mark Addy,William Snape,Steve Huison
+id:270|genre:Drama,Sci-Fi,Thriller|director:Andrew Niccol|actors:Ethan Hawke,Uma Thurman,Gore Vidal,Xander Berkeley
+id:271|genre:Action,Adventure,Sci-Fi|director:Paul Verhoeven|actors:Casper Van Dien,Dina Meyer,Denise Richards,Jake Busey
+id:272|genre:Drama|director:Gus Van Sant|actors:Matt Damon,Ben Affleck,Stellan Skarsgård,John Mighton
+id:273|genre:Action,Crime,Drama|director:Michael Mann|actors:Al Pacino,Robert De Niro,Val Kilmer,Jon Voight
+id:274|genre:Comedy,Drama,Romance|director:Billy Wilder|actors:Humphrey Bogart,Audrey Hepburn,William Holden,Walter Hampden
+id:275|genre:Drama,Romance|director:Ang Lee|actors:James Fleet,Tom Wilkinson,Harriet Walter,Kate Winslet
+id:276|genre:Drama,Romance|director:Mike Figgis|actors:Nicolas Cage,Elisabeth Shue,Julian Sands,Richard Lewis
+id:277|genre:Biography,Drama,History|director:Michael Hoffman|actors:Robert Downey Jr.,Sam Neill,David Thewlis,Polly Walker
+id:278|genre:Romance,Drama|director:Michael Goldenberg|actors:Christian Slater,Mary Stuart Masterson,Pamela Adlon,Josh Brolin
+id:279|genre:Drama,Romance|director:Tim Reid|actors:Al Freeman Jr.,Phylicia Rashad,Leon,Paula Kelly
+id:280|genre:Documentary,Biography,History|director:Alexander Berkel|actors:Osama bin Laden
+id:281|genre:Action,Adventure,Crime|director:Curtis Hanson|actors:Meryl Streep,Joseph Mazzello,Stephanie Sawyer,David Strathairn
+id:282|genre:Crime,Drama,Thriller|director:Joel Schumacher|actors:Matthew McConaughey,Sandra Bullock,Samuel L. Jackson,Kevin Spacey
+id:283|genre:Comedy,Drama,Romance|director:Douglas McGrath|actors:Gwyneth Paltrow,James Cosmo,Greta Scacchi,Alan Cumming
+id:284|genre:Comedy,Drama,Romance|director:Ron Shelton|actors:Kevin Costner,Rene Russo,Don Johnson,Cheech Marin
+id:285|genre:Short,Drama,Romance|director:Jeff Warden|actors:Bryan Fox,Lindsay Gareth,Casey Graf,Najarra Townsend
+id:286|genre:Drama,Romance,War|director:Anthony Minghella|actors:Ralph Fiennes,Juliette Binoche,Willem Dafoe,Kristin Scott Thomas
+id:287|genre:Drama|director:Jerry Zaks|actors:Meryl Streep,Leonardo DiCaprio,Diane Keaton,Robert De Niro
+id:288|genre:Horror,Mystery|director:Wes Craven|actors:Drew Barrymore,Roger Jackson,Kevin Patrick Walls,David Booth
+id:289|genre:Biography,Drama,History|director:Alan Parker|actors:Madonna,Antonio Banderas,Jonathan Pryce,Jimmy Nail
+id:290|genre:Comedy|director:Fred Schepisi,Robert Young|actors:John Cleese,Jamie Lee Curtis,Kevin Kline,Michael Palin
+id:291|genre:Action,Crime,Drama|director:Clint Eastwood|actors:Clint Eastwood,Gene Hackman,Ed Harris,Laura Linney
+id:292|genre:Action,Drama,History|director:John Singleton|actors:Jon Voight,Ving Rhames,Don Cheadle,Bruce McGill
+id:293|genre:Biography,Crime,Drama|director:Mike Newell|actors:Al Pacino,Johnny Depp,Michael Madsen,Bruno Kirby
+id:294|genre:Comedy,Fantasy|director:Tom Shadyac|actors:Jim Carrey,Maura Tierney,Justin Cooper,Cary Elwes
+id:295|genre:Action,Crime,Drama|director:Jonathan Mostow|actors:Kurt Russell,J.T. Walsh,Kathleen Quinlan,M.C. Gainey
+id:296|genre:Drama|director:Jean-Pierre Dardenne,Luc Dardenne|actors:Jérémie Renier,Olivier Gourmet,Assita Ouedraogo,Jean-Michel Balthazar
+id:297|genre:Drama|director:Victor Nunez|actors:Peter Fonda,Patricia Richardson,Christine Dunford,Tom Wood
+id:298|genre:Action,Crime,Sci-Fi|director:John Woo|actors:John Travolta,Nicolas Cage,Joan Allen,Alessandro Nivola
+id:299|genre:Crime,Drama|director:Bill Duke|actors:Laurence Fishburne,Tim Roth,Vanessa Williams,Andy Garcia
+id:300|genre:Action,Adventure,Drama|director:Wolfgang Petersen|actors:Harrison Ford,Gary Oldman,Glenn Close,Wendy Crewson
+id:301|genre:Adventure,Comedy,Family|director:Barry Sonnenfeld|actors:Tommy Lee Jones,Will Smith,Linda Fiorentino,Vincent D'Onofrio
+id:302|genre:Crime,Drama,Mystery|director:Curtis Hanson|actors:Kevin Spacey,Russell Crowe,Guy Pearce,James Cromwell
+id:303|genre:Drama|director:Victor Nunez|actors:Peter Fonda,Patricia Richardson,Christine Dunford,Tom Wood
+id:304|genre:Adventure,Drama,Family|director:Carroll Ballard|actors:Jeff Daniels,Anna Paquin,Dana Delany,Terry Kinney
+id:305|genre:Drama|director:Ang Lee|actors:Kevin Kline,Joan Allen,Sigourney Weaver,Henry Czerny
+id:306|genre:Comedy,Musical|director:Saul Swimmer|actors:Peter Noone,Karl Green,Keith Hopwood,Derek Leckenby
+id:307|genre:Drama,Mystery,Thriller|director:Taylor Hackford|actors:Keanu Reeves,Al Pacino,Charlize Theron,Jeffrey Jones
+id:308|genre:Drama,Family,Fantasy|director:Charles Sturridge|actors:Harvey Keitel,Jason Salkey,Peter O'Toole,Lara Morgan
+id:309|genre:Crime,Drama,Mystery|director:Jonas Pate,Josh Pate|actors:Tim Roth,Chris Penn,Michael Rooker,Renée Zellweger
+id:310|genre:Crime,Drama,Thriller|director:Francis Ford Coppola|actors:Matt Damon,Danny DeVito,Claire Danes,Jon Voight
+id:311|genre:Drama,Romance|director:Iain Softley|actors:Helena Bonham Carter,Linus Roache,Alex Jennings,Charlotte Rampling
+id:312|genre:Crime,Drama,Mystery|director:Clint Eastwood|actors:John Cusack,Kevin Spacey,Jack Thompson,Irma P. Hall
+id:313|genre:Drama,Romance|director:James Cameron|actors:Leonardo DiCaprio,Kate Winslet,Billy Zane,Kathy Bates
+id:314|genre:Action,Adventure,Comedy|director:Sean McNamara|actors:Hulk Hogan,Loni Anderson,Jim Varney,Mathew Botuchis
+id:315|genre:Crime,Drama,Thriller|director:Bryan Singer|actors:Brad Renfro,Ian McKellen,Joshua Jackson,Mickey Cottrell
+id:316|genre:Comedy,Drama,Romance|director:James L. Brooks|actors:Jack Nicholson,Helen Hunt,Greg Kinnear,Cuba Gooding Jr.
+id:317|genre:Biography,Drama|director:Jim Sheridan|actors:Alison Crosbie,Daniel Day-Lewis,Philip King,Emma Thompson
+id:318|genre:Biography,Drama,History|director:Steven Spielberg|actors:Liam Neeson,Ben Kingsley,Ralph Fiennes,Caroline Goodall
+id:319|genre:Comedy,Musical,Romance|director:Woody Allen|actors:Edward Norton,Drew Barrymore,Diva Gray,Ami Almendral
+id:320|genre:Documentary,Crime,Drama|director:Joe Berlinger,Bruce Sinofsky|actors:Tony Brooks,Diana Davis,Terry Wood,Dick Clay
+id:321|genre:Action,Crime,Drama|director:Joon-ho Bong|actors:Hye-ja Kim,Bin Won,Goo Jin,Je-mun Yun
+id:322|genre:Action,Crime,Drama|director:Dwight H. Little|actors:Wesley Snipes,Diane Lane,Daniel Benzali,Dennis Miller
+id:323|genre:Action,Adventure,Thriller|director:Roger Donaldson|actors:Pierce Brosnan,Linda Hamilton,Jamie Renée Smith,Jeremy Foley
+id:324|genre:Mystery,Thriller|director:David Lynch|actors:Bill Pullman,Patricia Arquette,John Roselius,Louis Eppolito
+id:325|genre:Crime,Drama,Thriller|director:Paul Haggis|actors:Karina Arroyave,Sandra Bullock,Dato Bakhtadze,Don Cheadle
+id:326|genre:Action,Drama,War|director:Ridley Scott|actors:Demi Moore,Viggo Mortensen,Anne Bancroft,Jason Beghe
+id:327|genre:Crime,Drama,Thriller|director:James Mangold|actors:Sylvester Stallone,Harvey Keitel,Ray Liotta,Robert De Niro
+id:328|genre:Action,Mystery,Thriller|director:Richard Donner|actors:Mel Gibson,Julia Roberts,Patrick Stewart,Cylk Cozart
+id:329|genre:Action,Crime,Drama|director:Barbet Schroeder|actors:Michael Keaton,Andy Garcia,Brian Cox,Marcia Gay Harden
+id:330|genre:Short,Crime|director:Hecht Amar|actors:Hecht Amar,Mattia Bianchi
+id:331|genre:Action,Adventure,Drama|director:Lee Tamahori|actors:Anthony Hopkins,Alec Baldwin,Elle Macpherson,Harold Perrineau
+id:332|genre:Crime,Drama,Mystery|director:Gary Fleder|actors:Morgan Freeman,Ashley Judd,Cary Elwes,Alex McArthur
+id:333|genre:Drama,Mystery,Thriller|director:David Fincher|actors:Michael Douglas,Sean Penn,Deborah Kara Unger,James Rebhorn
+id:334|genre:Crime,Drama,Thriller|director:Oliver Stone|actors:Sean Penn,Billy Bob Thornton,Abraham Benrubi,Richard Rutowski
+id:335|genre:Comedy|director:Lionel C. Martin|actors:Bill Bellamy,Natalie Desselle Reid,Lark Voorhies,Mari Morrow
+id:336|genre:Crime,Thriller,Drama|director:Andy Wilson|actors:David Duchovny,Timothy Hutton,Angelina Jolie,Michael Massee
+id:337|genre:Comedy,Drama|director:Mark Waters|actors:Parker Posey,Josh Hamilton,Tori Spelling,Freddie Prinze Jr.
+id:338|genre:Adventure,Comedy,Family|director:Mel Smith|actors:Rowan Atkinson,Peter MacNicol,John Mills,Pamela Reed
+id:339|genre:Crime,Drama,Thriller|director:Costa-Gavras|actors:John Travolta,Dustin Hoffman,Mia Kirshner,Alan Alda
+id:340|genre:Drama|director:Paul Thomas Anderson|actors:Luis Guzmán,Burt Reynolds,Julianne Moore,Rico Bueno
+id:341|genre:Comedy,Drama|director:Sidney Lumet|actors:James Spader,Kyra Sedgwick,Helen Mirren,Anne Bancroft
+id:342|genre:Action,Comedy,Crime|director:Jon Amiel|actors:Bill Murray,Peter Gallagher,Joanne Whalley,Alfred Molina
+id:343|genre:Documentary,Sci-Fi|director:Charles de Lauzirika|actors:Bill Badalato,Sylvain Despretz,Gary Dourdan,Brad Dourif
+id:344|genre:Drama|director:Robert Duvall|actors:Todd Allen,Paul Bagget,Lenore Banks,John Beasley
+id:345|genre:Comedy|director:Woody Allen|actors:Judy Davis,Julia Louis-Dreyfus,Stephanie Roth Haberle,Dan Frazer
+id:346|genre:Crime,Drama,Thriller|director:Quentin Tarantino|actors:Pam Grier,Samuel L. Jackson,Robert Forster,Bridget Fonda
+id:347|genre:Comedy,Drama|director:Barry Levinson|actors:Dustin Hoffman,Robert De Niro,Anne Heche,Denis Leary
+id:348|genre:Action,Crime,Drama|director:Barbet Schroeder|actors:Michael Keaton,Andy Garcia,Brian Cox,Marcia Gay Harden
+id:349|genre:Action,Crime,Drama|director:Mikael Salomon|actors:Morgan Freeman,Christian Slater,Randy Quaid,Minnie Driver
+id:350|genre:Action,Crime,Drama|director:Gregory Hoblit|actors:Denzel Washington,John Goodman,Donald Sutherland,Embeth Davidtz
+id:351|genre:Fantasy,Horror,Thriller|director:Greg Spence|actors:Christopher Walken,Russell Wong,Jennifer Beals,Brittany Murphy
+id:352|genre:Comedy,Family,Music|director:Bob Spiers|actors:Melanie Brown,Emma Bunton,Melanie C,Geri Horner
+id:353|genre:Action,Adventure,Horror|director:Stephen Sommers|actors:Treat Williams,Famke Janssen,Anthony Heald,Kevin J. O'Connor
+id:354|genre:Comedy,Music,Romance|director:Frank Coraci|actors:Adam Sandler,Drew Barrymore,Christine Taylor,Allen Covert
+id:355|genre:Drama,Horror,Mystery|director:Barry Levinson|actors:Dustin Hoffman,Sharon Stone,Samuel L. Jackson,Peter Coyote
+id:356|genre:Crime,Drama,Mystery|director:Joel Schumacher|actors:Susan Sarandon,Tommy Lee Jones,Mary-Louise Parker,Anthony LaPaglia
+id:357|genre:Drama|director:Milos Forman|actors:Michael Berryman,Peter Brocco,Dean R. Brooks,Alonzo Brown
+id:358|genre:Action,Horror|director:Mark A.Z. Dippé|actors:Michael Jai White,John Leguizamo,Martin Sheen,Theresa Randle
+id:359|genre:Action,Crime,Thriller|director:Christian Duguay|actors:Aidan Quinn,Donald Sutherland,Ben Kingsley,Claudia Ferri
+id:360|genre:Crime,Drama,Mystery|director:James Cox|actors:Kate Bosworth,Carrie Fisher,Val Kilmer,Kim Marriner
+id:361|genre:Crime,Thriller|director:John Badham|actors:Jason Patric,Irène Jacob,Thomas Lockyer,Ian Richardson
+id:362|genre:Action,Comedy,Crime|director:John Landis|actors:Walter Levine,Dan Aykroyd,Tom Davis,Frank Oz
+id:363|genre:Action,Crime,Thriller|director:Peter Hyams|actors:Jean-Claude Van Damme,Powers Boothe,Raymond J. Barry,Whittni Wright
+id:364|genre:Adventure,Comedy,Crime|director:Steve Oedekerk|actors:Jim Carrey,Ian McNeice,Simon Callow,Maynard Eziashi
+id:365|genre:Drama,Fantasy,Mystery|director:Victor Salva|actors:Mary Steenburgen,Sean Patrick Flanery,Lance Henriksen,Jeff Goldblum
+id:366|genre:Biography,Drama|director:John N. Smith|actors:Michelle Pfeiffer,George Dzundza,Courtney B. Vance,Robin Bartlett
+id:367|genre:Comedy,Romance|director:Amy Heckerling|actors:Alicia Silverstone,Stacey Dash,Brittany Murphy,Paul Rudd
+id:368|genre:Comedy|director:Jason Bloom|actors:William Atherton,Denise Dowse,Dara Tomanovich,Kevin West
+id:369|genre:Comedy,Horror,Sci-Fi|director:Jonathan King|actors:Nathan Meister,Peter Feeney,Danielle Mason,Tammy Davis
+id:370|genre:Drama,Horror,Romance|director:Stephen Frears|actors:Julia Roberts,John Malkovich,George Cole,Michael Gambon
+id:371|genre:Drama,Romance|director:Clint Eastwood|actors:Clint Eastwood,Meryl Streep,Annie Corley,Victor Slezak
+id:372|genre:Comedy,Drama|director:Christopher Ashley|actors:Steven Weber,Peter Jacobson,Tom Cayler,David Thornton
+id:373|genre:Action,Crime,Sci-Fi|director:Danny Cannon|actors:Sylvester Stallone,Armand Assante,Rob Schneider,Jürgen Prochnow
+id:374|genre:Action,Adventure,Family|director:Bryan Spicer|actors:Karan Ashley,Johnny Yong Bosch,Steve Cardenas,Jason David Frank
+id:375|genre:Drama|director:Paul Verhoeven|actors:Elizabeth Berkley,Kyle MacLachlan,Gina Gershon,Glenn Plummer
+id:376|genre:Comedy|director:Randall Miller|actors:Sinbad,Phil Hartman,Kim Greist,Kim Murphy
+id:377|genre:Biography,Comedy|director:Marcus H. Rosenmüller|actors:Sebastian Bezzel,Michael A. Grimm,Simon Schwarz,Antoine Monot Jr.
+id:378|genre:Comedy,Drama,Family|director:George Seaton|actors:Maureen O'Hara,John Payne,Edmund Gwenn,Gene Lockhart
+id:379|genre:Action,Fantasy,Horror|director:Ernest R. Dickerson|actors: Billy Zane,William Sadler,John Kassir 
+id:380|genre:Action,Adventure,Mystery|director:David Carson|actors:Patrick Stewart,Jonathan Frakes,Brent Spiner,LeVar Burton
+id:381|genre:Comedy,Drama,Romance|director:P.J. Hogan|actors:Sophie Lee,Roz Hammond,Toni Collette,Belinda Jarrett
+id:382|genre:Comedy,Music|director:Stephan Elliott|actors: Hugo Weaving,Guy Pearce,Terence Stamp
+id:383|genre:Comedy,Family,Fantasy|director:Brian Levant|actors:John Goodman,Elizabeth Perkins,Rick Moranis,Rosie O'Donnell
+id:384|genre:Comedy,Crime|director:Peter Segal|actors:Leslie Nielsen,Priscilla Presley,George Kennedy,O.J. Simpson
+id:385|genre:Action,Comedy,Thriller|director:James Cameron|actors:Arnold Schwarzenegger,Jamie Lee Curtis,Tom Arnold,Bill Paxton
+id:386|genre:Comedy,Fantasy|director:Barry Sonnenfeld|actors:Anjelica Huston,Raul Julia,Christopher Lloyd,Joan Cusack
+id:387|genre:Drama,Romance|director:Martin Scorsese|actors:Daniel Day-Lewis,Michelle Pfeiffer,Winona Ryder,Linda Faye Farkas
+id:388|genre:Action,Comedy,Crime|director:John Landis|actors:Eddie Murphy,Jon Tenney,Joey Travolta,Eugene Collier
+id:389|genre:Adventure,Drama,Family|director:Caroline Thompson|actors:Docs Keepin Time,Alan Cumming,Sean Bean,David Thewlis
+id:390|genre:Comedy,Music|director:Rusty Cundieff|actors:Mark Christopher Lawrence,Larry B. Scott,Rusty Cundieff,Kasi Lemmons
+id:391|genre:Action,Adventure,Comedy|director:John McTiernan|actors:Arnold Schwarzenegger,F. Murray Abraham,Art Carney,Charles Dance
+id:392|genre:Drama|director:Mel Gibson|actors:Mel Gibson,Nick Stahl,Margaret Whitton,Fay Masterson
+id:393|genre:Comedy,Drama,Family|director:Chris Columbus|actors:Robin Williams,Sally Field,Pierce Brosnan,Harvey Fierstein
+id:394|genre:Comedy,Crime,Drama|director:Mel Smith|actors:Brian Benben,Mary Stuart Masterson,Ned Beatty,George Burns
+id:395|genre:Adventure,Comedy,Musical|director:Mel Brooks|actors:Cary Elwes,Richard Lewis,Roger Rees,Amy Yasbeck
+id:396|genre:Comedy,Crime,Thriller|director:John Waters|actors:Kathleen Turner,Sam Waterston,Ricki Lake,Matthew Lillard
+id:397|genre:Action,Crime,Mystery|director:Rowdy Herrington|actors:Bruce Willis,Sarah Jessica Parker,Dennis Farina,Tom Sizemore
+id:398|genre:Adventure,Comedy,Family|director:Annabel Jankel,Rocky Morton|actors:Bob Hoskins,John Leguizamo,Dennis Hopper,Samantha Mathis
+id:399|genre:Action,Adventure,Romance|director:Paul W.S. Anderson|actors:Matthew Macfadyen,Milla Jovovich,Helen George,Christian Oliver
+id:400|genre:Comedy,Family,Romance|director:Penelope Spheeris|actors:Travis Tedford,Kevin Jamal Woods,Jordan Warkol,Zachary Mabry
+id:401|genre:Comedy|director:Betty Thomas|actors:Shelley Long,Gary Cole,Christine Taylor,Christopher Daniel Barnes
+id:402|genre:Drama,Fantasy,Romance|director:Jerry Zucker|actors:Patrick Swayze,Demi Moore,Whoopi Goldberg,Tony Goldwyn
+id:403|genre:Action,Adventure|director:Tim Burton|actors:Michael Keaton,Jack Nicholson,Kim Basinger,Robert Wuhl
+id:404|genre:Animation,Comedy,Family|director:Norman Ferguson,T. Hee,Wilfred Jackson,Jack Kinney,Hamilton Luske,Bill Roberts,Ben Sharpsteen|actors:Mel Blanc,Don Brodie,Walter Catlett,Marion Darlington
+id:405|genre:Action,Adventure,Thriller|director:Brian De Palma|actors:Tom Cruise,Jon Voight,Emmanuelle Béart,Henry Czerny
+id:406|genre:Fantasy,Horror|director:Tom Holland|actors:Robert John Burke,Lucinda Jenney,Bethany Joy Lenz,Time Winters
+id:407|genre:Comedy,Action|director:Rick Friedberg|actors:Leslie Nielsen,Nicollette Sheridan,Charles Durning,Marcia Gay Harden
+id:408|genre:Animation,Short,Comedy|director:Nick Park|actors:Peter Sallis,Anne Reid
+id:409|genre:Comedy,Drama,Fantasy|director:Francis Ford Coppola|actors:Robin Williams,Diane Lane,Brian Kerwin,Jennifer Lopez
+id:410|genre:Comedy,Sport|director:Bobby Farrelly,Peter Farrelly|actors:Woody Harrelson,Randy Quaid,Vanessa Angel,Bill Murray
+id:411|genre:Comedy,Romance,Sci-Fi|director:Tom Shadyac|actors:Eddie Murphy,Jada Pinkett Smith,James Coburn,Larry Miller
+id:412|genre:Comedy|director:Arlene Sanford|actors:Shelley Long,Gary Cole,Christopher Daniel Barnes,Christine Taylor
+id:413|genre:Comedy,Fantasy,Horror|director:Gilbert Adler|actors:Dennis Miller,Erika Eleniak,Angie Everhart
+id:414|genre:Comedy|director:Richard Benjamin|actors:Peter O'Toole,Mark Linn-Baker,Jessica Harper,Joseph Bologna
+id:415|genre:Family,Comedy,Western|director:Norman Tokar|actors:Bill Bixby,Susan Clark,Don Knotts,Tim Conway
+id:416|genre:Family,Drama,Adventure|director:Robert Stevenson|actors:Dorothy McGuire,Fess Parker,Jeff York,Chuck Connors
+id:417|genre:Adventure,Comedy,Drama|director:Nancy Meyers|actors:Lindsay Lohan,Dennis Quaid,Natasha Richardson,Elaine Hendrix
+id:418|genre:Drama,Family,Fantasy|director:Kenneth Branagh|actors:Cate Blanchett,Lily James,Richard Madden,Helena Bonham Carter
+id:419|genre:Comedy,Family,Fantasy|director:Robert Stevenson|actors:Julie Andrews,Dick Van Dyke,David Tomlinson,Glynis Johns
+id:420|genre:Adventure,Family,Fantasy|director:Tim Burton|actors:Johnny Depp,Mia Wasikowska,Helena Bonham Carter,Anne Hathaway
+id:421|genre:Drama,Romance|director:Baz Luhrmann|actors: Leonardo DiCaprio,Claire Danes,John Leguizamo
+id:422|genre:Animation,Adventure,Comedy|director:Tad Stones|actors:Val Bettin,Jim Cummings,Gilbert Gottfried,Linda Larkin
+id:423|genre:Family,Sci-Fi|director:Steven Spielberg|actors:Dee Wallace,Henry Thomas,Peter Coyote,Robert MacNaughton
+id:424|genre:Horror,Thriller|director:Greg Spence|actors:Naomi Watts,Jamie Renée Smith,Karen Black,Mark Salling
+id:425|genre:Comedy,Drama|director:Tim Robbins|actors:Tim Robbins,Giancarlo Esposito,Alan Rickman,Ray Wise
+id:426|genre:Animation,Action,Adventure|director:Nelson Shin|actors:Norman Alden,Jack Angel,Michael Bell,Gregg Berger
+id:427|genre:Crime,Drama|director:Robert Mulligan|actors:Gregory Peck,John Megna,Frank Overton,Rosemary Murphy
+id:428|genre:Comedy,Drama,Romance|director:Hal Ashby|actors:Ruth Gordon,Bud Cort,Vivian Pickles,Cyril Cusack
+id:429|genre:Drama,Sci-Fi,Thriller|director:Scott Derrickson|actors:Keanu Reeves,Jennifer Connelly,Kathy Bates,Jaden Smith
+id:430|genre:Comedy,Musical,War|director:Leo McCarey|actors:The Marx Brothers,Groucho Marx,Harpo Marx,Chico Marx
+id:431|genre:Action,Adventure,Fantasy|director:Russell Mulcahy|actors:Christopher Lambert,Roxanne Hart,Clancy Brown,Sean Connery
+id:432|genre:Animation,Family,Fantasy|director:James Algar,Samuel Armstrong,Ford Beebe Jr.,Norman Ferguson,David Hand,Jim Handley,T. Hee,Wilfred Jackson,Hamilton Luske,Bill Roberts,Paul Satterfield,Ben Sharpsteen|actors:Leopold Stokowski,Deems Taylor
+id:433|genre:Comedy|director:Michael Lehmann|actors:Winona Ryder,Christian Slater,Shannen Doherty,Lisanne Falk
+id:434|genre:Action,Adventure,Sci-Fi|director:Fred M. Wilcox|actors:Walter Pidgeon,Anne Francis,Leslie Nielsen,Warren Stevens
+id:435|genre:Biography,Crime,Drama|director:George Roy Hill|actors:Paul Newman,Robert Redford,Katharine Ross,Strother Martin
+id:436|genre:Comedy,Horror|director:John Landis|actors:Joe Belcher,David Naughton,Griffin Dunne,David Schofield
+id:437|genre:Horror|director:Tony Randel|actors:Stephen Macht,Shawn Weatherly,Megan Ward
+id:438|genre:Horror|director:Richard Fleischer|actors:Tony Roberts,Tess Harper,Robert Joy,Candy Clark
+id:439|genre:Horror|director:John Murlowski|actors:Ross Partridge,Julia Nickson,Lala Sloatman,David Naughton
+id:440|genre:Horror|director:Damiano Damiani|actors:James Olson,Burt Young,Rutanya Alda,Jack Magner
+id:441|genre:Drama,Horror,Mystery|director:Andrew Douglas|actors:Ryan Reynolds,Melissa George,Jesse James,Jimmy Bennett
+id:442|genre:Horror|director:Tom Berry|actors:Kim Coates,Dawna Wightman,Helen Hughes,David Stein
+id:443|genre:Drama,Horror,Mystery|director:Alfred Hitchcock|actors:Rod Taylor,Jessica Tandy,Suzanne Pleshette,Tippi Hedren
+id:444|genre:Horror,Sci-Fi,Thriller|director:Chuck Russell|actors:Kevin Dillon,Shawnee Smith,Donovan Leitch Jr.,Jeffrey DeMunn
+id:445|genre:Horror,Thriller|director:Robert Wise|actors:Boris Karloff,Bela Lugosi,Henry Daniell,Edith Atwater
+id:446|genre:Horror,Mystery,Thriller|director:Dan Curtis|actors:Karen Black,Oliver Reed,Burgess Meredith,Eileen Heckart
+id:447|genre:Horror|director:Brian De Palma|actors:Sissy Spacek,Piper Laurie,Amy Irving,William Katt
+id:448|genre:Horror|director:Richard Donner|actors:Gregory Peck,Lee Remick,David Warner,Billie Whitelaw
+id:449|genre:Adventure,Mystery,Sci-Fi|director:Robert Wise|actors:William Shatner,Leonard Nimoy,DeForest Kelley,James Doohan
+id:450|genre:Action,Adventure,Fantasy|director:William Shatner|actors:William Shatner,Leonard Nimoy,DeForest Kelley,James Doohan
+id:451|genre:Musical,Romance|director:Randal Kleiser|actors:John Travolta,Olivia Newton-John,Stockard Channing,Jeff Conaway
+id:452|genre:Adventure,Drama,Horror|director:Jeannot Szwarc|actors:Roy Scheider,Lorraine Gary,Murray Hamilton,Joseph Mascolo
+id:453|genre:Adventure,Horror,Thriller|director:Joe Alves|actors:Dennis Quaid,Bess Armstrong,Simon MacCorkindale,Louis Gossett Jr.
+id:454|genre:Drama|director:Anjelica Huston|actors:Jennifer Jason Leigh,Ron Eldard,Glenne Headly,Lyle Lovett
+id:455|genre:Action,Adventure,Comedy|director:Stanley Tong|actors:Jackie Chan,Jackson Lou,Annie Wu
+id:456|genre:Action,Comedy|director:Dennis Dugan|actors:Chris Farley,Nicollette Sheridan,Robin Shou,Nathaniel Parker
+id:457|genre:Adventure,Drama,Family|director:Sam Pillsbury|actors:Jason James Richter,August Schellenberg,Annie Corley,Vincent Berry
+id:458|genre:Biography,Drama,History|director:Oliver Stone|actors:Anthony Hopkins,Joan Allen,Powers Boothe,Ed Harris
+id:459|genre:Comedy|director:N/A|actors:Martin Billany
+id:460|genre:Drama,Thriller|director:Sean Penn|actors:Jack Nicholson,David Morse,Anjelica Huston,Robin Wright
+id:461|genre:Comedy,Drama|director:Wayne Wang,Paul Auster|actors:Giancarlo Esposito,José Zúñiga,Stephen Gevedon,Harvey Keitel
+id:462|genre:Drama,Romance|director:Alfonso Arau|actors:Marco Leonardi,Lumi Cavazos,Regina Torné,Mario Iván Martínez
+id:463|genre:Drama,Family,Fantasy|director:John Sayles|actors:Jeni Courtney,Pat Slowey,Dave Duffy,Declan Hannigan
+id:464|genre:Comedy,Drama,Romance|director:Louis Malle|actors:Phoebe Brand,Lynn Cohen,George Gaynes,Jerry Mayer
+id:465|genre:Adventure,Drama,Family|director:Jon Favreau|actors:Neel Sethi,Bill Murray,Ben Kingsley,Idris Elba
+id:466|genre:Crime,Drama,Thriller|director:John Dahl|actors:Nicolas Cage,Craig Reay,Vance Johnson,Robert Apel
+id:467|genre:Crime,Drama|director:Robert De Niro|actors:Robert De Niro,Chazz Palminteri,Lillo Brancato,Francis Capra
+id:468|genre:Biography,Drama,Sport|director:David Anspaugh|actors:Sean Astin,Jon Favreau,Ned Beatty,Greta Lind
+id:469|genre:Comedy,Drama|director:Robert Altman|actors:Andie MacDowell,Bruce Davison,Jack Lemmon,Zane Cassidy
+id:470|genre:Action,Biography,Drama|director:George P. Cosmatos,Kevin Jarre|actors:Kurt Russell,Val Kilmer,Sam Elliott,Bill Paxton
+id:471|genre:Action,Drama,Mystery|director:Edward Zwick|actors:Denzel Washington,Meg Ryan,Lou Diamond Phillips,Michael Moriarty
+id:472|genre:Action,Adventure,Fantasy|director:Rob Cohen|actors:Dennis Quaid,David Thew…stlethwaite,Dina Meyer
+id:473|genre:Animation,Adventure,Family|director:Henry Selick|actors:Simon Callow,Richard Dreyfuss,Jane Leeves,Joanna Lumley
+id:474|genre:Comedy|director:Stanley Kubrick|actors:Peter Sellers,George C. Scott,Sterling Hayden,Keenan Wynn
+id:475|genre:Drama|director:Danny Boyle|actors:Ewan McGregor,Ewen Bremner,Jonny Lee Miller,Kevin McKidd
+id:476|genre:Comedy|director:Hugh Wilson|actors:Goldie Hawn,Bette Midler,Diane Keaton,Maggie Smith
+id:477|genre:Comedy,Family,Fantasy|director:Danny DeVito|actors:Mara Wilson,Danny DeVito,Rhea Perlman,Embeth Davidtz
+id:478|genre:Comedy,Romance|director:George Cukor|actors:Cary Grant,Katharine Hepburn,James Stewart,Ruth Hussey
+id:479|genre:Mystery,Romance,Thriller|director:Alfred Hitchcock|actors:James Stewart,Kim Novak,Barbara Bel Geddes,Tom Helmore
+id:480|genre:Action,Adventure,Mystery|director:Alfred Hitchcock|actors:Cary Grant,Eva Marie Saint,James Mason,Jessie Royce Landis
+id:481|genre:Comedy,Drama,Romance|director:Billy Wilder|actors:Jack Lemmon,Shirley MacLaine,Fred MacMurray,Ray Walston
+id:482|genre:Comedy,Romance|director:Billy Wilder|actors:Marilyn Monroe,Tony Curtis,Jack Lemmon,George Raft
+id:483|genre:Drama,Romance,War|director:Michael Curtiz|actors:Humphrey Bogart,Ingrid Bergman,Paul Henreid,Claude Rains
+id:484|genre:Film-Noir,Mystery|director:John Huston|actors:Humphrey Bogart,Mary Astor,Gladys George,Peter Lorre
+id:485|genre:Drama,Family,Musical|director:George Cukor|actors:Audrey Hepburn,Rex Harrison,Stanley Holloway,Wilfrid Hyde-White
+id:486|genre:Comedy,Drama,Romance|director:Billy Wilder|actors:Humphrey Bogart,Audrey Hepburn,William Holden,Walter Hampden
+id:487|genre:Comedy,Romance|director:William Wyler|actors:Gregory Peck,Audrey Hepburn,Eddie Albert,Hartley Power
+id:488|genre:Drama|director:Ulli Lommel|actors:Victoria Ullmann
+id:489|genre:Drama,Film-Noir,Romance|director:Alfred Hitchcock|actors:Cary Grant,Ingrid Bergman,Claude Rains,Louis Calhern
+id:490|genre:Mystery,Romance,Thriller|director:Alfred Hitchcock|actors:Cary Grant,Grace Kelly,Jessie Royce Landis,John Williams
+id:491|genre:Action,Adventure,Romance|director:Michael Curtiz,William Keighley|actors:Errol Flynn,Olivia de Havilland,Basil Rathbone,Claude Rains
+id:492|genre:Drama|director:Elia Kazan|actors:Julie Harris,James Dean,Raymond Massey,Burl Ives
+id:493|genre:Comedy,Crime,Mystery|director:W.S. Van Dyke|actors:William Powell,Myrna Loy,Maureen O'Sullivan,Nat Pendleton
+id:494|genre:Comedy,Drama,Romance|director:Howard Hawks|actors:Cary Grant,Rosalind Russell,Ralph Bellamy,Gene Lockhart
+id:495|genre:Action,Adventure,Comedy|director:Frank Coraci|actors:Jackie Chan,Steve Coogan,Cécile De France,Robert Fyfe
+id:496|genre:Drama,Family,Fantasy|director:Frank Capra|actors:James Stewart,Donna Reed,Lionel Barrymore,Thomas Mitchell
+id:497|genre:Comedy,Family,Romance|director:Howard Hawks|actors:Katharine Hepburn,Cary Grant,Charles Ruggles,Walter Catlett
+id:498|genre:Adventure,Drama,Romance|director:John Huston|actors:Humphrey Bogart,Katharine Hepburn,Robert Morley,Peter Bull
+id:499|genre:Drama,Romance|director:Richard Brooks|actors:Elizabeth Taylor,Paul Newman,Burl Ives,Jack Carson
+id:500|genre:Adventure,Drama,Family|director:Carroll Ballard|actors:Jeff Daniels,Anna Paquin,Dana Delany,Terry Kinney
+id:501|genre:Animation,Drama,Family|director:Samuel Armstrong,Norman Ferguson,Wilfred Jackson,Jack Kinney,Bill Roberts,Ben Sharpsteen,John Elliotte|actors:James Baskett,Herman Bing,Billy Bletcher,Edward Brophy
+id:502|genre:Comedy|director:Woody Allen|actors:Woody Allen,Louise Lasser,Carlos Montalbán,Nati Abascal
+id:503|genre:Comedy,Drama|director:Michael Ritchie|actors:Robert Redford,Peter Boyle,Melvyn Douglas,Don Porter
+id:504|genre:Action,Biography,Crime|director:Arthur Penn|actors:Warren Beatty,Faye Dunaway,Michael J. Pollard,Gene Hackman
+id:505|genre:Crime,Film-Noir,Thriller|director:Alfred Hitchcock|actors:Ray Milland,Grace Kelly,Robert Cummings,John Williams
+id:506|genre:Drama|director:Nicholas Ray|actors:James Dean,Natalie Wood,Sal Mineo,Jim Backus
+id:507|genre:Drama|director:Elia Kazan|actors:Vivien Leigh,Marlon Brando,Kim Hunter,Karl Malden
+id:508|genre:Biography,Drama|director:Milos Forman|actors:Woody Harrelson,Courtney Love,Edward Norton,Brett Harrelson
+id:509|genre:Biography,Drama|director:Jim Sheridan|actors:Daniel Day-Lewis,Brenda Fricker,Alison Whelan,Kirsten Sheridan
+id:510|genre:Action,Adventure,Western|director:Antoine Fuqua|actors:Denzel Washington,Chris Pratt,Ethan Hawke,Vincent D'Onofrio
+id:511|genre:Adventure,Biography,Drama|director:David Lean|actors:Peter O'Toole,Alec Guinness,Anthony Quinn,Jack Hawkins
+id:512|genre:Drama,Fantasy,Romance|director:Wim Wenders|actors:Bruno Ganz,Solveig Dommartin,Otto Sander,Curt Bois
+id:513|genre:Film-Noir,Mystery,Thriller|director:Carol Reed|actors:Joseph Cotten,Alida Valli,Orson Welles,Trevor Howard
+id:514|genre:Comedy,Romance|director:Woody Allen|actors:Woody Allen,Diane Keaton,Tony Roberts,Carol Kane
+id:515|genre:Adventure,Drama,Thriller|director:Wolfgang Petersen|actors:Jürgen Prochnow,Herbert Grönemeyer,Klaus Wennemann,Hubertus Bengsch
+id:516|genre:Comedy,Drama|director:Bill Forsyth|actors:Burt Lancaster,Peter Riegert,Fulton Mackay,Denis Lawson
+id:517|genre:Comedy,Drama,Romance|director:Woody Allen|actors:Woody Allen,Diane Keaton,Michael Murphy,Mariel Hemingway
+id:518|genre:Crime,Drama,Thriller|director:Joel Coen,Ethan Coen|actors:Gabriel Byrne,Marcia Gay Harden,John Turturro,Jon Polito
+id:519|genre:Adventure,Drama,Western|director:John Huston|actors:Humphrey Bogart,Walter Huston,Tim Holt,Bruce Bennett
+id:520|genre:Adventure,Drama,History|director:John Sturges|actors:Steve McQueen,James Garner,Richard Attenborough,James Donald
+id:521|genre:Drama,War|director:Michael Cimino|actors:Robert De Niro,John Cazale,John Savage,Christopher Walken
+id:522|genre:Comedy,Crime,Drama|director:Jim Jarmusch|actors:Tom Waits,John Lurie,Roberto Benigni,Nicoletta Braschi
+id:523|genre:Crime,Drama|director:Stuart Rosenberg|actors:Paul Newman,George Kennedy,J.D. Cannon,Lou Antonio
+id:524|genre:Comedy,Drama,War|director:Charles Chaplin|actors:Charles Chaplin,Jack Oakie,Reginald Gardiner,Henry Daniell
+id:525|genre:Crime,Film-Noir,Mystery|director:Howard Hawks|actors:Humphrey Bogart,Lauren Bacall,John Ridgely,Martha Vickers
+id:526|genre:Adventure,Drama,History|director:William Wyler|actors:Charlton Heston,Jack Hawkins,Haya Harareet,Stephen Boyd
+id:527|genre:Biography,Drama,History|director:Richard Attenborough|actors:Ben Kingsley,Candice Bergen,Edward Fox,John Gielgud
+id:528|genre:Biography,Drama,History|director:Roland Joffé|actors:Sam Waterston,Haing S. Ngor,John Malkovich,Julian Sands
+id:529|genre:Drama,Comedy|director:Lasse Hallström|actors:Anton Glanzelius,Tomas von Brömssen,Anki Lidén,Melinda Kinnaman
+id:530|genre:Adventure|director:John Huston|actors:Sean Connery,Michael Caine,Christopher Plummer,Saeed Jaffrey
+id:531|genre:Biography,Drama,Music|director:Scott Hicks|actors:Geoffrey Rush,Justin Braine,Sonia Todd,Chris Haywood
+id:532|genre:Crime,Drama,History|director:Mira Nair|actors:Indira Varma,Sarita Choudhury,Ramon Tikaram,Naveen Andrews
+id:533|genre:Comedy,Drama|director:Greg Mottola|actors:Stanley Tucci,Hope Davis,Pat McNamara,Anne Meara
+id:534|genre:Crime,Drama,Romance|director:Jack N. Green|actors:Bill Paxton,Mark Wahlberg,Julianna Margulies,James Gammon
+id:535|genre:Comedy,Romance|director:Griffin Dunne|actors:Meg Ryan,Matthew Broderick,Kelly Preston,Tchéky Karyo
+id:536|genre:Drama|director:Jacques Doillon|actors:Victoire Thivisol,Delphine Schiltz,Matiaz Bureau Caton,Léopoldine Serre
+id:537|genre:Drama|director:Gus Van Sant|actors:River Phoenix,Keanu Reeves,James Russo,William Richert
+id:538|genre:Animation,Adventure,Drama|director:Don Bluth,Gary Goldman|actors:Meg Ryan,John Cusack,Kelsey Grammer,Christopher Lloyd
+id:539|genre:Comedy,Family|director:Gore Verbinski|actors:Nathan Lane,Lee Evans,Vicki Lewis
+id:540|genre:Action,Comedy,Crime|director:Joseph Ruben|actors:Wesley Snipes,Woody Harrelson,Jennifer Lopez,Robert Blake
+id:541|genre:Action,Adventure,Fantasy|director:Paul W.S. Anderson|actors:Christopher Lambert,Robin Shou,Linden Ashby,Cary-Hiroyuki Tagawa
+id:542|genre:Animation,Adventure,Drama|director:Mike Gabriel,Eric Goldberg|actors:Joe Baker,Christian Bale,Irene Bedard,Billy Connolly
+id:543|genre:Drama,History|director:Claude Lelouch|actors:Jean-Paul Belmondo,Michel Boujenah,Alessandra Martines 
+id:544|genre:Crime,Drama|director:Gary Fleder|actors:Andy Garcia,Christopher Lloyd,William Forsythe,Bill Nunn
+id:545|genre:Comedy,Fantasy,Horror|director:Wes Craven|actors:Eddie Murphy,Angela Bassett,Allen Payne,Kadeem Hardison
+id:546|genre:Action,Crime,Thriller|director:John Woo|actors:John Travolta,Christian Slater,Samantha Mathis,Delroy Lindo
+id:547|genre:Crime,Drama|director:Benjamin Ross|actors:Tobias Arnold,Ruth Sheen,Roger Lloyd Pack,Hugh O'Conor
+id:548|genre:Adventure,Comedy,Family|director:Peter MacDonald|actors:Jason James Richter,Melody Kay,Jack Black,Carole Finn
+id:549|genre:Adventure,Biography,History|director:Michael Caton-Jones|actors:Liam Neeson,Jessica Lange,John Hurt,Tim Roth
+id:550|genre:Documentary|director:Thomas C. Grane|actors:N/A
+id:551|genre:Horror,Mystery,Thriller|director:Clive Barker|actors:Scott Bakula,Kevin J. O'Connor,Joseph Latimore,Sheila Tousey
+id:552|genre:Action,Horror,Sci-Fi|director:Roger Donaldson|actors:Ben Kingsley,Michael Madsen,Alfred Molina,Forest Whitaker
+id:553|genre:Drama,Romance|director:Alfonso Arau|actors:Keanu Reeves,Aitana Sánchez-Gijón,Anthony Quinn,Giancarlo Giannini
+id:554|genre:Action,Adventure,Sci-Fi|director:Kevin Reynolds|actors:Kevin Costner,Chaim Jeraffi,Rick Aviles,R.D. Call
+id:555|genre:Drama,Thriller|director:Desmond Nakano|actors:John Travolta,Harry Belafonte,Kelly Lynch,Margaret Avery
+id:556|genre:Drama|director:Dexter Fletcher|actors:Charlie Creed-Miles,Will Poulter,Sammy Williams,Iwan Rheon
+id:557|genre:Biography,Drama,Music|director:Gérard Corbiau|actors:Stefano Dionisi,Enrico Lo Verso,Elsa Zylberstein
+id:558|genre:Biography,Crime,Drama|director:Peter Jackson|actors:Melanie Lynskey,Kate Winslet,Sarah Peirse,Diana Kent
+id:559|genre:Drama,Horror|director:Neil Jordan|actors:Brad Pitt,Christian Slater,Virginia McCollam,John McConnell
+id:560|genre:Adventure,Comedy,Family|director:Michael Gottlieb|actors:Thomas Ian Nicholas,Joss Ackland,Art Malik,Paloma Baeza
+id:561|genre:Drama,Horror,Romance|director:Kenneth Branagh|actors:Robert De Niro,Kenneth Branagh,Tom Hulce,Helena Bonham Carter
+id:562|genre:Action,Romance,Thriller|director:Sam Raimi|actors:Sharon Stone,Gene Hackman,Russell Crowe,Leonardo DiCaprio
+id:563|genre:Horror,Mystery,Sci-Fi|director:unknown|actors:Patricia Wettig,Dean Stockwell,Tom Holland
+id:564|genre:Crime,Horror,Thriller|director:Rusty Cundieff|actors:Clarence Williams III,Joe Torry,De'aundre Bonds,Samuel Monroe Jr.
+id:565|genre:Horror,Sci-Fi,Thriller|director:John Carpenter|actors:Christopher Reeve,Kirstie Alley,Linda Kozlowski,Michael Paré
+id:566|genre:Action,Crime,Drama|director:Phillip Noyce|actors:Harrison Ford,Willem Dafoe,Anne Archer,Joaquim de Almeida
+id:567|genre:Fantasy,Horror,Mystery|director:Wes Craven|actors:Heather Langenkamp,Robert Englund,Jeff Davis 
+id:568|genre:Action,Adventure,Crime|director:Jan de Bont|actors:Keanu Reeves,Dennis Hopper,Sandra Bullock,Joe Morton
+id:569|genre:Drama,Horror,Romance|director:Mike Nichols|actors:Jack Nicholson,Michelle Pfeiffer,James Spader,Kate Nelligan
+id:570|genre:Adventure,Biography,Crime|director:Lawrence Kasdan|actors:Kevin Costner,Dennis Quaid,Gene Hackman,David Andrews
+id:571|genre:Action,Comedy,Crime|director:John Badham|actors:Richard Dreyfuss,Emilio Estevez,Rosie O'Donnell,Dennis Farina
+id:572|genre:Action,Crime,Drama|director:Stephen Hopkins|actors:Jeff Bridges,Tommy Lee Jones,Suzy Amis,Lloyd Bridges
+id:573|genre:Horror,Sci-Fi|director:Abel Ferrara|actors:Terry Kinney,Meg Tilly,Gabrielle Anwar,Reilly Murphy
+id:574|genre:Drama,Mystery,Romance|director:Jennifer Lynch|actors:Julian Sands,Sherilyn Fenn,Bill Paxton,Kurtwood Smith
+id:575|genre:Comedy,Western|director:Paul Weiland|actors:Billy Crystal,Daniel Stern,Jon Lovitz,Jack Palance
+id:576|genre:Action,Adventure,Thriller|director:Renny Harlin|actors:Sylvester Stallone,John Lithgow,Michael Rooker,Janine Turner
+id:577|genre:Comedy,Sci-Fi|director:Steve Barron|actors:Robert Knott,Jonathan Penner,Whip Hubley,Dan Aykroyd
+id:578|genre:Action,Crime,Sci-Fi|director:Marco Brambilla|actors:Sylvester Stallone,Wesley Snipes,Sandra Bullock,Nigel Hawthorne
+id:579|genre:Comedy,Crime,Thriller|director:Carl Reiner|actors:Armand Assante,Sherilyn Fenn,Kate Nelligan,Sean Young
+id:580|genre:Comedy,Drama|director:Christopher Monger|actors: Hugh Grant,Tara Fitzgerald,Colm Meaney 
+id:581|genre:Crime,Drama,Thriller|director:Dominic Sena|actors:Brad Pitt,Kathy Larson,David Milford,David Duchovny
+id:582|genre:Drama,Music,Romance|director:Jane Campion|actors:Holly Hunter,Harvey Keitel,Sam Neill,Anna Paquin
+id:583|genre:Action,Crime,Drama|director:Peter Medak|actors:Gary Oldman,Wallace Wood,Juliette Lewis,David Proval
+id:584|genre:Drama,Family,Fantasy|director:Agnieszka Holland|actors:Kate Maberly,Heydon Prowse,Andrew Knott,Maggie Smith
+id:585|genre:Comedy,Drama,Romance|director:Steve Rash|actors:Pauly Shore,Carla Gugino,Lane Smith,Cindy Pickett
+id:586|genre:Action,Comedy,Mystery|director:Deran Sarafian|actors:Charlie Sheen,Nastassja Kinski,James Gandolfini,Christopher McDonald
+id:587|genre:Crime,Drama,History|director:Leslie Megahey|actors:Colin Firth,Amina Annabi,Jim Carter
+id:588|genre:Animation,Family,Fantasy|director:Gary Trousdale,Kirk Wise|actors:Robby Benson,Jesse Corti,Rex Everhart,Angela Lansbury
+id:589|genre:Action,Adventure,Western|director:Sam Peckinpah|actors:William Holden,Ernest Borgnine,Robert Ryan,Edmond O'Brien
+id:590|genre:Horror,Sci-Fi|director:Kevin Yagher|actors:Bruce Ramsay,Valentina Vargas,Doug Bradley,Charlotte Chatton
+id:591|genre:Crime,Drama,Mystery|director:Gregory Hoblit|actors:Richard Gere,Laura Linney,John Mahoney,Alfre Woodard
+id:592|genre:Crime,Drama,Mystery|director:Clint Eastwood|actors:Clint Eastwood,Isaiah Washington,LisaGay Hamilton,James Woods
+id:593|genre:Drama,War|director:Joseph Vilsmaier|actors:Dominique Horwitz,Thomas Kretschmann,Jochen Nickel,Sebastian Rudolph
+id:594|genre:Drama,Romance|director:James Mangold|actors:Pruitt Taylor Vince,Shelley Winters,Liv Tyler,Debbie Harry
+id:595|genre:Action,Drama,Sport|director:Tony Scott|actors:Robert De Niro,Wesley Snipes,Ellen Barkin,John Leguizamo
+id:596|genre:Animation,Drama,Family|director:Gary Trousdale,Kirk Wise|actors:Jason Alexander,Mary Kay Bergman,Corey Burton,Jim Cummings
+id:597|genre:Action,Drama,Mystery|director:Chuck Russell|actors:Arnold Schwarzenegger,James Caan,Vanessa Williams,James Coburn
+id:598|genre:Drama|director:Marcus DeLeon|actors:Lara Flynn Boyle,Danny Nucci,Peter Dobson,Luca Bercovici
+id:599|genre:Action,Comedy,Crime|director:Stanley Tong|actors:Michelle Yeoh,Rongguang Yu,Emil Chau
+id:600|genre:Drama,Adventure|director:Rod Hardy,George Miller|actors:Pierce Brosnan,William Takaku,Polly Walker
+id:601|genre:Adventure,Drama,History|director:Sam Wood|actors:Gary Cooper,Ingrid Bergman,Akim Tamiroff,Arturo de Córdova
+id:602|genre:Drama,Musical,Romance|director:Vincente Minnelli|actors:Gene Kelly,Leslie Caron,Oscar Levant,Georges Guétary
+id:603|genre:Mystery,Thriller|director:Alfred Hitchcock|actors:James Stewart,Grace Kelly,Wendell Corey,Thelma Ritter
+id:604|genre:Comedy,Romance|director:Frank Capra|actors:Clark Gable,Claudette Colbert,Walter Connolly,Roscoe Karns
+id:605|genre:Comedy,Drama,Family|director:Vincente Minnelli|actors:Judy Garland,Margaret O'Brien,Mary Astor,Lucille Bremer
+id:606|genre:Drama|director:Joseph L. Mankiewicz|actors:Bette Davis,Anne Baxter,George Sanders,Celeste Holm
+id:607|genre:Drama,Mystery,Romance|director:Alfred Hitchcock|actors:Laurence Olivier,Joan Fontaine,George Sanders,Judith Anderson
+id:608|genre:Film-Noir,Mystery,Romance|director:Alfred Hitchcock|actors:Ingrid Bergman,Gregory Peck,Michael Chekhov,Leo G. Carroll
+id:609|genre:Comedy,Family,Romance|director:Charles Shyer|actors:Steve Martin,Diane Keaton,Kimberly Williams-Paisley,Kieran Culkin
+id:610|genre:Comedy,Musical,Romance|director:Vincente Minnelli|actors:Leslie Caron,Maurice Chevalier,Louis Jourdan,Hermione Gingold
+id:611|genre:Drama,Film-Noir,Mystery|director:Otto Preminger|actors:Gene Tierney,Dana Andrews,Clifton Webb,Vincent Price
+id:612|genre:Adventure,Drama,Fantasy|director:Frank Capra|actors:Ronald Colman,Jane Wyatt,Edward Everett Horton,John Howard
+id:613|genre:Comedy,Drama,Romance|director:Gregory La Cava|actors:William Powell,Carole Lombard,Alice Brady,Gail Patrick
+id:614|genre:Drama,Western|director:George Stevens|actors:Elizabeth Taylor,Rock Hudson,James Dean,Carroll Baker
+id:615|genre:Mystery,Thriller|director:Alfred Hitchcock|actors:Robert Donat,Madeleine Carroll,Lucie Mannheim,Godfrey Tearle
+id:616|genre:Horror|director:George A. Romero|actors:Duane Jones,Judith O'Dea,Karl Hardman,Marilyn Eastman
+id:617|genre:Drama,Music|director:Josef von Sternberg|actors:Emil Jannings,Marlene Dietrich,Kurt Gerron,Rosa Valetti
+id:618|genre:Drama,Romance|director:Joshua Logan|actors:William Holden,Kim Novak,Betty Field,Susan Strasberg
+id:619|genre:Crime,Drama,Mystery|director:Michael Apted|actors:Hugh Grant,Gene Hackman,Sarah Jessica Parker,David Morse
+id:620|genre:Crime,Drama|director:James Foley|actors:Chris O'Donnell,Gene Hackman,Faye Dunaway,Robert Prosky
+id:621|genre:Family,Western,Adventure|director:Norman Foster|actors:Fess Parker,Buddy Ebsen,Basil Ruysdael
+id:622|genre:Adventure,Family|director:Ken Annakin|actors:John Mills,Dorothy McGuire,James MacArthur,Janet Munro
+id:623|genre:Comedy,Family,Fantasy|director:William Dear|actors:Danny Glover,Brenda Fricker,Tony Danza,Christopher Lloyd
+id:624|genre:Animation,Comedy,Family|director:Norman Ferguson,Clyde Geronimi,Jack Kinney,Bill Roberts,Harold Young|actors:Aurora Miranda,Carmen Molina,Dora Luz,Sterling Holloway
+id:625|genre:Animation,Adventure,Comedy|director:Wolfgang Reitherman|actors:Sebastian Cabot,Karl Swenson,Rickie Sorensen,Junius Matthews
+id:626|genre:Animation,Drama,Family|director:Harold D. Schuster,Hamilton Luske|actors:Burl Ives,Beulah Bondi,Bobby Driscoll,Luana Patten
+id:627|genre:Action,Adventure,Drama|director:Kevin Reynolds|actors:Kevin Costner,Morgan Freeman,Mary Elizabeth Mastrantonio,Christian Slater
+id:628|genre:Crime,Drama,Thriller|director:Barry Levinson|actors:Kevin Bacon,Billy Crudup,Robert De Niro,Ron Eldard
+id:629|genre:Comedy,Musical|director:Matthew Diamond,Blake Edwards,Goro Kobayashi|actors:Julie Andrews,Tony Roberts,Michael Nouri,Rachel York
+id:630|genre:Action,Adventure,Comedy|director:Blake Edwards|actors:Jack Lemmon,Tony Curtis,Natalie Wood,Peter Falk
+id:631|genre:Crime,Drama,Romance|director:Neil Jordan|actors:Forest Whitaker,Miranda Richardson,Stephen Rea,Adrian Dunbar
+id:632|genre:Drama,Romance|director:Alan J. Pakula|actors:Meryl Streep,Kevin Kline,Peter MacNicol,Rita Karin
+id:633|genre:Animation,Drama,Family|director:Robert Zemeckis|actors:Jim Carrey,Steve Valentine,Daryl Sabara,Sage Ryan
+id:634|genre:Documentary|director:Claude Nuridsany,Marie Pérennou|actors:Kristin Scott Thomas,Jacques Perrin
+id:635|genre:Horror,Thriller|director:John Carpenter|actors:Adrienne Barbeau,Jamie Lee Curtis,Janet Leigh,John Houseman
+id:636|genre:Action,Sci-Fi|director:John Carpenter|actors:Kurt Russell,Lee Van Cleef,Ernest Borgnine,Donald Pleasence
+id:637|genre:Horror|director:Joe Dante|actors:Dee Wallace,Patrick Macnee,Dennis Dugan,Christopher Stone
+id:638|genre:Biography,Crime,Drama|director:Daniel Vigne|actors:Gérard Depardieu,Nathalie Baye,Maurice Barrier,Bernard-Pierre Donnadieu
+id:639|genre:Drama,War|director:Volker Schlöndorff|actors:Mario Adorf,Angela Winkler,David Bennent,Katharina Thalbach
+id:640|genre:Crime,Drama|director:Peter Greenaway|actors:Richard Bohringer,Michael Gambon,Helen Mirren,Alan Howard
+id:641|genre:Drama,War|director:Stanley Kubrick|actors:Kirk Douglas,Ralph Meeker,Adolphe Menjou,George Macready
+id:642|genre:Crime,Drama,Thriller|director:Stephen Frears|actors:Anjelica Huston,John Cusack,Annette Bening,Jan Munroe
+id:643|genre:Drama|director:John Schlesinger|actors:Anthony Hopkins,Isabella Rossellini,Campbell Scott,Ronald Nitschke
+id:644|genre:Documentary,Crime,Drama|director:Errol Morris|actors:Randall Adams,David Harris,Gus Rose,Jackie Johnson
+id:645|genre:Documentary|director:Jennie Livingston|actors:Brooke Xtravaganza,André Christian,Dorian Corey,Paris Duprée
+id:646|genre:Western|director:Sergio Leone|actors:Claudia Cardinale,Henry Fonda,Jason Robards,Charles Bronson
+id:647|genre:Action,Drama|director:Akira Kurosawa|actors:Tatsuya Nakadai,Akira Terao,Jinpachi Nezu,Daisuke Ryû
+id:648|genre:Comedy,Drama,Romance|director:John Ford|actors:John Wayne,Maureen O'Hara,Barry Fitzgerald,Ward Bond
+id:649|genre:Crime,Drama|director:Sergio Leone|actors:Robert De Niro,James Woods,Elizabeth McGovern,Joe Pesci
+id:650|genre:Drama,Fantasy|director:Ingmar Bergman|actors:Gunnar Björnstrand,Bengt Ekerot,Nils Poppe,Max von Sydow
+id:651|genre:Biography,Drama,History|director:Edward Zwick|actors:Matthew Broderick,Denzel Washington,Cary Elwes,Morgan Freeman
+id:652|genre:Comedy,Drama|director:Tom Stoppard|actors:Gary Oldman,Tim Roth,Richard Dreyfuss
+id:653|genre:Crime,Drama,Film-Noir|director:Orson Welles|actors:Charlton Heston,Janet Leigh,Orson Welles,Joseph Calleia
+id:654|genre:Drama,Mystery,Thriller|director:Roman Polanski|actors:Jack Nicholson,Faye Dunaway,John Huston,Perry Lopez
+id:655|genre:Adventure,Drama|director:Rob Reiner|actors:Wil Wheaton,River Phoenix,Corey Feldman,Jerry O'Connell
+id:656|genre:Crime,Drama,Mystery|director:Fritz Lang|actors:Peter Lorre,Ellen Widmann,Inge Landgut,Otto Wernicke
+id:657|genre:Drama,Mystery,Sci-Fi|director:Jonathan Demme|actors:Jeffrey Wright,Pablo Schreiber,Anthony Mackie,Dorian Missick
+id:658|genre:Comedy,Drama,Music|director:Allan Moyle|actors:Anthony Lucero,Andy Romano,Keith Stuart Thayer,Cheryl Pollak
+id:659|genre:Comedy,Crime,Thriller|director:Frank Capra|actors:Cary Grant,Priscilla Lane,Raymond Massey,Jack Carson
+id:660|genre:Drama|director:Jon Avnet|actors:Kathy Bates,Mary Stuart Masterson,Mary-Louise Parker,Jessica Tandy
+id:661|genre:Action,Drama,Thriller|director:Fred Zinnemann|actors:Gary Cooper,Thomas Mitchell,Lloyd Bridges,Katy Jurado
+id:662|genre:Drama,Fantasy,Romance|director:Jeannot Szwarc|actors:Christopher Reeve,Jane Seymour,Christopher Plummer,Teresa Wright
+id:663|genre:Comedy,Drama|director:Hal Ashby|actors:Peter Sellers,Shirley MacLaine,Melvyn Douglas,Jack Warden
+id:664|genre:Drama,Romance|director:Dariush Mehrjui|actors:Janet Avansiyan,Farhad Jam,Niki Karimi,Turan Mehrzad
+id:665|genre:Action,Horror,Sci-Fi|director:David Fincher|actors:Sigourney Weaver,Charles S. Dutton,Charles Dance,Paul McGann
+id:666|genre:Horror|director:Paul Morrissey|actors:Joe Dallesandro,Udo Kier,Vittorio De Sica,Maxime McKendry
+id:667|genre:Drama,Fantasy,Horror|director:Robert Wise|actors:Marsha Mason,Anthony Hopkins,John Beck,Susan Swift
+id:668|genre:Comedy,Horror,Sci-Fi|director:Jeffrey Bloom|actors:David Huffman,Marianna Hill,Burt Young,Otis Young
+id:669|genre:Horror,Thriller|director:Eric Red|actors:Jeff Fahey,Lindsay Duncan,Kim Delaney,Zakes Mokae
+id:670|genre:Horror,Sci-Fi|director:Abel Ferrara|actors:Terry Kinney,Meg Tilly,Gabrielle Anwar,Reilly Murphy
+id:671|genre:Drama,Horror,Sci-Fi|director:James Whale|actors:Boris Karloff,Colin Clive,Valerie Hobson,Ernest Thesiger
+id:672|genre:Horror,Thriller|director:Bernard Rose|actors:Virginia Madsen,Tony Todd,Xander Berkeley,Kasi Lemmons
+id:673|genre:Crime,Thriller|director:Martin Scorsese|actors:Robert De Niro,Nick Nolte,Jessica Lange,Juliette Lewis
+id:674|genre:Fantasy,Horror,Thriller|director:Paul Schrader|actors:Nastassja Kinski,Malcolm McDowell,John Heard,Annette O'Toole
+id:675|genre:Fantasy,Horror|director:F.W. Murnau|actors:Max Schreck,Gustav von Wangenheim,Greta Schröder,Georg H. Schnell
+id:676|genre:Drama,History|director:Nicholas Hytner|actors:Daniel Day-Lewis,Winona Ryder,Paul Scofield,Joan Allen
+id:677|genre:Drama|director:Donald Wrye|actors:Buddy Ebsen,Ron Howard,Julie Carmen,Rossie Harris
+id:678|genre:Action,Drama,Sci-Fi|director:Mick Jackson|actors:Tommy Lee Jones,Anne Heche,Gaby Hoffmann,Don Cheadle
+id:679|genre:Adventure,Fantasy|director:John Milius|actors:Arnold Schwarzenegger,James Earl Jones,Max von Sydow,Sandahl Bergman
+id:680|genre:Fantasy,Action,Adventure|director:John Nicolella|actors:Kevin Sorbo,Tia Carrere,Thomas Ian Griffith,Litefoot
+id:681|genre:Fantasy,Horror|director:Robert Kurtzman|actors:Tammy Lauren,Andrew Divoff,Robert Englund,Chris Lemmon
+id:682|genre:Horror,Mystery,Thriller|director:Jim Gillespie|actors:Jennifer Love Hewitt,Sarah Michelle Gellar,Ryan Phillippe,Freddie Prinze Jr.
+id:683|genre:Drama|director:N/A|actors:Robson Green,Charles Dale,John Rhys Halliwell,Kai Owen
+id:684|genre:Action,Crime,Drama|director:Wolfgang Petersen|actors:Clint Eastwood,John Malkovich,Rene Russo,Dylan McDermott
+id:685|genre:Action,Adventure,Thriller|director:Stuart Baird|actors:Kurt Russell,Steven Seagal,Halle Berry,John Leguizamo
+id:686|genre:Crime,Drama,Thriller|director:Clint Eastwood|actors:Kevin Costner,Clint Eastwood,Laura Dern,T.J. Lowther
+id:687|genre:Action,Comedy|director:Bryan Spicer|actors:Tom Arnold,Dean Stockwell,Debra Messing,David Alan Grier
+id:688|genre:Comedy,Family|director:N/A|actors:Barbara Billingsley,Jerry Mathers,Hugh Beaumont,Tony Dow
+id:689|genre:Action,Crime,Drama|director:Michael Caton-Jones|actors:Bruce Willis,Richard Gere,Sidney Poitier,Diane Venora
+id:690|genre:Adventure,Biography,Drama|director:Jean-Jacques Annaud|actors:Brad Pitt,David Thewlis,BD Wong,Mako
+id:691|genre:Mystery,Sci-Fi,Thriller|director:Alex Proyas|actors:Rufus Sewell,William Hurt,Kiefer Sutherland,Jennifer Connelly
+id:692|genre:Comedy,Drama,Romance|director:Rob Reiner|actors:Michael Douglas,Annette Bening,Martin Sheen,Michael J. Fox
+id:693|genre:Crime,Drama|director:Martin Scorsese|actors:Robert De Niro,Sharon Stone,Joe Pesci,James Woods
+id:694|genre:Drama,Romance|director:Adrian Shergold|actors:Sally Hawkins,Alice Krige,Anthony Head,Julia Davis
+id:695|genre:Comedy,Drama,Romance|director:Noah Baumbach|actors:Josh Hamilton,Samuel Gould,Catherine Kellner,Jonathan Baumbach
+id:696|genre:Drama|director:Harold Becker|actors:Al Pacino,John Cusack,Bridget Fonda,Danny Aiello
+id:697|genre:Biography,Crime,Drama|director:Scott Kalvert|actors:Leonardo DiCaprio,Lorraine Bracco,Marilyn Sokol,James Madio
+id:698|genre:Drama|director:Anthony Asquith|actors:Michael Redgrave,Jean Kent,Nigel Patrick,Wilfrid Hyde-White
+id:699|genre:Drama,Family,Romance|director:Gillian Armstrong|actors:Winona Ryder,Gabriel Byrne,Trini Alvarado,Samantha Mathis
+id:700|genre:Comedy|director:David Frankel|actors:Sarah Jessica Parker,Gil Bellows,Antonio Banderas,Mia Farrow
+id:701|genre:Documentary,Biography,History|director:Ray Müller|actors:Leni Riefenstahl,Marlene Dietrich,Walter Frentz
+id:702|genre:Comedy,Drama,Romance|director:Whit Stillman|actors:Taylor Nichols,Chris Eigeman,Tushka Bergen,Mira Sorvino
+id:703|genre:Comedy,Crime,Mystery|director:John Irvin|actors:Mia Farrow,Joan Plowright,Natasha Richardson,Adrian Dunbar
+id:704|genre:Drama,Romance|director:Bille August|actors:Maria Conchita Alonso,António Assunção,Julie Balloo,Frank Baker
+id:705|genre:Comedy,Musical,Romance|director:Stanley Donen,Gene Kelly|actors:Gene Kelly,Donald O'Connor,Debbie Reynolds,Jean Hagen
+id:706|genre:Horror|director:Eric Red|actors:Mariel Hemingway,Michael Paré,Mason Gamble,Ken Pogue
+id:707|genre:Drama|director:Mike Newell|actors:Josie Lawrence,Miranda Richardson,Alfred Molina,Neville Phillips
+id:708|genre:Drama,Romance|director:Mani Ratnam|actors:Shah Rukh Khan,Manisha Koirala,Preity Zinta,Raghuvir Yadav
+id:709|genre:Comedy,Drama,Romance|director:Baz Luhrmann|actors:Paul Mercurio,Tara Morice,Bill Hunter,Pat Thomson
+id:710|genre:Comedy,Romance|director:Savage Steve Holland|actors:John Cusack,David Ogden Stiers,Kim Darby,Demian Slade
+id:711|genre:Drama|director:Daniel J. Sullivan|actors:Tony Goldwyn,Benjamin Ungar,Timothy Hutton,Tom McDermott
+id:712|genre:Comedy,Drama|director:Barry Levinson|actors:Richard Dreyfuss,Danny DeVito,Barbara Hershey,John Mahoney
+id:713|genre:Drama,Romance|director:Oliver Parker|actors:Laurence Fishburne,Irène Jacob,Kenneth Branagh,Nathaniel Parker
+id:714|genre:Biography,Drama,Romance|director:Christopher Hampton|actors:Emma Thompson,Jonathan Pryce,Steven Waddington,Samuel West
+id:715|genre:Comedy,Crime,Drama|director:Gus Van Sant|actors:Nicole Kidman,Matt Dillon,Joaquin Phoenix,Casey Affleck
+id:716|genre:Comedy,Drama,Romance|director:Jodie Foster|actors:Holly Hunter,Robert Downey Jr.,Anne Bancroft,Charles Durning
+id:717|genre:Drama,Thriller|director:Brian Gibson|actors:Demi Moore,Alec Baldwin,Joseph Gordon-Levitt,James Gandolfini
+id:718|genre:Documentary,Short|director:Davide Abbatescianni|actors:Hanna Allsaar,Jan-Erik Aruvald,Inna Hallik,Marta Hang
+id:719|genre:Comedy|director:Michael Moore|actors:John Candy,Alan Alda,Rhea Perlman,Kevin Pollak
+id:720|genre:Action,Adventure,Romance|director:Jerry Zucker|actors:Sean Connery,Richard Gere,Julia Ormond,Ben Cross
+id:721|genre:Comedy,Romance|director:Kevin Smith|actors:Shannen Doherty,Jeremy London,Jason Lee,Claire Forlani
+id:722|genre:Comedy,Romance|director:Chris Columbus|actors:Hugh Grant,Julianne Moore,Tom Arnold,Joan Cusack
+id:723|genre:Comedy,Drama|director:Herbert Ross|actors:Whoopi Goldberg,Mary-Louise Parker,Drew Barrymore,Matthew McConaughey
+id:724|genre:Drama,Romance|director:Pat O'Connor|actors:Chris O'Donnell,Minnie Driver,Geraldine O'Rawe,Saffron Burrows
+id:725|genre:Comedy,Crime,Romance|director:Garry Marshall|actors:Dana Delany,Paul Mercurio,Rosie O'Donnell,Dan Aykroyd
+id:726|genre:Drama,Family,Fantasy|director:Carlo Carlei|actors:Samuel L. Jackson,Matthew Modine,Nancy Travis,Eric Stoltz
+id:727|genre:Biography,Drama,Music|director:Bernard Rose|actors:Gary Oldman,Jeroen Krabbé,Isabella Rossellini,Johanna ter Steege
+id:728|genre:Comedy,Romance,Sci-Fi|director:Ivan Reitman|actors:Arnold Schwarzenegger,Danny DeVito,Emma Thompson,Frank Langella
+id:729|genre:Drama|director:Michael Apted|actors:Jodie Foster,Liam Neeson,Natasha Richardson,Richard Libertini
+id:730|genre:Biography,Crime,Drama|director:Patrice Chéreau|actors:Isabelle Adjani,Daniel Auteuil,Jean-Hugues Anglade,Vincent Perez
+id:731|genre:Comedy,Drama,Romance|director:Jessie Nelson|actors:Ray Liotta,Whoopi Goldberg,Tina Majorino
+id:732|genre:Comedy,Romance|director:Ivan Reitman|actors:Kevin Kline,Sigourney Weaver,Frank Langella,Kevin Dunn
+id:733|genre:Drama,Romance|director:Rose Troche|actors:V.S. Brodie,Guinevere Turner,T. Wendy McMillan,Migdalia Melendez
+id:734|genre:Comedy|director:Richard Benjamin|actors:Whoopi Goldberg,Ted Danson,Will Smith,Nia Long
+id:735|genre:Drama|director:Jonathan Demme|actors:Tom Hanks,Denzel Washington,Roberta Maxwell,Buzz Kilman
+id:736|genre:Biography,Drama,Romance|director:Richard Attenborough|actors:Julian Fellowes,Roddy Maude-Roxby,Michael Denison,Andrew Seear
+id:737|genre:Comedy,Drama,Romance|director:John Duigan|actors:Hugh Grant,Tara Fitzgerald,Sam Neill,Elle Macpherson
+id:738|genre:Comedy,Romance,Drama|director:Andrew Fleming|actors:Lara Flynn Boyle,Stephen Baldwin,Josh Charles,Alexis Arquette
+id:739|genre:Comedy,Romance|director:Garry Marshall|actors:Richard Gere,Julia Roberts,Ralph Bellamy,Jason Alexander
+id:740|genre:Drama,Romance|director:Cary Fukunaga|actors:Mia Wasikowska,Jamie Bell,Su Elliot,Holliday Grainger
+id:741|genre:Comedy,Crime,Drama|director:Stacy Title|actors:Cameron Diaz,Ron Eldard,Annabeth Gish,Jonathan Penner
+id:742|genre:Action,Crime,Thriller|director:Ron Howard|actors:Mel Gibson,Rene Russo,Brawley Nolte,Gary Sinise
+id:743|genre:Action,Fantasy,Thriller|director:Tim Pope|actors:Vincent Perez,Mia Kirshner,Richard Brooks,Iggy Pop
+id:744|genre:Biography,Drama,Thriller|director:Neil Jordan|actors:Ian Hart,Julia Roberts,Richard Ingram,Liam Neeson
+id:745|genre:Comedy,Drama,Musical|director:Peter Medak|actors:Hugh Owens,Harry Andrews,Arthur Lowe,William Mervyn
+id:746|genre:Comedy,Romance,Sci-Fi|director:Martha Coolidge|actors:Val Kilmer,Gabriel Jarret,Michelle Meyrink,William Atherton
+id:747|genre:Short|director:Brad MacPherson|actors:Nate Prochnau
+id:748|genre:Action,Adventure,Romance|director:Phillip Noyce|actors:Val Kilmer,Elisabeth Shue,Rade Serbedzija,Valeriy Nikolaev
+id:749|genre:Comedy,Romance|director:Mark Joffe|actors:Janeane Garofalo,David O'Hara,Milo O'Shea,Jay O. Sanders
+id:750|genre:Drama,History|director:Steven Spielberg|actors:Morgan Freeman,Nigel Hawthorne,Anthony Hopkins,Djimon Hounsou
+id:751|genre:Action,Adventure,Thriller|director:Roger Spottiswoode|actors:Pierce Brosnan,Jonathan Pryce,Michelle Yeoh,Teri Hatcher
+id:752|genre:Action,Crime,Thriller|director:Antoine Fuqua|actors:Yun-Fat Chow,Mira Sorvino,Michael Rooker,Kenneth Tsang
+id:753|genre:Drama,War|director:Nikita Mikhalkov|actors:Oleg Menshikov,Nikita Mikhalkov,Ingeborga Dapkunaite,Nadezhda Mikhalkova
+id:754|genre:Crime,Drama,Thriller|director:Jon Avnet|actors:Richard Gere,Bai Ling,Bradley Whitford,Byron Mann
+id:755|genre:Action,Adventure,Family|director:Joe Johnston|actors:Robin Williams,Jonathan Hyde,Kirsten Dunst,Bradley Pierce
+id:756|genre:Comedy,Family,Romance|director:Charles Shyer|actors:Steve Martin,Diane Keaton,Martin Short,Kimberly Williams-Paisley
+id:757|genre:Adventure,Drama,Family|director:Stephen Low|actors:Peter Reznick,John McDonough,Avi Hoffman,Victor Steinbach
+id:758|genre:Action,Sci-Fi,Thriller|director:Farhad Mann|actors:Patrick Bergin,Matt Frewer,Austin O'Brien,Ely Pouget
+id:759|genre:Biography,Drama,Thriller|director:Doug Liman|actors:Naomi Watts,Sonya Davison,Vanessa Chong,Anand Tiwari
+id:760|genre:Sci-Fi,Thriller|director:Christian Duguay|actors:Peter Weller,Roy Dupuis,Jennifer Rubin,Andrew Lauer
+id:761|genre:Action,Crime,Drama|director:John Badham|actors:Johnny Depp,Courtney Chase,Charles S. Dutton,Christopher Walken
+id:762|genre:Comedy,Drama,Romance|director:Ted Demme|actors:Matt Dillon,Noah Emmerich,Annabeth Gish,Lauren Holly
+id:763|genre:Comedy,Sport|director:Dennis Dugan|actors:Adam Sandler,Christopher McDonald,Julie Bowen,Frances Bay
+id:764|genre:Comedy,Romance|director:Eric Schaeffer|actors:Sarah Jessica Parker,Eric Schaeffer,Ben Stiller,Elle Macpherson
+id:765|genre:Comedy,Drama,Romance|director:Reginald Hudlin|actors:Eddie Murphy,Robin Givens,Halle Berry,David Alan Grier
+id:766|genre:Comedy,Drama,Romance|director:Barry Levinson|actors:Robin Williams,Christopher Walken,Laura Linney,Lewis Black
+id:767|genre:Horror|director:Abel Ferrara|actors:Lili Taylor,Christopher Walken,Annabella Sciorra,Edie Falco
+id:768|genre:Comedy,Family,Fantasy|director:Brad Silberling|actors:Chauncey Leopardi,Spencer Vrooman,Malachi Pearson,Cathy Moriarty
+id:769|genre:Action,Adventure,Mystery|director:Frank Marshall|actors:Laura Linney,Dylan Walsh,Ernie Hudson,Tim Curry
+id:770|genre:Crime,Drama,Mystery|director:Carl Franklin|actors:Denzel Washington,Tom Sizemore,Jennifer Beals,Don Cheadle
+id:771|genre:Action,Crime,Sci-Fi|director:Robert Longo|actors:Keanu Reeves,Dina Meyer,Ice-T,Takeshi Kitano
+id:772|genre:Drama|director:Larry Clark|actors:Leo Fitzpatrick,Sarah Henderson,Justin Pierce,Joseph Chan
+id:773|genre:Horror,Thriller|director:Anthony Waller|actors:Marina Zudina,Fay Ripley,Evan Richards,Oleg Yankovskiy
+id:774|genre:Action,Crime,Drama|director:Gregory Widen|actors:Christopher Walken,Elias Koteas,Virginia Madsen,Eric Stoltz
+id:775|genre:Comedy,Drama,Romance|director:Lasse Hallström|actors:Julia Roberts,Dennis Quaid,Robert Duvall,Gena Rowlands
+id:776|genre:Drama,Fantasy|director:Martha Coolidge|actors:Patrick Swayze,Mary Elizabeth Mastrantonio,Joseph Mazzello,Seth Mumy
+id:777|genre:Drama,Horror,Mystery|director:Stuart Gordon|actors:Jeffrey Combs,Barbara Crampton,Jonathan Fuller,Jessica Dollarhide
+id:778|genre:Comedy,Drama,Romance|director:Jeremy Leven|actors:Marlon Brando,Johnny Depp,Faye Dunaway,Géraldine Pailhas
+id:779|genre:Action,Adventure,Thriller|director:John Badham|actors:Wesley Snipes,Gary Busey,Yancy Butler,Michael Jeter
+id:780|genre:Comedy|director:Peter Farrelly,Bobby Farrelly|actors:Jim Carrey,Jeff Daniels,Lauren Holly,Mike Starr
+id:781|genre:Comedy,Drama,Romance|director:Lawrence Kasdan|actors:Meg Ryan,Kevin Kline,Timothy Hutton,Jean Reno
+id:782|genre:Crime,Drama|director:James Gray|actors:Tim Roth,Edward Furlong,Moira Kelly,Vanessa Redgrave
+id:783|genre:Comedy,Romance|director:Richard Benjamin|actors:Melanie Griffith,Ed Harris,Michael Patrick Carter,Malcolm McDowell
+id:784|genre:Comedy,Horror|director:Vadim Jean|actors:Craig Fairbrass,Elizabeth Hurley,Keith Allen,Anita Dobson
+id:785|genre:Comedy,Romance|director:Norman Jewison|actors:Marisa Tomei,Robert Downey Jr.,Bonnie Hunt,Joaquim de Almeida
+id:786|genre:Comedy,Romance,Drama|director:Mira Nair|actors:Marisa Tomei,Alfred Molina,Anjelica Huston,Chazz Palminteri
+id:787|genre:Comedy,Drama|director:Peter Yates|actors:Peter Falk,D.B. Sweeney,Julianne Moore,Ellen Burstyn
+id:788|genre:Drama,Horror,Thriller|director:George Mihalka|actors:Darlanne Fluegel,Martin Neufeld,James Brolin,Denise Crosby
+id:789|genre:Comedy,Crime|director:George Huang|actors:Kevin Spacey,Frank Whaley,Michelle Forbes,Benicio Del Toro
+id:790|genre:Adventure,Comedy|director:Peter Segal|actors:Chris Farley,David Spade,Brian Dennehy,Bo Derek
+id:791|genre:Comedy,Drama,Family|director:Melanie Mayron|actors:Schuyler Fisk,Bre Blair,Rachael Leigh Cook,Larisa Oleynik
+id:792|genre:Comedy,Crime|director:Woody Allen|actors:John Cusack,Dianne Wiest,Jennifer Tilly,Chazz Palminteri
+id:793|genre:Comedy,Drama|director:Spike Lee|actors:Alfre Woodard,Delroy Lindo,David Patrick Kelly,Zelda Harris
+id:794|genre:Comedy,Drama,Romance|director:Andrew Bergman|actors:Nicolas Cage,Bridget Fonda,Rosie Perez,Wendell Pierce
+id:795|genre:Animation,Comedy|director:N/A|actors:Rene Auberjonois,Jeannie Elias,Pat Fraley,Martin Jarvis
+id:796|genre:Comedy,Romance|director:Ron Underwood|actors:Michael Keaton,Geena Davis,Christopher Reeve,Bonnie Bedelia
+id:797|genre:Action,Crime,Sci-Fi|director:Peter Hyams|actors:Jean-Claude Van Damme,Mia Sara,Ron Silver,Bruce McGill
+id:798|genre:Action,Adventure,Comedy|director:Joel Schumacher|actors:Anthony Hopkins,Chris Rock,Peter Stormare,Gabriel Macht
+id:799|genre:Comedy|director:N/A|actors:Stacey Alfano,C.J. Byrnes,J.D. Cantrell,Kathleen Davis
+id:800|genre:Fantasy,Horror,Mystery|director:John Carpenter|actors:Sam Neill,Julie Carmen,Jürgen Prochnow,David Warner
+id:801|genre:Comedy,Family,Sport|director:Paul Michael Glaser|actors:Kevin Bacon,Charles Gitonga Maina,Yolanda Vazquez,Winston Ntshona
+id:802|genre:Action,Thriller|director:John Woo|actors:Chuck Pfarrer,Robert Apisa,Arnold Vosloo,Lance Henriksen
+id:803|genre:Crime,Drama,Romance|director:Tom Tykwer|actors:Cate Blanchett,Giovanni Ribisi,Remo Girone,Stefania Rocca
+id:804|genre:Crime,Comedy,Drama|director:Barry Levinson|actors:Joe Pesci,Christian Slater,Victoria Abril,Jason Beghe
+id:805|genre:Comedy,Mystery|director:Woody Allen|actors:Woody Allen,Diane Keaton,Jerry Adler,Lynn Cohen
+id:806|genre:Crime,Drama,Thriller|director:Albert Hughes,Allen Hughes|actors:Tyrin Turner,Larenz Tate,June Kyoto Lu,Toshi Toda
+id:807|genre:Drama,Romance|director:John Singleton|actors:Janet Jackson,Tupac Shakur,Khandi Alexander,Ché J. Avery
+id:808|genre:Biography,Drama,Sport|director:Stephen Frears|actors:Ben Foster,Chris O'Dowd,Guillaume Canet,Jesse Plemons
+id:809|genre:Action,Crime,Drama|director:Philip Kaufman|actors:Sean Connery,Wesley Snipes,Harvey Keitel,Cary-Hiroyuki Tagawa
+id:810|genre:Action,Adventure,Crime|director:Russell Mulcahy|actors:Alec Baldwin,John Lone,Penelope Ann Miller,Peter Boyle
+id:811|genre:Biography,Drama,Music|director:François Girard|actors:Colm Feore,Derek Keurvorst,Katya Ladan,Devon Anderson
+id:812|genre:Adventure,Drama,Family|director:George Miller|actors:Tina Majorino,Chelsea Field,Shane Meier,Aidan Pendleton
+id:813|genre:Documentary,History|director:Rob Epstein,Jeffrey Friedman|actors:Lily Tomlin,Tony Curtis,Susie Bright,Arthur Laurents
+id:814|genre:Documentary,Music|director:Jean Bach|actors:Quincy Jones,Dizzy Gillespie,Sonny Rollins,Buck Clayton
+id:815|genre:Comedy,Drama,Romance|director:Michael Hoffman|actors:Michelle Pfeiffer,George Clooney,Mae Whitman,Alex D. Linz
+id:816|genre:Horror|director:Bill Condon|actors:Tony Todd,Kelly Rowan,William O'Leary,Bill Nunn
+id:817|genre:Drama,Thriller|director:Todd Verow|actors:Michael Gunther,Craig Chester,Michael Stock,Raoul O'Connell
+id:818|genre:Comedy,Drama|director:Spike Lee|actors:Theresa Randle,Isaiah Washington,Spike Lee,Jenifer Lewis
+id:819|genre:Comedy,Sport|director:Steve Rash|actors:Whoopi Goldberg,Frank Langella,Dennis Farina,Richard Jenkins
+id:820|genre:Animation,Adventure,Comedy|director:Joe Pytka|actors:Michael Jordan,Wayne Knight,Theresa Randle,Manner Washington
+id:821|genre:Comedy,Drama,Romance|director:Richard Benjamin|actors:Shirley MacLaine,Ricki Lake,Brendan Fraser,Miguel Sandoval
+id:822|genre:Drama|director:John Cassavetes|actors:John Marley,Gena Rowlands,Lynn Carlin,Fred Draper
+id:823|genre:Crime,Drama,Mystery|director:Lee Tamahori|actors:Nick Nolte,Melanie Griffith,Chazz Palminteri,Michael Madsen
+id:824|genre:Comedy,Sport|director:Reginald Hudlin|actors:Samuel L. Jackson,Jeff Goldblum,Peter Berg,Corbin Bernsen
+id:825|genre:Sci-Fi,Thriller|director:David Twohy|actors:Charlie Sheen,Lindsay Crouse,Richard Schiff,Shane
+id:826|genre:Action,Adventure,Comedy|director:Simon Wincer|actors:Billy Zane,Kristy Swanson,Treat Williams,Catherine Zeta-Jones
+id:827|genre:Action,Adventure,Drama|director:Rob Cohen|actors:Sylvester Stallone,Amy Brenneman,Viggo Mortensen,Dan Hedaya
+id:828|genre:Adventure,Family|director:Fraser C. Heston|actors:Thora Birch,Vincent Kartheiser,Dirk Benedict,Charlton Heston
+id:829|genre:Action,Adventure,Crime|director:Kevin Hooks|actors:Laurence Fishburne,Stephen Baldwin,Will Patton,Robert John Burke
+id:830|genre:Action,Mystery,Thriller|director:Jaime Hellman|actors:Eric Roberts,Lisa Thornhill,Jason Gedrick,Jack Betts
+id:831|genre:Action,Adventure,Sci-Fi|director:John Carpenter|actors:Kurt Russell,Steve Buscemi,Peter Fonda,Cliff Robertson
+id:832|genre:Comedy,Family,Fantasy|director:Norman Jewison|actors:Whoopi Goldberg,Gérard Depardieu,Haley Joel Osment,Andrea Martin
+id:833|genre:Action,Comedy,Crime|director:Ernest R. Dickerson|actors:Damon Wayans,Adam Sandler,James Caan,Jeep Swenson
+id:834|genre:Horror,Thriller|director:Joe Chappelle|actors:Donald Pleasence,Paul Rudd,Marianne Hagan,Mitchell Ryan
+id:835|genre:Comedy,Musical,Romance|director:Mark Sandrich|actors:Fred Astaire,Ginger Rogers,Alice Brady,Edward Everett Horton
+id:836|genre:Comedy,Romance|director:Ernst Lubitsch|actors:Greta Garbo,Melvyn Douglas,Ina Claire,Bela Lugosi
+id:837|genre:Comedy,Drama,Romance|director:Frank Capra|actors:Gary Cooper,Barbara Stanwyck,Edward Arnold,Walter Brennan
+id:838|genre:Action,Drama|director:David Chung|actors:Michelle Yeoh,Michael Wong,Hiroyuki Sanada 
+id:839|genre:Adventure,Drama,Fantasy|director:John Henderson|actors:Ted Danson,Joely Richardson,Ian Holm,Harris Yulin
+id:840|genre:Action,Crime,Drama|director:Walter Hill|actors:Bruce Willis,Bruce Dern,William Sanderson,Christopher Walken
+id:841|genre:Action,Comedy,Crime|director:John Gray|actors:Steven Seagal,Keenen Ivory Wayans,Bob Gunton,Brian Cox
+id:842|genre:Drama,Family|director:David Swift|actors:Hayley Mills,Jane Wyman,Richard Egan,Karl Malden
+id:843|genre:Comedy,Family,Fantasy|director:Brian Robbins|actors:Tim Allen,Kristin Davis,Zena Grey,Spencer Breslin
+id:844|genre:Comedy,Crime,Drama|director:Matthew Bright|actors:Kiefer Sutherland,Reese Witherspoon,Bokeem Woodbine,Paul Perri
+id:845|genre:Comedy,Drama,Music|director:Tom Hanks|actors:Tom Everett Scott,Liv Tyler,Johnathon Schaech,Steve Zahn
+id:846|genre:Drama,Fantasy,Romance|director:Michael Pressman|actors:Peter Gallagher,Michelle Pfeiffer,Claire Danes,Laurie Fortier
+id:847|genre:Documentary,Drama|director:Al Pacino|actors:Penelope Allen,Gordon MacDonald,Madison Arnold,Vincent Angell
+id:848|genre:Documentary|director:Saeed Akhtar Mirza|actors:N/A
+id:849|genre:Action,Drama,Sport|director:Tony Scott|actors:Tom Cruise,Nicole Kidman,Robert Duvall,Randy Quaid
+id:850|genre:Documentary|director:R.J. Cutler,David Van Taylor|actors:Don Baker,Mark Goodin,Mark Merritt,Peter Baker
+id:851|genre:Comedy,Drama|director:Jean-Luc Godard|actors:Marina Vlady,Anny Duperey,Roger Montsoret,Raoul Lévy
+id:852|genre:Crime,Drama|director:Nina Menkes|actors:Russ Little,Tinka Menkes,Robert Muller,Jack O'Hara
+id:853|genre:Comedy,Drama,Horror|director:N/A|actors:Mary Elizabeth Winstead,Danny Pino,Aaron Tveit,Tony Shalhoub
+id:854|genre:Comedy,Horror,Sci-Fi|director:Peter Jackson|actors:Terry Potter,Pete O'Herne,Craig Smith,Mike Minett
+id:855|genre:Thriller|director:Jean-Jacques Beineix|actors:Wilhelmenia Fernandez,Frédéric Andréi,Richard Bohringer,Thuy An Luu
+id:856|genre:Comedy,Drama|director:Jim Jarmusch|actors:Gena Rowlands,Winona Ryder,Lisanne Falk,Alan Randolph Scott
+id:857|genre:Documentary|director:Greta Schiller|actors:Juliet Stevenson,Maureen All,Gillian Hanna,Margaret Robertson
+id:858|genre:Horror|director:Steve White|actors:Robin Thomas,Starr Andreeff,Allen Cutler,Rachel Duncan
+id:859|genre:Horror,Mystery|director:Fred Walton|actors:Jay Baker,Pat Barlow,Lloyd Berry,Deborah Foreman
+id:860|genre:Crime,Drama,Horror|director:John Schlesinger|actors:Martin Sheen,Helen Shaver,Harley Cross,Robert Loggia
+id:861|genre:Horror|director:Augusto Caminito,Mario Caiano|actors:Klaus Kinski,Christopher Plummer,Donald Pleasence
+id:862|genre:Comedy,Family|director:Brian Levant|actors:Arnold Schwarzenegger,Sinbad,Phil Hartman,Rita Wilson
+id:863|genre:Drama,History,War|director:Vittorio De Sica|actors:Dominique Sanda,Lino Capolicchio,Helmut Berger
+id:864|genre:Adventure,Comedy|director:Peter Segal|actors:Jack Lemmon,James Garner,Dan Aykroyd,John Heard
+id:865|genre:Drama|director:Ang Lee|actors:Kevin Kline,Joan Allen,Sigourney Weaver,Henry Czerny
+id:866|genre:Comedy,Drama,Fantasy|director:Nora Ephron|actors:John Travolta,Andie MacDowell,William Hurt,Bob Hoskins
+id:867|genre:Biography,Drama,Romance|director:Dan Ireland|actors:Vincent D'Onofrio,Renée Zellweger,Ann Wedgeworth,Harve Presnell
+id:868|genre:Documentary,War|director:Peter Davis|actors:Tin Chan,Chau Diem,Ngo Dinh Diem,John Foster Dulles
+id:869|genre:Comedy,Drama,Romance|director:Andy Tennant|actors:Matthew Perry,Salma Hayek,Jon Tenney,Carlos Gómez
+id:870|genre:Drama,Mystery,Sci-Fi|director:N/A|actors:Kiefer Sutherland,David Mazouz,Gugu Mbatha-Raw,Lukas Haas
+id:871|genre:Comedy|director:Stephen Kessler|actors:Chevy Chase,Beverly D'Angelo,Randy Quaid,Ethan Embry
+id:872|genre:Drama,Romance|director:Theodore Witcher|actors:Larenz Tate,Nia Long,Isaiah Washington,Lisa Nicole Carson
+id:873|genre:Comedy,Drama,Romance|director:Glenn Gordon Caron|actors:Jennifer Aniston,Jay Mohr,Kevin Bacon,Olympia Dukakis
+id:874|genre:Drama|director:Mike Leigh|actors:Katrin Cartlidge,Lynda Steadman,Kate Byers,Mark Benton
+id:875|genre:Drama,Romance|director:Nick Cassavetes|actors:Sean Penn,James Gandolfini,Robin Wright,John Travolta
+id:876|genre:Action,Comedy,Crime|director:Brett Ratner|actors:Chris Tucker,Charlie Sheen,Heather Locklear,Elise Neal
+id:877|genre:Action,Comedy,Crime|director:Marco Brambilla|actors:Alicia Silverstone,Benicio Del Toro,Christopher Walken,Jack Thompson
+id:878|genre:Comedy,Crime,Family|director:Robert Stevenson|actors:Hayley Mills,Dean Jones,Dorothy Provine,Roddy McDowall
+id:879|genre:Action,Thriller|director:Mimi Leder|actors:George Clooney,Nicole Kidman,Marcel Iures,Aleksandr Baluev
+id:880|genre:Comedy,Drama|director:George Tillman Jr.|actors:Vanessa Williams,Vivica A. Fox,Nia Long,Michael Beach
+id:881|genre:Action,Comedy,Crime|director:Brett Ratner|actors:Chris Tucker,Charlie Sheen,Heather Locklear,Elise Neal
+id:882|genre:Drama,Romance|director:Agnieszka Holland|actors:Jennifer Jason Leigh,Albert Finney,Maggie Smith,Ben Chaplin
+id:883|genre:Drama,Music|director:Guy Ferland|actors:Kevin Bacon,Brad Renfro,Maximilian Schell,Calista Flockhart
+id:884|genre:Documentary,Music|director:Jim Jarmusch|actors:Ralph Molina,Frank 'Pancho' Sampedro,Billy Talbot,Neil Young
+id:885|genre:Horror,Sci-Fi,Thriller|director:Joe Chappelle|actors:Peter O'Toole,Rose McGowan,Joanna Going,Liev Schreiber
+id:886|genre:Comedy,Crime,Fantasy|director:Danny Boyle|actors:Holly Hunter,Delroy Lindo,Dan Hedaya,Cameron Diaz
+id:887|genre:Drama|director:Kasi Lemmons|actors:Jurnee Smollett-Bell,Meagan Good,Lynn Whitfield,Samuel L. Jackson
+id:888|genre:Drama,Romance|director:Mike Figgis|actors:Wesley Snipes,Nastassja Kinski,Kyle MacLachlan,Ming-Na Wen
+id:889|genre:Drama,Music,Romance|director:Sally Potter|actors:Sally Potter,Morgane Maugran,Géraldine Maillet,Katerina Mechera
+id:890|genre:Action,Adventure,Fantasy|director:John R. Leonetti|actors:Robin Shou,Talisa Soto,James Remar,Sandra Hess
+id:891|genre:Drama,History,Romance|director:Sean Mathias|actors:Mick Jagger,Clive Owen,Brian Webber,Nikolaj Coster-Waldau
+id:892|genre:Comedy,Family,Sci-Fi|director:Les Mayfield|actors:Robin Williams,Marcia Gay Harden,Christopher McDonald,Ted Levine
+id:893|genre:Comedy|director:Bryan Spicer|actors:Tim Allen,Kirstie Alley,Jay O. Sanders,Michael Lerner
+id:894|genre:Comedy,Crime,Family|director:Raja Gosnell|actors:Alex D. Linz,Olek Krupa,Rya Kihlstedt,Lenny von Dohlen
+id:895|genre:Horror,Mystery|director:Wes Craven|actors:Jada Pinkett Smith,Omar Epps,Paulette Patterson,Rasila Schroeder
+id:896|genre:Drama|director:Atom Egoyan|actors:Ian Holm,Caerthan Banks,Sarah Polley,Tom McCamus
+id:897|genre:Sci-Fi|director:Bret McCormick|actors:Rocky Patterson,Dorenda Moore,Tyler Mason,Jeffrey Combs
+id:898|genre:Action,Adventure,Drama|director:Kevin Costner|actors:Kevin Costner,Will Patton,Larenz Tate,Olivia Williams
+id:899|genre:Drama|director:Alan Rickman|actors:Phyllida Law,Emma Thompson,Sheila Reid,Sandra Voe
+id:900|genre:Biography,Drama,History|director:Martin Scorsese|actors:Tenzin Thuthob Tsarong,Gyurme Tethong,Tulku Jamyang Kunga Tenzin,Tenzin Yeshi Paichang
+id:901|genre:Adventure,Comedy,Family|director:Stanley Tong|actors:Leslie Nielsen,Kelly Lynch,Matt Keeslar,Nick Chinlund
+id:902|genre:Comedy,Crime|director:Joel Coen,Ethan Coen|actors:Jeff Bridges,John Goodman,Julianne Moore,Steve Buscemi
+id:903|genre:Comedy,Drama,Romance|director:Alan Rudolph|actors:Nick Nolte,Julie Christie,Lara Flynn Boyle,Jonny Lee Miller
+id:904|genre:Drama|director:Alain Berliner|actors:Michèle Laroque,Jean-Philippe Écoffey,Hélène Vincent,Georges Du Fresne
+id:905|genre:Drama,Romance|director:Alfonso Cuarón|actors:Ethan Hawke,Gwyneth Paltrow,Hank Azaria,Chris Cooper
+id:906|genre:Comedy,Crime|director:John Landis|actors:Peter Riegert,Chazz Palminteri,Joey Travolta,Paul Greco
+id:907|genre:Short,Drama|director:Dean Francis|actors:Damon Gameau,Dale Johnson-Green,Amanda Muggleton,Matthew Whittet
+id:908|genre:Comedy,Crime|director:Tamra Davis|actors:Dave Chappelle,Guillermo Díaz,Jim Breuer,Harland Williams
+id:909|genre:Biography,Drama,Romance|director:Marshall Herskovitz|actors:Catherine McCormack,Rufus Sewell,Oliver Platt,Fred Ward
+id:910|genre:Drama|director:Gary Oldman|actors:Ray Winstone,Kathy Burke,Charlie Creed-Miles,Laila Morse
+id:911|genre:Drama,Fantasy,Romance|director:Catherine Hardwicke|actors:Kristen Stewart,Sarah Clarke,Matt Bushell,Billy Burke
+id:912|genre:Action,Crime,Thriller|director:Stuart Baird|actors:Tommy Lee Jones,Wesley Snipes,Robert Downey Jr. 
+id:913|genre:Comedy,Drama|director:Richard Kwietniowski|actors:John Hurt,Jason Priestley,Fiona Loewi,Sheila Hancock
+id:914|genre:Crime,Drama,Mystery|director:John McNaughton|actors:Kevin Bacon,Matt Dillon,Neve Campbell,Theresa Russell
+id:915|genre:Comedy,Drama|director:Mike Nichols|actors:John Travolta,Emma Thompson,Billy Bob Thornton,Kathy Bates
+id:916|genre:Action,Adventure,Family|director:Stephen Hopkins|actors:William Hurt,Mimi Rogers,Heather Graham,Lacey Chabert
+id:917|genre:Action,Crime,Drama|director:Harold Becker|actors:Bruce Willis,Alec Baldwin,Miko Hughes,Chi McBride
+id:918|genre:Drama,Fantasy,Romance|director:Brad Silberling|actors:Nicolas Cage,Meg Ryan,Andre Braugher,Dennis Franz
+id:919|genre:Fantasy,Sci-Fi|director:Marc Caro,Jean-Pierre Jeunet|actors:Ron Perlman,Daniel Emilfork,Judith Vittet,Dominique Pinon
+id:920|genre:Drama|director:James Foley|actors:Jerry Barone,Mary Elizabeth Mastrantonio,Al Pacino,Patrick Borriello
+id:921|genre:Drama,Music,Romance|director:Kaige Chen|actors:Leslie Cheung,Fengyi Zhang,Li Gong,Qi Lü
+id:922|genre:Drama,Fantasy,Western|director:Jim Jarmusch|actors:Johnny Depp,Gary Farmer,Crispin Glover,Lance Henriksen
+id:923|genre:Drama,History,Romance|director:Yimou Zhang|actors:Li Gong,Saifei He,Cuifen Cao,Jingwu Ma
+id:924|genre:Adventure,Drama|director:Ridley Scott|actors:Jeff Bridges,Caroline Goodall,John Savage,Scott Wolf
+id:925|genre:Crime,Drama,Mystery|director:N/A|actors:Poppy Montgomery,Dylan Walsh,James Hiroyuki Liao,Jane Curtin
+id:926|genre:Comedy|director:David S. Ward|actors:Kelsey Grammer,Lauren Holly,Rob Schneider,Harry Dean Stanton
+id:927|genre:Drama|director:Pedro Almodóvar|actors:Marisa Paredes,Juan Echanove,Carme Elias,Rossy de Palma
+id:928|genre:Drama,Fantasy,Horror|director:Andrew Fleming|actors:Robin Tunney,Fairuza Balk,Neve Campbell,Rachel True
+id:929|genre:Comedy,Drama,Family|director:Bronwen Hughes|actors:Michelle Trachtenberg,Gregory Smith,Vanessa Lee Chester,Rosie O'Donnell
+id:930|genre:Action,Drama,Sci-Fi|director:Andrew Davis|actors:Keanu Reeves,Morgan Freeman,Rachel Weisz,Fred Ward
+id:931|genre:Horror,Sci-Fi,Thriller|director:John Frankenheimer,Richard Stanley|actors:Marlon Brando,Val Kilmer,David Thewlis,Fairuza Balk
+id:932|genre:Family,Comedy|director:David Mickey Evans|actors:Sinbad,Brock Pierce,Blake Boyd,Timothy Busfield
+id:933|genre:Crime,Drama|director:Abel Ferrara|actors:Christopher Walken,Chris Penn,Annabella Sciorra,Isabella Rossellini
+id:934|genre:Comedy,Drama,Fantasy|director:Penny Marshall|actors:Denzel Washington,Whitney Houston,Courtney B. Vance,Gregory Hines
+id:935|genre:Drama,History,War|director:Bruce Beresford|actors:Glenn Close,Frances McDormand,Pauline Collins,Cate Blanchett
+id:936|genre:Comedy,Drama,Romance|director:Mark Herman|actors:Pete Postlethwaite,Tara Fitzgerald,Ewan McGregor,Stephen Tompkinson
+id:937|genre:Drama|director:Jocelyn Moorhouse|actors:Michelle Pfeiffer,Jessica Lange,Jason Robards,Jennifer Jason Leigh
+id:938|genre:Comedy,Romance|director:Keith Samples|actors:Greg Kinnear,Lauren Holly,Joan Cusack,Jay Thomas
+id:939|genre:Drama,Thriller|director:Marc Rocco|actors:Christian Slater,Kevin Bacon,Gary Oldman,Embeth Davidtz
+id:940|genre:Comedy,Crime,Music|director:Michael Lehmann|actors:Brendan Fraser,Steve Buscemi,Adam Sandler,Chris Farley
+id:941|genre:Comedy,Drama|director:Alek Keshishian|actors:Joe Pesci,Brendan Fraser,Moira Kelly,Patrick Dempsey
+id:942|genre:Biography,Drama,Music|director:Brian Gibson|actors:RaéVen Kelly,Virginia Capers,Dororthy Thorton,Demetrice Cheathon
+id:943|genre:Crime,Thriller|director:Roger Avary|actors:Eric Stoltz,Martin Raymond,Eric Pascal Chaltiel,Julie Delpy
+id:944|genre:Comedy,Drama|director:Penny Marshall|actors:Danny DeVito,Gregory Hines,James Remar,Ed Begley Jr.
+id:945|genre:Comedy,Mystery,Romance|director:Stanley Donen|actors:Cary Grant,Audrey Hepburn,Walter Matthau,James Coburn
+id:946|genre:Animation,Adventure,Drama|director:Ted Berman,Richard Rich,Art Stevens|actors:Mickey Rooney,Kurt Russell,Pearl Bailey,Jack Albertson
+id:947|genre:Adventure,Drama,Sport|director:Luc Besson|actors:Rosanna Arquette,Jean-Marc Barr,Jean Reno,Paul Shenar
+id:948|genre:Comedy,Romance|director:Jeff Pollack|actors:Jamie Foxx,Tommy Davidson,Amy Monique Waddell,Wiley Moore
+id:949|genre:Comedy,Drama,Romance|director:Jocelyn Moorhouse|actors:Kaelynn Craddick,Sara Craddick,Kate Capshaw,Adam Baldwin
+id:950|genre:Drama,Music|director:Ulu Grosbard|actors:Jennifer Jason Leigh,Mare Winningham,Ted Levine,Max Perlich
+id:951|genre:Drama,Family,Fantasy|director:Frank Oz|actors:Hal Scardino,Litefoot,Lindsay Crouse,Richard Jenkins
+id:952|genre:Comedy|director:Paul Auster,Wayne Wang,Harvey Wang|actors:Lou Reed,Michael J. Fox,Roseanne Barr,Mel Gorham
+id:953|genre:Comedy,Drama|director:Diane Keaton|actors:Andie MacDowell,John Turturro,Michael Richards,Maury Chaykin
+id:954|genre:Documentary|director:Douglas Keeve|actors:Roseanne Barr,Sandra Bernhard,Robert Best,Natane Boudreau
+id:955|genre:Drama,Romance|director:Richard Linklater|actors:Ethan Hawke,Julie Delpy,Andrea Eckert,Hanno Pöschl
+id:956|genre:Comedy,Drama|director:Robert Benton|actors:Paul Newman,Jessica Tandy,Bruce Willis,Melanie Griffith
+id:957|genre:Comedy,Drama|director:Ang Lee|actors:Sihung Lung,Lai Wang,Bozhao Wang,Deb Snyder
+id:958|genre:Drama,History,War|director:Yimou Zhang|actors:You Ge,Li Gong,Ben Niu,Wu Jiang
+id:959|genre:Comedy|director:Richard Linklater|actors:Jason London,Joey Lauren Adams,Milla Jovovich,Shawn Andrews
+id:960|genre:Comedy,Drama|director:Mike Leigh|actors:David Thewlis,Lesley Sharp,Katrin Cartlidge,Greg Cruttwell
+id:961|genre:Biography,Drama,Fantasy|director:Sally Potter|actors:Tilda Swinton,Quentin Crisp,Jimmy Somerville,John Bott
+id:962|genre:Drama,Romance|director:Victor Nunez|actors:Ashley Judd,Todd Field,Bentley Mitchum,Allison Dean
+id:963|genre:Short,Drama,Thriller|director:George Hickenlooper|actors:Billy Bob Thornton,Molly Ringwald,J.T. Walsh,Jefferson Mays
+id:964|genre:Comedy,Drama,Romance|director:John Irvin|actors:Vanessa Redgrave,Edward Fox,Uma Thurman,Alida Valli
+id:965|genre:Comedy,Musical,Romance|director:Stanley Donen|actors:Audrey Hepburn,Fred Astaire,Kay Thompson,Michel Auclair
+id:966|genre:Drama,Romance|director:Leo McCarey|actors:Cary Grant,Deborah Kerr,Richard Denning,Neva Patterson
+id:967|genre:Drama,Family,Romance|director:Jack Gold|actors:Ricky Schroder,Alec Guinness,Eric Porter,Colin Blakely
+id:968|genre:Comedy,Musical,Romance|director:Henry Koster|actors:Danny Kaye,Walter Slezak,Barbara Bates,Elsa Lanchester
+id:969|genre:Animation,Short,Comedy|director:Wolfgang Reitherman|actors:Sebastian Cabot,Sterling Holloway,John Fiedler,Jon Walmsley
+id:970|genre:Comedy,Drama,Music|director:Peter Chelsom|actors:Brian Flanagan,Constance Cowley,Marie Mullen,Phil Kelly
+id:971|genre:Comedy,Drama,War|director:Gabriele Salvatores|actors:Diego Abatantuono,Claudio Bigagli,Giuseppe Cederna,Claudio Bisio
+id:972|genre:Drama|director:John Sayles|actors:Mary McDonnell,Angela Bassett,Lenore Banks,Will Mahoney
+id:973|genre:Documentary,Short,Music|director:Paul McCartney|actors:N/A
+id:974|genre:Crime,Drama,Thriller|director:John Schlesinger|actors:Sally Field,Ed Harris,Olivia Burnette,Alexandra Kyle
+id:975|genre:Drama,Thriller|director:James Foley|actors:Mark Wahlberg,Reese Witherspoon,William Petersen,Amy Brenneman
+id:976|genre:Action,Sci-Fi,Thriller|director:Norberto Barba|actors:Mario Van Peebles,Barry Corbin,William Sadler,Jaime Gomez
+id:977|genre:Action,Crime,Drama|director:Robert Mandel|actors:Tom Berenger,Raymond Cruz,William Forsythe,Luis Guzmán
+id:978|genre:Drama,Mystery,Thriller|director:Phil Joanou|actors:Alec Baldwin,Kelly Lynch,Mary Stuart Masterson,Eric Roberts
+id:979|genre:Drama,Thriller|director:David Koepp|actors:Kyle MacLachlan,Elisabeth Shue,Dermot Mulroney,Richard T. Jones
+id:980|genre:Drama,Romance,War|director:Keith Gordon|actors:Nick Nolte,Sheryl Lee,Alan Arkin,Bernard Behrens
+id:981|genre:Action,Crime,Drama|director:Darrell Roodt|actors:Thokozani Nkosi,Ron Smerczak,Wilson Dunster,Ice Cube
+id:982|genre:Action,Crime,Mystery|director:Ringo Lam|actors:Jean-Claude Van Damme,Natasha Henstridge,Jean-Hugues Anglade,Zach Grenier
+id:983|genre:Thriller|director:Amy Holden Jones|actors:Halle Berry,Peter Greene,Clive Owen,Frankie Faison
+id:984|genre:Action,Thriller|director:George P. Cosmatos|actors:Charlie Sheen,Donald Sutherland,Linda Hamilton,Stephen Lang
+id:985|genre:Adventure,Drama,Thriller|director:Edward Zwick|actors:Leonardo DiCaprio,Djimon Hounsou,Jennifer Connelly,Kagiso Kuypers
+id:986|genre:Action,Thriller|director:Robert Butler|actors:Ray Liotta,Lauren Holly,Brendan Gleeson,Hector Elizondo
+id:987|genre:Action,Fantasy,Thriller|director:Len Wiseman|actors:Kate Beckinsale,Scott Speedman,Michael Sheen,Shane Brolly
+id:988|genre:Comedy,Romance|director:Ken Kwapis|actors:Fran Drescher,Timothy Dalton,Ian McNeice,Patrick Malahide
+id:989|genre:Animation,Comedy,Family|director:Mark Dindal|actors:Scott Bakula,Jasmine Guy,Natalie Cole,Ashley Peldon
+id:990|genre:Drama,Romance|director:Joe Wright|actors:Matthew Macfadyen,Eric MacLennan,Kelly Macdonald,Theo Morrissey
+id:991|genre:Crime,Drama,Thriller|director:Leslie Greif|actors:Eric Stoltz,James Spader,Deborah Kara Unger,Joanna Going
+id:992|genre:Comedy,Thriller|director:Jim Wilson|actors:Harvey Keitel,Cameron Diaz,Craig Sheffer,Billy Zane
+id:993|genre:Animation,Adventure,Comedy|director:Ron Clements,John Musker|actors:Tate Donovan,Josh Keaton,Roger Bart,Danny DeVito
+id:994|genre:Biography,Drama|director:Stephen Kay|actors:Thomas Jane,Keanu Reeves,Adrien Brody,John Doe
+id:995|genre:Comedy|director:Tony Vitale|actors:Nick Scotti,Anthony Barrile,Anthony DeSando
+id:996|genre:Comedy,Family,Sport|director:Holly Goldberg Sloan|actors:Steve Guttenberg,Olivia d'Abo,Jay O. Sanders,John Terry
+id:997|genre:Comedy,Drama|director:Harold Ramis|actors:Al Franken,Laura San Giacomo,Vincent D'Onofrio,Shirley Knight
+id:998|genre:Adventure,Comedy,Romance|director:Adam Resnick|actors:Chris Elliott,Ritch Brinkley,James Gammon,Brian Doyle-Murray
+id:999|genre:Comedy,Mystery|director:Mick Jackson|actors:Dana Carvey,Valeria Golino,James Earl Jones,Kevin Pollak
+id:1000|genre:Comedy,Western|director:Simon Wincer|actors:Paul Hogan,Cuba Gooding Jr.,Beverly D'Angelo,Kamala Lopez
+id:1001|genre:Comedy,Adventure|director:John Landis|actors:Tom Arnold,Jessica Lundy,Bug Hall,Alex McKenna
+id:1002|genre:Comedy|director:Paul Miller|actors:John Leguizamo,Jeffrey Jones,Freddy Rodríguez,Pat Skipper
+id:1003|genre:Comedy,Crime,Family|director:Robert Stevenson|actors:Hayley Mills,Dean Jones,Dorothy Provine,Roddy McDowall
+id:1004|genre:Drama,History,Western|director:Walter Hill|actors:Jason Patric,Gene Hackman,Robert Duvall,Wes Studi
+id:1005|genre:Drama,Fantasy,Music|director:Krzysztof Kieslowski|actors:Irène Jacob,Wladyslaw Kowalski,Halina Gryglaszewska
+id:1006|genre:Action,Drama,Sci-Fi|director:Wim Wenders|actors:Solveig Dommartin,Pietro Falcone,Enzo Turrin,Chick Ortega
+id:1007|genre:Comedy|director:Christopher Guest|actors:Deborah Theaker,Michael Hitchcock,Scott Williamson,Larry Miller
+id:1008|genre:Biography,Drama|director:Mary Harron|actors:Lili Taylor,Jared Harris,Martha Plimpton,Lothaire Bluteau
+id:1009|genre:Drama,Mystery,Romance|director:Bernardo Bertolucci|actors:Carlo Cecchi,Sinéad Cusack,Joseph Fiennes,Jason Flemyng
+id:1010|genre:Biography,Drama|director:Julian Schnabel|actors:Jeffrey Wright,Michael Wincott,Benicio Del Toro,Claire Forlani
+id:1011|genre:Comedy,Crime,Thriller|director:John Herzfeld|actors:Danny Aiello,Greg Cruttwell,Jeff Daniels,Teri Hatcher
+id:1012|genre:Biography,Comedy,Drama|director:Betty Thomas|actors:Howard Stern,Robin Quivers,Mary McCormack,Fred Norris
+id:1013|genre:Action,Adventure,Horror|director:Luis Llosa|actors:Jennifer Lopez,Ice Cube,Jon Voight,Eric Stoltz
+id:1014|genre:Comedy|director:David Mirkin|actors:Mira Sorvino,Lisa Kudrow,Janeane Garofalo,Alan Cumming
+id:1015|genre:Drama,Family|director:Dale Rosenbloom|actors:Scott Wilson,Blake Heron,Bonnie Bartlett,Rod Steiger
+id:1016|genre:Action,Crime,Thriller|director:Simon West|actors:Colm Meaney,Mykelti Williamson,Nick Chinlund,Renoly Santiago
+id:1017|genre:Comedy,Drama|director:Steve Buscemi|actors:Carol Kane,Mark Boone Junior,Steve Buscemi,Bronson Dudley
+id:1018|genre:Comedy,Crime,Drama|director:Pedro Almodóvar|actors:Victoria Abril,Antonio Banderas,Loles León,Julieta Serrano
+id:1019|genre:Action,Crime,Drama|director:John Woo|actors:Yun-Fat Chow,Danny Lee,Sally Yeh 
+id:1020|genre:Crime,Drama,Film-Noir|director:George Cukor|actors:Charles Boyer,Ingrid Bergman,Joseph Cotten,May Whitty
+id:1021|genre:Comedy,Short|director:David Licata|actors:Trip Cullman,Paul Albe,Ellen Pompeo,Susan Grace
+id:1022|genre:Comedy|director:Giorgos Mylonas|actors:Themis Manesis,Giouli Zikou,Zannino,Tonis Giakovakis
+id:1023|genre:Comedy,Romance|director:Ivan Reitman|actors:Robin Williams,Billy Crystal,Julia Louis-Dreyfus,Nastassja Kinski
+id:1024|genre:Short|director:N/A|actors:Michael Cunningham,David Hare,Stephen Daldry,Eileen Atkins
+id:1025|genre:Action,Drama,Thriller|director:Félix Enríquez Alcalá|actors:Steven Seagal,Marg Helgenberger,Stephen Lang,Brad Hunt
+id:1026|genre:Comedy,Drama|director:Larry Arrick|actors:Sally Kellerman,Ed Begley Jr.,Sandra Taylor,Stuart Margolin
+id:1027|genre:Crime,Drama,Thriller|director:Annette K. Olesen|actors:Trine Dyrholm,Kim Bodnia,Kristian Halken,Nikolaj Lie Kaas
+id:1028|genre:Comedy,Romance|director:Howard Deutch|actors:Walter Matthau,Jack Lemmon,Sophia Loren,Ann-Margret
+id:1029|genre:Comedy|director:John Fortenberry|actors:Pauly Shore,Tia Carrere,Stanley Tucci,Brian Doyle-Murray
+id:1030|genre:Comedy,Family|director:Penelope Spheeris|actors:Jim Varney,Diedrich Bader,Erika Eleniak,Cloris Leachman
+id:1031|genre:Family,Adventure|director:Daniel Petrie|actors:Tom Guiry,Helen Slater,Jon Tenney,Brittany Boyd
+id:1032|genre:Comedy,Family,Sport|director:Andrew Scheinman|actors:Luke Edwards,Timothy Busfield,John Ashton,Ashley Crow
+id:1033|genre:Adventure,Comedy,Family|director:David R. Ellis|actors:Michael J. Fox,Sally Field,Ralph Waite,Al Michaels
+id:1034|genre:Action,Adventure,Thriller|director:Jean-Claude Van Damme|actors:Jean-Claude Van Damme,Roger Moore,James Remar,Janet Gunn
+id:1035|genre:Adventure,Comedy,Family|director:Jon Turteltaub|actors:Leon,Doug E. Doug,Rawle D. Lewis,Malik Yoba
+id:1036|genre:Comedy,Drama,Fantasy|director:Ate de Jong|actors:Phoebe Cates,Rik Mayall,Marsha Mason,Tim Matheson
+id:1037|genre:Comedy,Drama,Musical|director:Patricia Birch|actors:Maxwell Caulfield,Michelle Pfeiffer,Lorna Luft,Maureen Teefy
+id:1038|genre:Crime,Mystery,Thriller|director:Jeb Stuart|actors:Claudia Stedelin,Ian Nelson,Brent Hinkley,R. Lee Ermey
+id:1039|genre:Drama|director:Kenneth Branagh|actors:Riz Abbasi,Richard Attenborough,David Blair,Brian Blessed
+id:1040|genre:Comedy,Crime,Romance|director:Bill Bennett|actors:Denis Leary,Sandra Bullock,Stephen Dillane,Yaphet Kotto
+id:1041|genre:Comedy,Romance|director:Billy Crystal|actors:Billy Crystal,Debra Winger,Joe Mantegna,Cynthia Stevenson
+id:1042|genre:Action,Crime,Drama|director:Arne Glimcher|actors:Sean Connery,Laurence Fishburne,Kate Capshaw,Blair Underwood
+id:1043|genre:Drama,Family,Comedy|director:Fred Gerber|actors:Leslie Nielsen,Christopher Lloyd,Matt McCoy,Sherry Miller
+id:1044|genre:Comedy,Drama|director:Ron Howard|actors:Michael Keaton,Robert Duvall,Glenn Close,Marisa Tomei
+id:1045|genre:Action,Biography,Drama|director:Ronny Yu|actors:Jet Li,Li Sun,Yong Dong,Yun Qu
+id:1046|genre:Crime,Mystery,Thriller|director:Harold Becker|actors:Alec Baldwin,Nicole Kidman,Bill Pullman,Bebe Neuwirth
+id:1047|genre:Comedy,Romance,Sci-Fi|director:Harold Ramis|actors:Michael Keaton,Andie MacDowell,Zack Duhame,Katie Schlossberg
+id:1048|genre:Comedy,Drama,Romance|director:Edward Burns|actors:John Mahoney,Edward Burns,Michael McGlone,Maxine Bahns
+id:1049|genre:Comedy,Family|director:Harry Winer|actors:Kyle Howard,Herbert Russell,Jamie Lee Curtis,Kevin Pollak
+id:1050|genre:Comedy,Drama,Fantasy|director:Joseph L. Mankiewicz|actors:Gene Tierney,Rex Harrison,George Sanders,Edna Best
+id:1051|genre:Comedy|director:Donald Petrie|actors:Whoopi Goldberg,Dianne Wiest,Eli Wallach,Tim Daly
+id:1052|genre:Comedy,Fantasy,Horror|director:Mel Brooks|actors:Leslie Nielsen,Peter MacNicol,Steven Weber,Amy Yasbeck
+id:1053|genre:Comedy,Drama,Romance|director:Lesli Linka Glatter|actors:Christina Ricci,Rosie O'Donnell,Thora Birch,Melanie Griffith
+id:1054|genre:Comedy|director:Nick Castle|actors:Ellen DeGeneres,Bill Pullman,Joan Cusack,Dean Stockwell
+id:1055|genre:Drama,Comedy|director:Gillies MacKinnon|actors:Steve Martin,Gabriel Byrne,Laura Linney,Catherine O'Hara
+id:1056|genre:Horror|director:Guillermo del Toro|actors:Federico Luppi,Ron Perlman,Claudio Brook,Margarita Isabel
+id:1057|genre:Comedy,Romance|director:Matt Reeves|actors:David Schwimmer,Gwyneth Paltrow,Michael Rapaport,Toni Collette
+id:1058|genre:Drama|director:Jon Avnet|actors:Elijah Wood,Kevin Costner,Mare Winningham,Lexi Randall
+id:1059|genre:Comedy,Crime|director:Paris Barclay|actors:Shawn Wayans,Marlon Wayans,Tracey Cherelle Jones,Chris Spencer
+id:1060|genre:Adventure,Drama,Family|director:Steve Barron|actors:Martin Landau,Jonathan Taylor Thomas,Geneviève Bujold,Udo Kier
+id:1061|genre:Comedy,Drama,Romance|director:Robert Harling|actors:Shirley MacLaine,Bill Paxton,Juliette Lewis,Miranda Richardson
+id:1062|genre:Action,Drama,History|director:Bruno Barreto|actors:Alan Arkin,Fernanda Torres,Pedro Cardoso,Luiz Fernando Guimarães
+id:1063|genre:Drama,Family,Fantasy|director:Alfonso Cuarón|actors:Liesel Matthews,Eleanor Bron,Liam Cunningham,Rusty Schwimmer
+id:1064|genre:Crime,Drama,Film-Noir|director:Edward Dmytryk|actors:Robert Young,Robert Mitchum,Robert Ryan,Gloria Grahame
+id:1065|genre:Documentary,Music|director:Godfrey Reggio|actors:Lou Dobbs,Ted Koppel
+id:1066|genre:Animation,Adventure,Drama|director:Simon Wells|actors:Kevin Bacon,Bob Hoskins,Bridget Fonda,Jim Cummings
+id:1067|genre:Comedy,Crime,Drama|director:Wes Anderson|actors:Luke Wilson,Owen Wilson,Ned Dowd,Shea Fowler
+id:1068|genre:Drama,Romance|director:Giuseppe Tornatore|actors:Sergio Castellitto,Tiziana Lodato,Franco Scaldati,Leopoldo Trieste
+id:1069|genre:Comedy,Crime,Drama|director:Hal Hartley|actors:Isabelle Huppert,Martin Donovan,Elina Löwensohn,Damian Young
+id:1070|genre:Comedy,Drama|director:Tom DiCillo|actors:Steve Buscemi,Catherine Keener,Dermot Mulroney,Danielle von Zerneck
+id:1071|genre:Comedy|director:Daisy von Scherler Mayer|actors:Parker Posey,Anthony DeSando,Guillermo Díaz,Donna Mitchell
+id:1072|genre:Comedy,Romance|director:Joshua Brand|actors:William Baldwin,John Leguizamo,Sadie Frost,Erika Eleniak
+id:1073|genre:Crime,Thriller|director:Danny Boyle|actors:Kerry Fox,Christopher Eccleston,Ewan McGregor,Ken Stott
+id:1074|genre:Comedy,Drama,Romance|director:Ben Stiller|actors:Winona Ryder,Ethan Hawke,Janeane Garofalo,Steve Zahn
+id:1075|genre:Comedy,Drama|director:Suri Krishnamma|actors:Albert Finney,Brenda Fricker,Michael Gambon,Tara Fitzgerald
+id:1076|genre:Animation,Adventure,Comedy|director:Pixote Hunt,Joe Johnston|actors:Macaulay Culkin,Kanin Howell,Alexis Kirschner,Jessica Kirschner
+id:1077|genre:Crime,Romance,Thriller|director:C.M. Talkington|actors:Gil Bellows,Renée Zellweger,Rory Cochrane,Jeffrey Combs
+id:1078|genre:Documentary|director:Nick Deocampo|actors:Tony Álvarez
+id:1079|genre:Comedy,Fantasy,Musical|director:John Payson|actors:Jerry O'Connell,Megan Ward,Billy West,Reginald Hudlin
+id:1080|genre:Comedy|director:Fina Torres|actors:Ariadna Gil,Arielle Dombasle,Evelyne Didi,Lluís Homar
+id:1081|genre:Comedy,Crime,Thriller|director:Reb Braddock|actors:William Baldwin,Angela Jones,Bruce Ramsay,Lois Chiles
+id:1082|genre:Drama,Thriller|director:Susan Streitfeld|actors:Tilda Swinton,Amy Madigan,Karen Sillas,Frances Fisher
+id:1083|genre:Crime,Drama,Thriller|director:Kevin Spacey|actors:Matt Dillon,Faye Dunaway,Gary Sinise,William Fichtner
+id:1084|genre:Documentary,Biography,War|director:Jon Blair|actors:Kenneth Branagh,Janny Brandes-Brilslijper,Glenn Close,Rose De Liema
+id:1085|genre:Drama,Romance|director:Bruno Barreto|actors:Dennis Hopper,Amy Irving,Amy Locane,Julie Harris
+id:1086|genre:Drama|director:Randal Kleiser|actors:Margaret Cho,Bruce Davison,Lee Grant,Devon Gummersall
+id:1087|genre:Action,Sport|director:Alan Mehrez|actors:Daniel Bernhardt,Pat Morita,Donald Gibb,James Hong
+id:1088|genre:Action,Comedy,Sci-Fi|director:Hark Tsui|actors:Jean-Claude Van Damme,Dennis Rodman,Mickey Rourke,Paul Freeman
+id:1089|genre:Action,Adventure,Crime|director:Jan de Bont|actors:Sandra Bullock,Jason Patric,Willem Dafoe,Temuera Morrison
+id:1090|genre:Drama,Thriller|director:Phillip Noyce|actors:Sharon Stone,William Baldwin,Tom Berenger,Polly Walker
+id:1091|genre:Adventure,Family,Fantasy|director:David Lowery|actors:Bryce Dallas Howard,Robert Redford,Oakes Fegley,Oona Laurence
+id:1092|genre:Comedy|director:Garry Marshall|actors:Greg Kinnear,Laurie Metcalf,Maria Pitillo,Tim Conway
+id:1093|genre:Comedy|director:Julianna Lavin|actors:Dana Delany,Kim Cattrall,Cynthia Stevenson,Laila Robins
+id:1094|genre:Comedy,Crime,Drama|director:Martin Lawrence|actors:Martin Lawrence,Lynn Whitfield,Regina King,Bobby Brown
+id:1095|genre:Comedy,Crime,Romance|director:Hart Bochner|actors:Jon Lovitz,Tia Carrere,Louise Fletcher,Mekhi Phifer
+id:1096|genre:Comedy,Drama,Romance|director:Daniel Taplitz|actors:Aidan Quinn,Courteney Cox,Anthony LaPaglia,Shirl Bernheim
+id:1097|genre:Comedy,Drama,Romance|director:Gil Junger|actors:Heath Ledger,Julia Stiles,Joseph Gordon-Levitt,Larisa Oleynik
+id:1098|genre:Comedy|director:David O. Russell|actors:Ben Stiller,Patricia Arquette,Téa Leoni,Mary Tyler Moore
+id:1099|genre:Drama,Romance|director:Ping He|actors:Jing Ning,Gang Wu,Xiaorui Zhao 
+id:1100|genre:Comedy,Drama,Romance|director:Tom Noonan|actors:Karen Sillas,Tom Noonan
+id:1101|genre:Comedy,Drama,Mystery|director:Fred Schepisi|actors:Stockard Channing,Will Smith,Donald Sutherland,Ian McKellen
+id:1102|genre:Comedy,Romance|director:Fernando Trueba|actors:Antonio Banderas,Melanie Griffith,Daryl Hannah,Danny Aiello
+id:1103|genre:Crime,Drama,Thriller|director:David Schwimmer|actors:Clive Owen,Catherine Keener,Liana Liberato,Jason Clarke
+id:1104|genre:Comedy,Crime,Drama|director:Rémy Belvaux,André Bonzel|actors:Benoît Poelvoorde,Jacqueline Poelvoorde-Pappaert,Nelly Pappaert 
+id:1105|genre:Thriller,Action|director:Dean Semler|actors:Howie Long,Scott Glenn,William Forsythe,Suzy Amis
+id:1106|genre:Action,Crime,Drama|director:Richard Linklater|actors:Matthew McConaughey,Skeet Ulrich,Ethan Hawke,Gail Cronauer
+id:1107|genre:Action,Drama|director:John Boorman|actors:Patricia Arquette,U Aung Ko,Frances McDormand,Spalding Gray
+id:1108|genre:Crime,Drama,Mystery|director:Christopher Menaul|actors:Embeth Davidtz,Tom Bell,Gemma Jones,James Purefoy
+id:1109|genre:Drama,Mystery,Thriller|director:Roman Polanski|actors:Sigourney Weaver,Ben Kingsley,Stuart Wilson,Krystia Mova
+id:1110|genre:Action,Comedy,Sci-Fi|director:Rachel Talalay|actors:Lori Petty,Ice-T,Naomi Watts,Don Harvey
+id:1111|genre:Drama,Romance|director:Mina Shum|actors:Sandra Oh,Stephen Chang,Alannah Ong,Donald Fong
+id:1112|genre:Biography,Drama,Sport|director:Ron Shelton|actors:Tommy Lee Jones,Robert Wuhl,Lolita Davidovich,Ned Bellamy
+id:1113|genre:Biography,Drama|director:Alan Rudolph|actors:Jennifer Jason Leigh,Campbell Scott,Matthew Broderick,Peter Gallagher
+id:1114|genre:Comedy,Crime,Drama|director:Paul Mazursky|actors:Cher,Chazz Palminteri,Ryan O'Neal,Paul Mazursky
+id:1115|genre:Comedy,Drama,Romance|director:John Gorrie|actors:Alec McCowen,Robert Hardy,Felicity Kendal,Annette Crosbie
+id:1116|genre:Action,Adventure,Romance|director:Rouben Mamoulian|actors:Tyrone Power,Linda Darnell,Basil Rathbone,Gale Sondergaard
+id:1117|genre:Biography,Drama,Romance|director:James Ivory|actors:Anthony Hopkins,Natascha McElhone,Julianne Moore,Joss Ackland
+id:1118|genre:Comedy,Music|director:Lou Adler,Tommy Chong|actors:Cheech Marin,Tommy Chong,Strother Martin,Edie Adams
+id:1119|genre:Drama,Romance|director:Howard Deutch|actors:Eric Stoltz,Mary Stuart Masterson,Lea Thompson,Craig Sheffer
+id:1120|genre:Comedy|director:Herb Gardner|actors:Walter Matthau,Ossie Davis,Amy Irving,Craig T. Nelson
+id:1121|genre:Drama,Musical,Romance|director:Jacques Demy|actors:Catherine Deneuve,Nino Castelnuovo,Anne Vernon,Marc Michel
+id:1122|genre:Crime,Drama,Film-Noir|director:Busby Berkeley|actors:John Garfield,The 'Dead End' Kids,Claude Rains,Ann Sheridan
+id:1123|genre:Drama,Romance|director:Richard Brooks|actors:Elizabeth Taylor,Van Johnson,Walter Pidgeon,Donna Reed
+id:1124|genre:Drama,Romance,War|director:Frank Borzage|actors:Helen Hayes,Gary Cooper,Adolphe Menjou,Mary Philips
+id:1125|genre:Horror|director:Jack Clayton|actors:Deborah Kerr,Peter Wyngarde,Megs Jenkins,Michael Redgrave
+id:1126|genre:Adventure,Drama|director:John Sturges,Henry King,Fred Zinnemann|actors:Spencer Tracy,Felipe Pazos,Harry Bellaver,Don Diamond
+id:1127|genre:Comedy,Drama,Sci-Fi|director:Peter Weir|actors:Jim Carrey,Laura Linney,Noah Emmerich,Natascha McElhone
+id:1128|genre:Documentary,Biography|director:Nick Broomfield|actors:Nick Broomfield,Nina Xining Zuo,Madam Alex,Corinne Bohrer
+id:1129|genre:Crime,Drama,Romance|director:Kar-Wai Wong|actors:Brigitte Lin,Tony Chiu-Wai Leung,Faye Wong,Takeshi Kaneshiro
+id:1130|genre:Documentary,Biography,Mystery|director:Michel Negroponte|actors:Maggie Cogan,Katina Pendleton
+id:1131|genre:Action,Crime,Thriller|director:Boaz Yakin|actors:Jason Statham,Catherine Chan,Robert John Burke,James Hong
+id:1132|genre:Comedy,Crime,Drama|director:Steven Baigelman|actors:Keanu Reeves,Cameron Diaz,Vincent D'Onofrio,Delroy Lindo
+id:1133|genre:Adventure,Family,Fantasy|director:John Hough|actors:Eddie Albert,Ray Milland,Donald Pleasence,Kim Richards
+id:1134|genre:Drama,History|director:Spike Lee|actors:Richard Belzer,De'aundre Bonds,Andre Braugher,Thomas Jefferson Byrd
+id:1135|genre:Biography,Drama,Music|director:Oliver Stone|actors:Val Kilmer,Meg Ryan,Kyle MacLachlan,Frank Whaley
+id:1136|genre:Drama,History|director:Rob Reiner|actors:Alec Baldwin,James Woods,Virginia Madsen,Whoopi Goldberg
+id:1137|genre:Comedy,Drama,Romance|director:Hettie Macdonald|actors:Meera Syal,Martin Walsh,Steven M. Martin,Andrew Fraser
+id:1138|genre:Action,Comedy,Crime|director:Tamra Davis|actors:Dean Cain,Andy Dick,Sean Patrick Flanery,Mitchell Whitfield
+id:1139|genre:Comedy,Crime,Drama|director:Iain Softley|actors:Jonny Lee Miller,Angelina Jolie,Jesse Bradford,Matthew Lillard
+id:1140|genre:Comedy,Drama|director:Alan Parker|actors:Anthony Hopkins,Bridget Fonda,Matthew Broderick,John Cusack
+id:1141|genre:Documentary,History|director:Chris Hegedus,D.A. Pennebaker|actors:James Carville,George Stephanopoulos,Heather Beckel,Paul Begala
+id:1142|genre:Documentary,Sport|director:Leon Gast|actors:Muhammad Ali,George Foreman,Don King,James Brown
+id:1143|genre:Crime,Drama|director:Paul Thomas Anderson|actors:Philip Baker Hall,John C. Reilly,Gwyneth Paltrow,Samuel L. Jackson
+id:1144|genre:Drama|director:Rolf de Heer|actors:Celine O'Leary,Paul Blackwell,Chloe Ferguson,Phoebe Ferguson
+id:1145|genre:Drama,Sport|director:William Friedkin|actors:Nick Nolte,Mary McDonnell,J.T. Walsh,Ed O'Neill
+id:1146|genre:Drama,Comedy|director:John Whitesell|actors:Jason Priestley,Gabriel Olds,Jerry O'Connell,Joe Pantoliano
+id:1147|genre:Comedy|director:N/A|actors:Robert Lindsay,Zoë Wanamaker,Gabriel Thomson,Daniela Denby-Ashe
+id:1148|genre:Animation,Comedy,Family|director:N/A|actors:N/A,
+id:1149|genre:Adventure,Drama|director:Nicolas Roeg|actors:Jenny Agutter,Luc Roeg,David Gulpilil,John Meillon
+id:1150|genre:Drama,Thriller|director:Bruce Beresford|actors:Sharon Stone,Rob Morrow,Randy Quaid,Peter Gallagher
+id:1151|genre:Action,Crime,Drama|director:Larry Cohen,Fred Williamson|actors:Fred Williamson,Jim Brown,Pam Grier,Paul Winfield
+id:1152|genre:Biography,Drama,Romance|director:Richard Attenborough|actors:Mackenzie Astin,Chris O'Donnell,Margot Steinberg,Sandra Bullock
+id:1153|genre:Biography,Drama,Music|director:Iain Softley|actors:Sheryl Lee,Stephen Dorff,Ian Hart,Gary Bakewell
+id:1154|genre:Drama,Mystery,Sci-Fi|director:Jean-Luc Godard|actors:Eddie Constantine,Anna Karina,Akim Tamiroff
+id:1155|genre:Comedy,Romance|director:Éric Rohmer|actors:Clara Bellar,Antoine Basler,Mathias Mégard,Judith Chancel
+id:1156|genre:Crime,Drama|director:Tran Anh Hung|actors:Le Van Loc,Tony Chiu-Wai Leung,Tran Nu Yên-Khê,Nhu Quynh Nguyen
+id:1157|genre:Horror,Mystery,Sci-Fi|director:Peter Hyams|actors:Penelope Ann Miller,Tom Sizemore,Linda Hunt,James Whitmore
+id:1158|genre:Drama|director:Benoît Jacquot|actors:Virginie Ledoyen,Benoît Magimel,Dominique Valadié 
+id:1159|genre:Drama,Sci-Fi|director:Andrei Tarkovsky|actors:Alisa Freyndlikh,Aleksandr Kaydanovskiy,Anatoliy Solonitsyn,Nikolay Grinko
+id:1160|genre:Comedy,Drama,Romance|director:Joe Mantello|actors:Jason Alexander,Stephen Spinella,Stephen Bogardus,Randy Becker
+id:1161|genre:Comedy,Crime|director:Alan Taylor|actors:William Forsythe,Vincent Gallo,Adam Trese,Gareth Williams
+id:1162|genre:Comedy|director:Doug Ellin|actors:Jermaine 'Huggy' Hopkins,Claudia Kaleem,Candice Merideth,Alma Collins
+id:1163|genre:Drama,Romance|director:Jane Campion|actors:Nicole Kidman,John Malkovich,Barbara Hershey,Mary-Louise Parker
+id:1164|genre:Adventure,Comedy,Family|director:George Miller|actors:Steve Guttenberg,Kathleen Quinlan,Arnold Vosloo,Dawn McMillan
+id:1165|genre:Comedy,Thriller|director:Steve Miner|actors:Rick Moranis,Tom Arnold,Julianne Phillips,Carol Kane
+id:1166|genre:Drama,Romance|director:Gaspar Noé|actors:Aomi Muyock,Karl Glusman,Klara Kristin,Ugo Fox
+id:1167|genre:Comedy,Drama|director:Geoff Burton,Kevin Dowling|actors:Jack Thompson,Russell Crowe,John Polson,Deborah Kennedy
+id:1168|genre:Drama|director:Bernardo Bertolucci|actors:Keanu Reeves,Ruocheng Ying,Chris Isaak,Alex Wiesendanger
+id:1169|genre:Crime,Drama,Thriller|director:Boaz Yakin|actors:Sean Nelson,Giancarlo Esposito,Samuel L. Jackson,N'Bushe Wright
+id:1170|genre:Comedy,Drama|director:David O. Russell|actors:Jeremy Davies,Elizabeth Newett,Benjamin Hendrickson,Alberta Watson
+id:1171|genre:Drama|director:André Téchiné|actors:Élodie Bouchez,Gaël Morel,Stéphane Rideau,Frédéric Gorny
+id:1172|genre:Comedy,Drama|director:Diane English|actors:Meg Ryan,Annette Bening,Eva Mendes,Debra Messing
+id:1173|genre:Drama|director:Abdullah Oguz|actors:Talat Bulut,Özgü Namal,Murat Han,Mustafa Avkiran
+id:1174|genre:Drama,Film-Noir,Thriller|director:Max Ophüls|actors:James Mason,Barbara Bel Geddes,Robert Ryan,Frank Ferguson
+id:1175|genre:Comedy,Romance|director:Robert Downey Sr.|actors:Alyssa Milano,Mark Boone Junior,Malcolm McDowell,Brendan Dawson
+id:1176|genre:Drama,War|director:Michael Winterbottom|actors:Stephen Dillane,Woody Harrelson,Marisa Tomei,Emira Nusevic
+id:1177|genre:Comedy,Adventure,Family|director:Ken Kwapis|actors:Jason Alexander,Faye Dunaway,Eric Lloyd,Rupert Everett
+id:1178|genre:Adventure,Comedy,Family|director:Nick Castle|actors:Damon Wayans,Michael Ironside,Scott Bigelow,Joseph Blaire
+id:1179|genre:Action,Comedy|director:Stephen Herek|actors:Tommy Lee Jones,Cedric the Entertainer,Christina Milian,Paula Garcés
+id:1180|genre:Action,Comedy,Romance|director:Charles Shyer|actors:Nick Nolte,Julia Roberts,Saul Rubinek,James Rebhorn
+id:1181|genre:Action,Comedy,Crime|director:Keenen Ivory Wayans|actors:Keenen Ivory Wayans,Charles S. Dutton,Jada Pinkett Smith,Salli Richardson-Whitfield
+id:1182|genre:Comedy,Crime,Thriller|director:Michael Ritchie|actors:Chevy Chase,Jack Palance,Dianne Wiest,Robert Davi
+id:1183|genre:Action,Comedy,Crime|director:Gregg Champion|actors:Woody Harrelson,Kiefer Sutherland,Dylan McDermott,Ernie Hudson
+id:1184|genre:Documentary,Adventure,Sport|director:Bruce Brown|actors:Robert 'Wingnut' Weaver,Patrick O'Connell,Robert August,T.J. Barron
+id:1185|genre:Comedy,War|director:Daniel Petrie Jr.|actors:Pauly Shore,Andy Dick,Lori Petty,David Alan Grier
+id:1186|genre:Romance,Comedy,Drama|director:Matty Rich|actors:Larenz Tate,Joe Morton,Suzzanne Douglas,Glynn Turman
+id:1187|genre:Action,Crime,Drama|director:Jack Hill|actors:Robbie Lee,Joanne Nail,Monica Gayle,Asher Brauner
+id:1188|genre:Action,Western|director:Geoff Murphy|actors:Emilio Estevez,Kiefer Sutherland,Lou Diamond Phillips,Christian Slater
+id:1189|genre:Biography,Drama,Romance|director:Steve James|actors:Jared Leto,R. Lee Ermey,Ed O'Neill,Breckin Meyer
+id:1190|genre:Comedy,Romance|director:Carl Reiner|actors:Bette Midler,Dennis Farina,Paula Marshall,Gail O'Grady
+id:1191|genre:Crime,Drama,Mystery|director:Marvin Baker,Bret Michaels|actors:Bret Michaels,Martin Sheen,Kristi Gibson,Simon Elsworth
+id:1192|genre:Drama|director:John N. Smith|actors:Henry Czerny,Johnny Morina,Brian Dooley,Philip Dinn
+id:1193|genre:Drama,War|director:Milcho Manchevski|actors:Grégoire Colin,Josif Josifovski,Boris Delcevski,Dejan Velkov
+id:1194|genre:Crime,Drama|director:Lee Tamahori|actors:Rena Owen,Temuera Morrison,Mamaengaroa Kerr-Bell,Julian Arahanga
+id:1195|genre:Comedy,Drama,Romance|director:Tomás Gutiérrez Alea,Juan Carlos Tabío|actors:Jorge Perugorría,Vladimir Cruz,Mirta Ibarra,Francisco Gattorno
+id:1196|genre:Biography,Drama|director:Cyril Collard|actors:Cyril Collard,Romane Bohringer,Carlos López,Corine Blue
+id:1197|genre:Comedy,Drama|director:Richard Pearce|actors:Robert Duvall,James Earl Jones,Michael Beach,Irma P. Hall
+id:1198|genre:Crime,Drama,Thriller|director:René Clément|actors:Alain Delon,Maurice Ronet,Marie Laforêt,Erno Crisa
+id:1199|genre:Comedy,Horror|director:Michele Soavi|actors:Rupert Everett,François Hadji-Lazaro,Anna Falchi,Mickey Knox
+id:1200|genre:Adventure,Drama,Family|director:Victor Saville|actors:Errol Flynn,Dean Stockwell,Paul Lukas,Robert Douglas
+id:1201|genre:Documentary|director:Chris Hunt|actors:Marlene Dietrich,Maria Riva,David Riva,Steven Bach
+id:1202|genre:Comedy|director:Sönke Wortmann|actors:Til Schweiger,Katja Riemann,Joachim Król 
+id:1203|genre:Comedy,Musical,Romance|director:Mark Sandrich|actors:Fred Astaire,Ginger Rogers,Edward Everett Horton,Erik Rhodes
+id:1204|genre:Comedy,War|director:Ernst Lubitsch|actors:Carole Lombard,Jack Benny,Robert Stack,Felix Bressart
+id:1205|genre:Drama,Thriller|director:Christopher Hampton|actors:Bob Hoskins,Patricia Arquette,Gérard Depardieu,Jim Broadbent
+id:1206|genre:Drama|director:Michael Tuchner|actors:Kirk Douglas,Elizabeth Montgomery,Dorothy McGuire,Pat Morita
+id:1207|genre:Crime,Drama,Thriller|director:William Friedkin|actors:David Caruso,Linda Fiorentino,Chazz Palminteri,Richard Crenna
+id:1208|genre:Action,Crime,Thriller|director:Barbet Schroeder|actors:David Caruso,Samuel L. Jackson,Nicolas Cage,Helen Hunt
+id:1209|genre:Comedy,Drama|director:Nora Ephron|actors:Steve Martin,Madeline Kahn,Robert Klein,Anthony LaPaglia
+id:1210|genre:Action,Crime,Sci-Fi|director:Brett Leonard|actors:Denzel Washington,Kelly Lynch,Russell Crowe,Stephen Spinella
+id:1211|genre:Drama,Romance|director:Tony Richardson|actors:Jessica Lange,Tommy Lee Jones,Powers Boothe,Carrie Snodgress
+id:1212|genre:Drama|director:N/A|actors:Sarah Hay,Ben Daniels,Emily Tyra,Irina Dvorovenko
+id:1213|genre:Crime,Drama,Thriller|director:Sidney Lumet|actors:Rebecca De Mornay,Don Johnson,Stephen Lang,Jack Warden
+id:1214|genre:Biography,Drama,Horror|director:Nagisa Ôshima|actors:Tatsuya Fuji,Eiko Matsuda,Aoi Nakajima,Yasuko Matsui
+id:1215|genre:Action,Sci-Fi|director:David Hogan|actors:Amir AboulEla,Adriana Alexander,David Andriole,Vanessa Lee Asher
+id:1216|genre:Drama,Romance|director:Lynne Stopkewich|actors:Molly Parker,Peter Outerbridge,Jay Brazeau,Natasha Morley
+id:1217|genre:Action,Crime,Thriller|director:Richard Donner|actors:Sylvester Stallone,Antonio Banderas,Julianne Moore,Anatoli Davydov
+id:1218|genre:Comedy,Drama|director:F. Gary Gray|actors:Ice Cube,Chris Tucker,Nia Long,Tommy 'Tiny' Lister
+id:1219|genre:Animation,Adventure,Comedy|director:Kevin Lima|actors:Bill Farmer,Jason Marsden,Jim Cummings,Kellie Martin
+id:1220|genre:Crime,Drama,Romance|director:John Singleton|actors:Omar Epps,Kristy Swanson,Michael Rapaport,Jennifer Connelly
+id:1221|genre:Drama,Romance|director:Luis Mandoki|actors:Andy Garcia,Meg Ryan,Ellen Burstyn,Tina Majorino
+id:1222|genre:Action,Crime,Drama|director:Stephen Hopkins|actors:Emilio Estevez,Cuba Gooding Jr.,Denis Leary,Stephen Dorff
+id:1223|genre:Animation,Comedy,Drama|director:N/A|actors:Mike Judge,Kathy Najimy,Pamela Adlon,Johnny Hardwick
+id:1224|genre:Comedy,Drama,Sport|director:Michael Ritchie|actors:Albert Brooks,Brendan Fraser,Dianne Wiest,Anne Twomey
+id:1225|genre:Comedy,Drama|director:Patrick Read Johnson|actors:Perry Anzilotti,Kathy Bates,Robert Curtis Brown,Kevin Connolly
+id:1226|genre:Crime,Drama|director:Sidney Lumet|actors:Andy Garcia,Ian Holm,James Gandolfini,Lena Olin
+id:1227|genre:Comedy,Drama,Romance|director:Mike Newell|actors:Alan Rickman,Hugh Grant,Georgina Cates,Alun Armstrong
+id:1228|genre:Action,Thriller|director:Geoff Murphy|actors:Steven Seagal,Eric Bogosian,Everett McGill,Katherine Heigl
+id:1229|genre:Drama,Thriller|director:Anne Goursaud|actors:Alyssa Milano,Johnathon Schaech,Xander Berkeley,Belinda Bauer
+id:1230|genre:Comedy,Drama|director:Robert Altman|actors:Marcello Mastroianni,Sophia Loren,Jean-Pierre Cassel,Kim Basinger
+id:1231|genre:Action,Adventure,Crime|director:Dwight H. Little|actors:Steven Seagal,Basil Wallace,Keith David,Tom Wright
+id:1232|genre:Documentary,Music|director:Alek Keshishian|actors:Madonna,Donna DeLory,Niki Harris,Luis Camacho
+id:1233|genre:Drama|director:Claire Denis|actors:Grégoire Colin,Alice Houri,Jacques Nolot
+id:1234|genre:Comedy|director:Alex Zamm|actors:Scott 'Carrot Top' Thompson,Courtney Thorne-Smith,Larry Miller,Raquel Welch
+id:1235|genre:Comedy,Romance|director:N/A|actors:Johnny Galecki,Jim Parsons,Simon Helberg,Kunal Nayyar
+id:1236|genre:Short,Comedy|director:Jonathan Hayes|actors:Raquel Rosser,Brandon Ficara,Jonathan Hayes,Kyliah Lloyd
+id:1237|genre:Crime,Drama,Mystery|director:Philip Kaufman|actors:Ashley Judd,Samuel L. Jackson,Andy Garcia,David Strathairn
+id:1238|genre:Drama,Romance|director:Gaël Morel|actors:Élodie Bouchez,Stéphane Rideau,Pascal Cervo,Meziane Bardadi
+id:1239|genre:Action,Adventure,Comedy|director:Renny Harlin|actors:Geena Davis,Matthew Modine,Frank Langella,Maury Chaykin
+id:1240|genre:Action,Crime,Drama|director:Rupert Sanders|actors:Scarlett Johansson,Pilou Asbæk,Takeshi Kitano,Juliette Binoche
+id:1241|genre:Comedy,Drama|director:Stephen Frears|actors:Colm Meaney,Donal O'Kelly,Ger Ryan,Caroline Rothwell
+id:1242|genre:Comedy|director:Laurent Heynemann|actors:Jeanne Moreau,Michel Serrault,Luc Thuillier,Géraldine Danon
+id:1243|genre:Fantasy,Horror,Mystery|director:Mark Pavia|actors:Miguel Ferrer,Julie Entwisle,Dan Monahan,Michael H. Moss
+id:1244|genre:Action,Comedy,Crime|director:Thomas Carter|actors:Eddie Murphy,Kim Miyori,Art Evans,James Carpenter
+id:1245|genre:Comedy,Crime,Drama|director:Vondie Curtis-Hall|actors:Tupac Shakur,Tim Roth,Thandie Newton,Charles Fleischer
+id:1246|genre:Adventure,Comedy,Crime|director:Greg Beeman|actors:Daniel Stern,Jon Polito,Brad Sullivan,Ann Dowd
+id:1247|genre:Romance,Western|director:Jonathan Kaplan|actors:Madeleine Stowe,Mary Stuart Masterson,Andie MacDowell,Drew Barrymore
+id:1248|genre:Crime,Drama,Mystery|director:Michael Apted|actors:Madeleine Stowe,Aidan Quinn,James Remar,Peter Friedman
+id:1249|genre:Comedy,Drama,Romance|director:Barry Sonnenfeld|actors:Michael J. Fox,Gabrielle Anwar,Anthony Higgins,Michael Tucker
+id:1250|genre:Action,Crime,Drama|director:Phillip Rhee|actors:Phillip Rhee,Christopher McDonald,Gina Gershon,Mark Rolston
+id:1251|genre:Comedy,Romance|director:Nana Dzhordzhadze|actors:Pierre Richard,Micheline Presle,Nino Kirtadze,Jean-Yves Gautier
+id:1252|genre:Drama|director:Jean-Luc Godard|actors:Brigitte Bardot,Fritz Lang,Jack Palance,Giorgia Moll
+id:1253|genre:Crime,Drama,Thriller|director:Wesley Strick|actors:Daryl Hannah,Keith Carradine,Moira Kelly,Vincent Spano
+id:1254|genre:Comedy,Crime|director:Christopher Cain|actors:Joe Pesci,Danny Glover,Rosanna Arquette,Lynn Whitfield
+id:1255|genre:Comedy,Drama,Romance|director:Zoe R. Cassavetes|actors:Parker Posey,Drea de Matteo,Tim Guinee,Gena Rowlands
+id:1256|genre:Drama|director:David Hare|actors:Mike Nichols,Miranda Richardson,David de Keyser
+id:1257|genre:Drama|director:David Hare|actors:Mike Nichols,Miranda Richardson,David de Keyser
+id:1258|genre:Comedy,Romance|director:Jonathan Lynn|actors:Michael Richards,Jeff Daniels,Charlize Theron,Jessica Steen
+id:1259|genre:Comedy,Romance|director:Bryan Gordon|actors:Josh Charles,Anne Heche,John Goodman,Christine Lahti
+id:1260|genre:Biography,Drama,Romance|director:Agnieszka Holland|actors:Leonardo DiCaprio,David Thewlis,Romane Bohringer,Dominique Blanc
+id:1261|genre:Drama,Romance|director:Peter Yates|actors:Albert Finney,Matt Keeslar,Victoria Smurfit,Anthony Brophy
+id:1262|genre:Comedy,Drama,Romance|director:Nicole Holofcener|actors:Amy Braverman,Miranda Rhyne,Catherine Keener,Anne Heche
+id:1263|genre:Drama|director:Annette Haywood-Carter|actors:Hedy Burress,Angelina Jolie,Jenny Lewis,Jenny Shimizu
+id:1264|genre:Action,Adventure,Comedy|director:Steve Oedekerk|actors:Martin Lawrence,TimRobbins,John C. McGinley,Giancarlo Esposito
+id:1265|genre:Comedy,Drama|director:Miguel Arteta|actors:Douglas Spain,Efrain Figueroa,Kandeyce Jorden,Martha Velez
+id:1266|genre:Comedy,Drama|director:Franco Brusati|actors:Nino Manfredi,Paolo Turco,Ugo D'Alessio,Tano Cimarosa
+id:1267|genre:Crime,Drama,Mystery|director:Spike Lee|actors:Harvey Keitel,John Turturro,Delroy Lindo,Mekhi Phifer
+id:1268|genre:Drama,Romance,Thriller|director:Roman Polanski|actors:Peter Coyote,Emmanuelle Seigner,Hugh Grant,Kristin Scott Thomas
+id:1269|genre:Comedy,Crime,Drama|director:Billy Wilder|actors:Gary Cooper,Audrey Hepburn,Maurice Chevalier,John McGiver
+id:1270|genre:Comedy,Family|director:James Lapine|actors:Michael J. Fox,Christina Vidal,Nathan Lane,Cyndi Lauper
+id:1271|genre:Adventure,Comedy,Drama|director:Rob Reiner|actors:Elijah Wood,Jason Alexander,Julia Louis-Dreyfus,Marc Shaiman
+id:1272|genre:Comedy,Drama,Romance|director:Aaron Speiser|actors:Kim Wayans,Daniel Beer,Daria Lynn,Randy Powell
+id:1273|genre:Mystery,Romance,Thriller|director:Richard Rush|actors:Bruce Willis,Jane March,Rubén Blades,Lesley Ann Warren
+id:1274|genre:Action,Crime,Sci-Fi|director:Fred Dekker|actors:Robert John Burke,Mario Machado,Remy Ryan,Jodi Long
+id:1275|genre:Action,Crime,Thriller|director:Gary McKendry|actors:Jason Statham,Clive Owen,Robert De Niro,Dominic Purcell
+id:1276|genre:Drama,Sport|director:Steve Gomer|actors:Rhea Perlman,Fredro Starr,Carol Kane,Terrence Howard
+id:1277|genre:Action,Crime,Drama|director:F. Gary Gray|actors:Jada Pinkett Smith,Queen Latifah,Vivica A. Fox,Kimberly Elise
+id:1278|genre:Biography,Drama,Music|director:Gregory Nava|actors:Jennifer Lopez,Jackie Guerra,Constance Marie,Alex Meneses
+id:1279|genre:Action,Adventure,Comedy|director:William Dear|actors:Jonathan Taylor Thomas,Devon Sawa,Scott Bairstow,Frances Fisher
+id:1280|genre:Action,Crime,Drama|director:Jim Kouf|actors:James Belushi,Tupac Shakur,Lela Rochon,Dennis Quaid
+id:1281|genre:Documentary,Biography,Sport|director:Leon Gast,Ryan Moore|actors:Jimmy Kimmel,Sardo Mejia,Liam Neeson,Jinkee Pacquiao
+id:1282|genre:Drama,Comedy|director:Charles Matthau|actors:Piper Laurie,Sissy Spacek,Walter Matthau,Edward Furlong
+id:1283|genre:Comedy,Romance|director:Martha Coolidge|actors:Jack Lemmon,Walter Matthau,Dyan Cannon,Gloria DeHaven
+id:1284|genre:Crime,Drama,Mystery|director:Barbet Schroeder|actors:Meryl Streep,Liam Neeson,Edward Furlong,Julia Weldon
+id:1285|genre:Comedy,Drama,History|director:Michael Austin|actors:Jim Broadbent,Phoebe Cates,Wendy Hughes,Kevin Kline
+id:1286|genre:Comedy,Drama,Music|director:Masayuki Suo|actors:Kôji Yakusho,Tamiyo Kusakari,Naoto Takenaka,Eri Watanabe
+id:1287|genre:Comedy,Family,Sport|director:Bill Couturié|actors:Matt LeBlanc,Gene Ross,Paul Hewitt,Sage Allen
+id:1288|genre:Comedy|director:Hal Salwen|actors:Tim Daly,Caroleen Feeney,Dan Gunther,Dana Wheeler-Nicholson
+id:1289|genre:Comedy,Drama,Romance|director:Tim Sullivan|actors:Richard E. Grant,Samantha Mathis,Judi Dench
+id:1290|genre:Drama,Romance|director:Michael Blakemore|actors:Sam Neill,Greta Scacchi,John Hargreaves,Kerry Fox
+id:1291|genre:Comedy,Sport|director:Tom DeCerchio|actors:Damon Wayans,Daniel Stern,Dan Aykroyd,Gail O'Grady
+id:1292|genre:Comedy,Family,Fantasy|director:Michael Ritchie|actors:Robert Pastorelli,Ruby Dee,Francis Capra,Jonathan Hadary
+id:1293|genre:Adventure,Sci-Fi,Family|director:Manny Coto|actors:Joseph Mazzello,Richard Gilliland,Corinne Bohrer,Alex Daniels
+id:1294|genre:Documentary,Biography|director:Michael Paxton|actors:Sharon Gless,Michael S. Berliner,Harry Binswanger,Sylvia Bokor
+id:1295|genre:Comedy,Crime,Drama|director:Matthew Harrison|actors:Kevin Corrigan,Linda Fiorentino,Michael Rapaport,Lili Taylor
+id:1296|genre:Comedy,Drama,Romance|director:Mike Binder|actors:Alan Arkin,Matt Craven,Diane Lane,Bill Paxton
+id:1297|genre:Comedy,Drama,Romance|director:Glenn Gordon Caron|actors:Warren Beatty,Annette Bening,Katharine Hepburn,Garry Shandling
+id:1298|genre:Comedy,Musical,Romance|director:Vincente Minnelli|actors:Fred Astaire,Cyd Charisse,Oscar Levant,Nanette Fabray
+id:1299|genre:Drama,Romance|director:George Stevens|actors:Irene Dunne,Cary Grant,Beulah Bondi,Edgar Buchanan
+id:1300|genre:Romance,Comedy|director:Scott Winant|actors:John Plumpis,Janel Moloney,Yvonne Zima,Christine Ebersole
+id:1301|genre:Comedy,War|director:Ivan Reitman|actors:Bill Murray,Harold Ramis,Warren Oates,P.J. Soles
+id:1302|genre:Comedy|director:Bettina Oberli|actors:Stephanie Glaser,Annemarie Düringer,Heidi Maria Glössner,Monica Gubser
+id:1303|genre:Action,Crime,Drama|director:Sam Peckinpah|actors:Steve McQueen,Ali MacGraw,Ben Johnson,Sally Struthers
+id:1304|genre:Action,Crime,Drama|director:Tôru Murakawa|actors:Tôru Nakamura,Chad McQueen,Mira Sorvino,Conan Lee
+id:1305|genre:Adventure,Comedy|director:Kelly Makin|actors:Matt Frewer,Valerie Mahaffey,Lawrence Dane
+id:1306|genre:Drama|director:Zalman King|actors:Audie England,Costas Mandylor,Eric da Silva,Raven Snow
+id:1307|genre:Documentary,Biography,Music|director:Helena Solberg|actors:Cynthia Adler,Eric Barreto,Mario Cunha,Alice Faye
+id:1308|genre:Comedy,Drama|director:Victoria Foyt,Henry Jaglom|actors:Victoria Foyt,Matt Salinger,Frances Fisher,Eric Roberts
+id:1309|genre:Drama,Romance|director:Christopher Larkin|actors:Robert McLane,Curt Gareth,Bo White,Anthony McKay
+id:1310|genre:Drama,War|director:Lewis Milestone|actors:Dana Andrews,Richard Conte,George Tyne,John Ireland
+id:1311|genre:Comedy,Drama,Romance|director:Forest Whitaker|actors:Whitney Houston,Angela Bassett,Loretta Devine,Lela Rochon
+id:1312|genre:Comedy,Drama,Romance|director:Richard Schenkman|actors:Adrian Pasdar,Paige Turco,Arabella Field,Dana Wheeler-Nicholson
+id:1313|genre:Crime,Drama,Mystery|director:Volker Schlöndorff|actors:Woody Harrelson,Elisabeth Shue,Gina Gershon,Rolf Hoppe
+id:1314|genre:Action,Adventure,Crime|director:Ernest R. Dickerson|actors:Ice-T,Rutger Hauer,Charles S. Dutton,Gary Busey
+id:1315|genre:Drama,Romance|director:Pat O'Connor|actors:Joaquin Phoenix,Billy Crudup,Will Patton,Kathy Baker
+id:1316|genre:Drama,Romance,Western|director:Robert Redford|actors:Robert Redford,Kristin Scott Thomas,Sam Neill,Dianne Wiest
+id:1317|genre:Drama|director:John Duigan|actors:Jason Patric,Thandie Newton,Larry Drake,Sam Waterston
+id:1318|genre:Documentary|director:Robert Leacock|actors:Christy Turlington,Azzedine Alaïa,Giorgio Armani,Nadja Auermann
+id:1319|genre:Drama|director:Terence Davies|actors:Jacob Tierney,Drake Bell,Gena Rowlands,Diana Scarwid
+id:1320|genre:Drama,Thriller|director:Ross Kagan Marks|actors:Blythe Danner,Frank Whaley,Sheryl Lee,Danny Nucci
+id:1321|genre:Animation,Adventure,Comedy|director:Roger Allers,Jill Culton,Anthony Stacchi(co-director)|actors:Martin Lawrence,Ashton Kutcher,Gary Sinise,Debra Messing
+id:1322|genre:Documentary,Short|director:Josh Oreck|actors:N/A
+id:1323|genre:Drama|director:Jianxin Huang|actors:Shih Chang,Mingjun Kao,Pao-Ming Ku 
+id:1324|genre:Action,Crime,Drama|director:Alan Pao|actors:Jesse Metcalfe,Corey Large,Monica Keena,Nathalie Kelley
+id:1325|genre:Drama|director:Austin Chick|actors:Josh Hartnett,Naomie Harris,Adam Scott,Robin Tunney
+id:1326|genre:Drama,Romance|director:Mischa Kamp|actors:Gijs Blom,Ko Zandvliet,Jonas Smulders,Ton Kas
+id:1327|genre:Crime,Drama,Romance|director:Angela Pope|actors:Julia Ormond,Tim Roth,Keith Allen,Siobhan Redmond
+id:1328|genre:Drama|director:Betty Kaplan|actors:Antonio Banderas,Jennifer Connelly,Stefania Sandrelli,Diego Wallraff
+id:1329|genre:Drama|director:George Hickenlooper|actors:Rory Cochrane,Sean Astin,Kyra Sedgwick,Ron Livingston
+id:1330|genre:Drama,Romance,War|director:Lucian Pintilie|actors:Kristin Scott Thomas,Claudiu Bleont,Olga Tudorache,George Constantin
+id:1331|genre:Documentary,Music|director:Yale Strom|actors:Leopold Kozlowski
+id:1332|genre:Biograpy,Drama|director:Gérard Mordillat|actors:Sami Frey,Marc Barbé,Julie Jézéquel
+id:1333|genre:Crime,Drama|director:Mel Chionglo|actors:Alex Del Rosario,Gandong Cervantes,Lawrence David,Luis Cortes
+id:1334|genre:Comedy,Drama|director:Alexandre Rockwell|actors:Rosie Perez,Harvey Keitel,Anthony Quinn,Michael DeLorenzo
+id:1335|genre:Drama|director:Michael Corrente|actors:Dustin Hoffman,Dennis Franz,Sean Nelson
+id:1336|genre:Comedy,Family,Fantasy|director:Paul Michael Glaser|actors:Shaquille O'Neal,Francis Capra,Ally Walker,James Acheson
+id:1337|genre:Comedy,Family|director:Howard Franklin|actors:Jerry Adler,Bill Murray,Richard Alan Baker,Richie Allan
+id:1338|genre:Drama,War|director:Nicolas Roeg|actors:Sonia Braga,Patrick Malahide,Ion Caramitru,Sevilla Delofski
+id:1339|genre:Comedy,Drama|director:Maurizio Nichetti|actors:Maurizio Nichetti,Elena Sofia Ricci,Amanda Sandrelli,Caterina Sylos Labini
+id:1340|genre:Drama,Romance,Thriller|director:Alex Graves|actors:Jennifer Taylor,Aaron Shields,Robert Peterson,Michael Sibay
+id:1341|genre:Drama,Romance,War|director:Paul Turner|actors:Huw Garmon,Catrin Fychan,Ceri Cunnington,Llio Silyn
+id:1342|genre:Comedy,Fantasy,Horror|director:Mike Mendez|actors:Joanna Canton,Richard Trapp,Dax Miller,Renée Graham
+id:1343|genre:Drama|director:John Rubino|actors:Lawrence Gilliard Jr.,Wendell Holmes,Barbara Gonzalez,Suzanne Costollos
+id:1344|genre:Drama,Romance|director:Li Yin|actors:Wenli Jiang,Xingli Niu,Shaojun Tian 
+id:1345|genre:Crime,Drama,Mystery|director:Ho Yim|actors:Gaowa Siqin,Chung-Hua Tou,Jingwu Ma
+id:1346|genre:Drama,Music|director:Rolf de Heer|actors:Colin Friels,Miles Davis,Helen Buday,Joe Petruzzi
+id:1347|genre:Drama|director:Shôhei Imamura|actors:Ken Ogata,Sumiko Sakamoto,Tonpei Hidari,Aki Takejô
+id:1348|genre:Short,Drama|director:Tim Slade|actors:Damian de Montemas,Adeline Harvey,Benjamin Winspear,Matt Zeremes
+id:1349|genre:Comedy,Romance|director:Leone Pompucci|actors:Carla Benedetti,Matteo Fadda,Giacomo Fadda,Stefano Masciarelli
+id:1350|genre:Drama|director:Junli Zheng|actors:Dan Zhao,Yinyan Wu,Daolin Sun 
+id:1351|genre:Comedy,Romance|director:Peter Shaner|actors:Billy Campbell,Jennifer Grey,Tim Curry,Adam Baldwin
+id:1352|genre:Drama|director:Daniel Schmid|actors:Ingrid Caven,Rainer Werner Fassbinder,Annemarie Düringer,Adrian Hoven
+id:1353|genre:Romance,Drama|director:Theo van Gogh|actors:Ariane Schluter,Ad van Kempen
+id:1354|genre:Drama|director:Henry Jaglom|actors:Henry Jaglom,Nelly Alard,Melissa Leo,Suzanne Bertish
+id:1355|genre:Biography,Drama|director:Matthew Broderick|actors:Matthew Broderick,Jeffrey Force,Peter Riegert,David Drew Gallagher
+id:1356|genre:Romance,Comedy|director:John Walsh|actors:Matt Ross,Catherine Curtin,Timothy Pilato,Ramon Moses
+id:1357|genre:Romance,War,Drama|director:Aaron Kim Johnston|actors:Russell Crowe,Christianne Hirt,Wanda Cannon,Scott Kraft
+id:1360|genre:Biography,Comedy,Romance|director:Jan Bucquoy|actors:Jean-Henri Compère,Noe Francq,Isabelle Legros
+id:1361|genre:Comedy|director:Sam Henry Kass|actors:Holt McCallany,Michael Badalucco,Nicholas Turturro,Ray 'Boom Boom' Mancini
+id:1362|genre:Action,Comedy|director:Michael Covert|actors:Scott Plank,Melora Walters,John Savage,Brion James
+id:1363|genre:Documentary|director:Hugo Van Lawick|actors:John Gielgud
+id:1364|genre:Crime,Drama,Music|director:Temístocles López|actors:Jennifer Tilly,Boyan Milushev,Richard Chamberlain,Lenny von Dohlen
+id:1365|genre:Drama|director:Gustavo Graef Marino|actors:Armando Araiza
+id:1366|genre:Documentary,Drama|director:Jean-Luc Godard|actors:Jean-Luc Godard,Geneviève Pasquier,Denis Jadót
+id:1367|genre:Drama,Fantasy,Horror|director:F.W. Murnau|actors:Gösta Ekman,Emil Jannings,Camilla Horn,Frida Richard
+id:1368|genre:Drama|director:Martine Dugowson|actors:Romane Bohringer,Elsa Zylberstein,Florence Thomassin,Jean-Philippe Écoffey
+id:1369|genre:Drama,Mystery,War|director:Curzio Malaparte|actors:Raf Vallone, Rina Morelli, Alain Cuny
+id:1370|genre:Drama,Mystery,Romance|director:Claire Denis|actors:Yekaterina Golubeva,Richard Courcet,Vincent Dupont,Laurent Grévill
+id:1371|genre:Action,Drama,Sci-Fi|director:Caradog W. James|actors:Toby Stephens,Caity Lotz,Denis Lawson,Sam Hazeldine
+id:1372|genre:Crime,Drama,Film-Noir|director:Orson Welles|actors:Edward G. Robinson,Loretta Young,Orson Welles,Philip Merivale
+id:1373|genre:Comedy,Drama|director:Yasujirô Ozu|actors:Keiji Sada,Yoshiko Kuga,Chishû Ryû,Kuniko Miyake
+id:1374|genre:Drama,Romance|director:Steven Paul|actors:Elliott Gould,Susannah York,Kaye Ballard,Stuart Paul
+id:1375|genre:Drama|director:Andrew Birkin|actors:Andrew Robertson,Charlotte Gainsbourg,Alice Coulthard,Ned Birkin
+id:1376|genre:Comedy|director:Peter Baldwin|actors:Rodney Dangerfield,Debi Mazar,David Ogden Stiers,Burt Reynolds
+id:1377|genre:Comedy,Drama,Romance|director:Craig Rosenberg|actors:Aden Young,Saffron Burrows,Simon Bossell,Pippa Grandison
+id:1378|genre:Documentary,Music|director:Peter Spirer|actors:B-Real,Kurtis Blow,Da Brat,Chuck D
+id:1379|genre:Comedy,Romance|director:Emma-Kate Croghan|actors:Matt Day,Matthew Dyktynski,Alice Garner,Frances O'Connor
+id:1380|genre:Drama|director:Angela Pope|actors:Sam Bould,Martin Donovan,Ian Hart,Joely Richardson
+id:1381|genre:Drama|director:Kevin Bacon|actors:Helen Mirren,Kyra Sedgwick,Beau Bridges,Michael Yarmush
+id:1382|genre:Drama,Romance|director:Agnès Varda|actors:Jean-Claude Drouot,Claire Drouot,Olivier Drouot,Sandrine Drouot
+id:1383|genre:Adventure,Comedy,Drama|director:Dee McLachlan|actors:Jamie Williams,Billy Campbell,Roddy McDowall,David Paul Francis
+id:1384|genre:Crime,Drama|director:Robert Patton-Spruill|actors:Tyrone Burton,Eddie Cutanda,Phuong Duong,Geoffrey Rhue
+id:1385|genre:Comedy,Romance,Drama|director:Paul Weiland|actors:Jean Reno,Mercedes Ruehl,Polly Walker,Mark Frankel
+id:1386|genre:Horror,Sci-Fi|director:Shin'ya Tsukamoto|actors:Tomorô Taguchi,Shin'ya Tsukamoto,Nobu Kanaoka,Sujin Kim
+id:1387|genre:Drama,Romance|director:Eric Schaeffer|actors:Eric Schaeffer,Amanda De Cadenet,Rudolf Martin,Francie Swift
+id:1388|genre:Drama,Mystery,Romance|director:Mohsen Makhmalbaf|actors:Abbas Sayah,Shaghayeh Djodat,Hossein Moharami,Rogheih Moharami
+id:1389|genre:Drama|director:Tony Gatlif|actors:Ovidiu Balan,Philippe Petit,Pierrette Fesch,Jerry Smith
+id:1390|genre:Crime,Drama,Thriller|director:Scott Michell|actors:Oliver Cotton,Tony Bluto,Paul Brightwell,Michael Gambon
+id:1391|genre:Comedy,Drama,War|director:Jean-Luc Godard|actors:Madeleine Assas,Ghalia Lacroix,Bérangère Allaux,Vicky Messica
+id:1392|genre:Drama|director:John Patrick Kelley|actors:Kate Capshaw,Jeremy Davies,Vince Vaughn,Ashley Judd
+id:1393|genre:Comedy,Mystery|director:N/A|actors:Stephen Campbell Moore,JJ Feild,Jim Howick,Amit Shah
+id:1394|genre:Drama,Mystery,Romance|director:Beeban Kidron|actors:Rachel Weisz,Vincent Perez,Ian McKellen 
+id:1395|genre:Crime,Drama,Romance|director:Morgan J. Freeman|actors:Brendan Sexton III,Antoine McLean,Mtume Gant,Carlo Alban
+id:1396|genre:Drama|director:Roland Emmerich|actors:Jeremy Irvine,Jonny Beauchamp,Joey King,Caleb Landry Jones
+id:1397|genre:Drama,Romance|director:John Cromwell|actors:Leslie Howard,Bette Davis,Frances Dee,Kay Johnson
+id:1398|genre:Drama,Mystery,Thriller|director:Jorge Dorado|actors:Mark Strong,Saskia Reeves,Richard Dillane,Indira Varma
+id:1399|genre:Crime,Drama|director:Georges Lautner|actors:Jean-Paul Belmondo,Renée Faure,Cristiana Réali,Sébastien Tavel
+id:1400|genre:Drama,Romance|director:Kayo Hatta|actors:Yûki Kudô,Cary-Hiroyuki Tagawa,Tamlyn Tomita,Akira Takayama
+id:1401|genre:Drama,Romance|director:David Cronenberg|actors:Jeremy Irons,John Lone,Barbara Sukowa,Ian Richardson
+id:1402|genre:Action,Adventure,Comedy|director:Amal Neerad|actors:Dulquer Salmaan,Karthika Muraleedharan,Siddique,Chandini Sreedharan
+id:1403|genre:Biography,Comedy,Drama|director:Nanni Moretti|actors:Nanni Moretti,Giovanna Bozzolo,Sebastiano Nardone,Antonio Petrocelli
+id:1404|genre:Comedy,Drama|director:Bruce Robinson|actors:Richard E. Grant,Paul McGann,Richard Griffiths
+id:1405|genre:Drama|director:Mark Christopher,Tom DeCerchio|actors:Michael Saucedo,Justin Urich,Travis Sher 
+id:1406|genre:Drama,Romance|director:Patricia Rozema|actors:Pascale Bussières,Rachael Crawford,Henry Czerny,David Fox
+id:1407|genre:Action,Crime,Drama|director:Luis Llosa|actors:Sylvester Stallone,Sharon Stone,James Woods,Rod Steiger
+id:1408|genre:Comedy,Drama,Family|director:Mark Lewis|actors:Doug Stone,Kristy Young,James Donadio,Deborah Hobart
+id:1409|genre:Animation,Comedy,Family|director:Richard Rich|actors:Jack Palance,Howard McGillin,Michelle Nicastro,Liz Callaway
+id:1410|genre:N/A|director:Carmine Gallone|actors:Massimo Girotti,Amedeo Nazzari,Vivi Gioi,Elisa Cegani
+id:1411|genre:Adventure,Comedy,Fantasy|director:Roger Vadim|actors:Jane Fonda,John Phillip Law,Anita Pallenberg,Milo O'Shea
+id:1412|genre:Animation,Adventure,Family|director:Roy Allen Smith|actors:Scott McAfee,Candace Hutson,Heather Hogan,Jeff Bennett
+id:1413|genre:Action,Adventure,Comedy|director:Steven E. de Souza|actors:Jean-Claude Van Damme,Raul Julia,Ming-Na Wen,Damian Chapa
+id:1414|genre:Action,Comedy,Thriller|director:Wallace Wolodarsky|actors:Jason Priestley,Kimberly Williams-Paisley,Peter Riegert,Robert Loggia
+id:1415|genre:Action,Drama,Family|director:Christopher Cain|actors:Pat Morita,Hilary Swank,Michael Ironside,Constance Towers
+id:1416|genre:Action,Thriller|director:John Erick Dowdle|actors:Owen Wilson,Lake Bell,Sterling Jerins,Claire Geare
+id:1417|genre:Drama|director:Jonathan auf der Heide,Tony Ayres,Jub Clerc,Robert Connolly,Shaun Gladwell,Rhys Graham,Justin Kurzel,Yaron Lifschitz,Anthony Lucas,Claire McCarthy,Ian Meadows,Ashlee Page,Stephen Page,Simon Stone,Warwick Thornton,Marieka Walsh,Mia Wasikowska,David Wenham|actors:Colin Friels,James Fraser,Henri Phillips,Nikita Leigh-Pritchard
+id:1418|genre:Drama|director:Wayne Wang|actors:Kieu Chinh,Tsai Chin,France Nuyen,Lisa Lu
+id:1419|genre:Action,Fantasy,Romance|director:Andrew Morahan|actors:Christopher Lambert,Mario Van Peebles,Deborah Kara Unger 
+id:1421|genre:Comedy|director:N/A|actors:Deren Abram,Heather Petrone,Ellen Caranasos,Bryan Friday
+id:1422|genre:Drama,Thriller|director:Scott McGehee,David Siegel|actors:Dennis Haysbert,Mel Harris,Sab Shimono,Dina Merrill
+id:1423|genre:Drama,Horror,Thriller|director:N/A|actors:Andrew Lincoln,Chandler Riggs,Norman Reedus,Melissa McBride
+id:1424|genre:Comedy,Drama,Romance|director:Darnell Martin|actors:Luna Lauren Velez,Jon Seda,Tomas Melly,Desiree Casado
+id:1425|genre:Comedy,Drama|director:James L. Brooks|actors:Nick Nolte,Whittni Wright,Albert Brooks,Julie Kavner
+id:1426|genre:Comedy,Drama,Music|director:Allison Anders|actors:Illeana Douglas,Sissy Boyd,Christina Pickles,Jill Sobule
+id:1427|genre:Drama|director:Peter Cohn|actors:Richard Lewis,Liza Harris,Liam Ahern,George Martin
+id:1428|genre:Drama|director:Richard Linklater|actors:Jayce Bartok,Amie Carey,Nicky Katt,Ajay Naidu
+id:1429|genre:Comedy,Drama,Fantasy|director:Peter Howitt|actors:Gwyneth Paltrow,John Hannah,John Lynch,Jeanne Tripplehorn
+id:1430|genre:Drama,History|director:Joel B. Marsden|actors:Djimon Hounsou,Akosua Busia,De'aundre Bonds,Eartha Kitt
+id:1431|genre:Thriller|director:Monika Harris|actors:Lela Rochon,Jeffrey Dean Morgan,Phil Morris,Cheryl Francis Harrington
+id:1432|genre:Comedy,Drama|director:Peter Chelsom|actors:Harry Dean Stanton,Gena Rowlands,Elden Henson,Douglas Bisset
+id:1433|genre:Action,Drama|director:George Mendeluk|actors:Kaela Dobkin,Raymond Serra,Austin Pendleton,Tony Cucci
+id:1434|genre:Comedy,Crime,Romance|director:Stefan Schwartz|actors:Rowena Cooper,Scott Charles,Antonia Corrigan,Myles Anderson
+id:1435|genre:Comedy|director:Andrew Davis|actors:Andy Garcia,Alan Arkin,Rachel Ticotin
+id:1436|genre:Drama,Romance|director:Mike Figgis|actors:Richard Gere,Lena Olin,Anne Bancroft,Tom Irwin
+id:1437|genre:Comedy,Music,Romance|director:Eric Meza|actors:Christopher Reid,Christopher Martin,David Edwards,Angela Means
+id:1438|genre:Drama|director:Mario Van Peebles|actors:Kadeem Hardison,Bokeem Woodbine,Joe Don Baker,Courtney B. Vance
+id:1439|genre:Crime,Drama,Romance|director:Doug McHenry|actors:Allen Payne,Jada Pinkett Smith,Bokeem Woodbine,Anthony 'Treach' Criss
+id:1440|genre:Crime,Drama,Sport|director:Jeff Pollack|actors:Duane Martin,Leon,Tupac Shakur,David Bailey
+id:1441|genre:Comedy,Drama,Romance|director:David Anspaugh|actors:Elizabeth Perkins,Whoopi Goldberg,Shadia Simmons,Erica Luttrell
+id:1442|genre:Drama,Romance|director:Roland Joffé|actors:Demi Moore,Gary Oldman,Robert Duvall,Lisa Andoh
+id:1443|genre:Biography,Drama,Sport|director:John G. Avildsen|actors:James Rebhorn,Cameron Finley,Carrie Snodgress,Dustin Mayfield
+id:1444|genre:Comedy,Crime,Family|director:Robert Stevenson|actors:Hayley Mills,Dean Jones,Dorothy Provine,Roddy McDowall
+id:1445|genre:Drama|director:Ken Loach|actors:Crissy Rock,Vladimir Vega,Sandie Lavelle,Mauricio Venegas
+id:1446|genre:Short|director:Eun Choi|actors:N/A
+id:1447|genre:Drama,Romance|director:Stephen Poliakoff|actors:Charles Dance,Clive Owen,Miranda Richardson,Robert Stephens
+id:1448|genre:Drama,Romance|director:André Téchiné|actors:Catherine Deneuve,Daniel Auteuil,Marthe Villalonga,Jean-Pierre Bouvier
+id:1449|genre:Drama|director:Satyajit Ray|actors:Kanu Bannerjee,Karuna Bannerjee,Chunibala Devi,Uma Das Gupta
+id:1450|genre:Adventure,Romance,War|director:Mitchell Leisen|actors:Ray Milland,Marlene Dietrich,Murvyn Vye,Bruce Lester
+id:1451|genre:Action,Romance,Thriller|director:Alfred Hitchcock|actors:Joel McCrea,Laraine Day,Herbert Marshall,George Sanders
+id:1452|genre:Comedy,Music,Mystery|director:William A. Wellman|actors:Barbara Stanwyck,Michael O'Shea,J. Edward Bromberg,Iris Adrian
+id:1453|genre:Comedy,Fantasy,Romance|director:Archie Mayo|actors:Paul Muni,Anne Baxter,Claude Rains,Onslow Stevens
+id:1454|genre:Romance,Western|director:James Edward Grant|actors:John Wayne,Gail Russell,Harry Carey,Bruce Cabot
+id:1455|genre:Comedy,Drama,Romance|director:Howard Hughes,Howard Hawks|actors:Jack Buetel,Jane Russell,Thomas Mitchell,Walter Huston
+id:1456|genre:Action,Adventure,Comedy|director:John Huston|actors:Humphrey Bogart,Jennifer Jones,Gina Lollobrigida,Robert Morley
+id:1457|genre:Comedy,Romance|director:Joseph Bologna,Renée Taylor|actors:Lainie Kazan,Joseph Bologna,Barbara Carrera,Renée Taylor,
+id:1458|genre:Comedy,Musical,Romance|director:George Stevens|actors:Fred Astaire,George Burns,Gracie Allen,Joan Fontaine
+id:1459|genre:Drama,Music|director:Frédéric Mitterrand|actors:Ying Huang,Richard Troxell,Ning Liang,Richard Cowan
+id:1460|genre:Comedy,Romance|director:Joe Nussbaum|actors:Alexa PenaVega,Mika Boorem,Jane Lynch,Sam Huntington
+id:1461|genre:Comedy,Music|director:Norman Z. McLeod|actors:George Burns,Gracie Allen,George Barbier,Betty Furness
+id:1462|genre:Crime,Drama,Romance|director:André Téchiné|actors:Catherine Deneuve,Daniel Auteuil,Laurence Côte,Benoît Magimel
+id:1463|genre:Comedy,Drama,Sport|director:Louis Saia|actors:Marc Messier,Rémy Girard,Patrick Huard,Serge Thériault
+id:1464|genre:Drama|director:James Keach|actors:Robert Duvall,Aidan Quinn,Frances Fisher,Brian Dennehy
+id:1465|genre:Comedy,Drama|director:Henry Jaglom|actors:Victoria Foyt,Viveca Lindfors,Jon Robin Baitz,Savannah Smith Boucher
+id:1466|genre:Drama|director:Mort Ransen|actors:Helena Bonham Carter,Clive Russell,Craig Anthony Olejnik,Kate Nelligan
+id:1467|genre:Drama|director:Tim Hunter|actors:Danny Glover,Matt Dillon,Rick Aviles,Nina Siemaszko
+id:1468|genre:Drama|director:Peter Horton|actors:Brad Renfro,Aeryk Egan,Delphine French,Mona Powell
+id:1469|genre:Adventure,Comedy,Drama|director:Peter Hewitt|actors:Jonathan Taylor Thomas,Brad Renfro,Eric Schweig,Charles Rocket
+id:1470|genre:Animation,Action,Adventure|director:Art Clokey|actors:Dal McKennon,Art Clokey,Gloria Clokey,Manny La Carruba
+id:1471|genre:Fantasy,Horror,Thriller|director:Brett Leonard|actors:Jeff Goldblum,Christine Lahti,Alicia Silverstone,Jeremy Sisto
+id:1472|genre:Horror|director:Jack Ersgard|actors:Kjell Bergqvist,Lena Endre,Johannes Brost,Joanna Berglund
+id:1473|genre:Comedy,Drama,Family|director:Walter Lang,William A. Seiter|actors:Shirley Temple,Richard Greene,Anita Louise,Ian Hunter
+id:1474|genre:Comedy,Romance|director:Alan Jacobs|actors:Laura San Giacomo,Paul Rhys,Michael O'Keefe,Cristi Conaway
+id:1475|genre:Comedy,Drama|director:Gurinder Chadha|actors:Kim Vithana,Jimmi Harkishin,Sarita Khajuria,Akbar Kurtha
+id:1476|genre:Action,Crime,Thriller|director:John Irvin|actors:Arnold Schwarzenegger,Kathryn Harrold,Sam Wanamaker,Paul Shenar
+id:1477|genre:Drama,Horror,Thriller|director:Ole Bornedal|actors:Anais Evans,Ewan McGregor,Nick Nolte,Erich Anderson
+id:1478|genre:Action,Crime,Drama|director:Albert Hughes,Allen Hughes|actors:Larenz Tate,Keith David,Chris Tucker,Freddy Rodríguez
+id:1479|genre:Crime,Drama|director:N/A|actors:Kim Wayans,Michael Gladis,Gregory Harrison,Anna Wood
+id:1480|genre:Comedy,Family,Fantasy|director:Robert Stevenson|actors:Helen Hayes,Ken Berry,Stefanie Powers,John McIntire
+id:1481|genre:Comedy,Drama|director:Jefery Levy|actors:Stephen Dorff,Reese Witherspoon,Jake Busey,Joey Lauren Adams
+id:1482|genre:Documentary|director:Richard Gordon,Carma Hinton|actors:Deborah Amos,Carma Hinton,Edward Stanley
+id:1483|genre:Action,Adventure|director:Randall Wallace|actors:Leonardo DiCaprio,Jeremy Irons,John Malkovich,Gérard Depardieu
+id:1484|genre:Comedy,Crime|director:James Melkonian|actors:John G. Brennan,Kamal Ahmed,Alan Arkin,William Hickey
+id:1485|genre:Drama|director:René Le Hénaff|actors:Raimu,Marie Bell,Jacques Baumer,Aimé Clariond
+id:1486|genre:Adventure,Crime,Drama|director:Lucas Platt|actors:Erika Eleniak,William McNamara,Michael Lerner,Bud Cort
+id:1487|genre:Comedy,Drama,Romance|director:Gus Van Sant|actors:Uma Thurman,Lorraine Bracco,Pat Morita,Angie Dickinson
+id:1488|genre:Drama,Romance|director:Claude Berri|actors:Miou-Miou,Renaud,Jean Carmet,Judith Henry
+id:1489|genre:Comedy|director:Dennis Hopper|actors:Tom Berenger,William McNamara,Erika Eleniak,Crispin Glover
+id:1490|genre:Drama|director:Jose Julian Vazquez|actors:Rosa María Bianchi,Antonio de la Vega,Sophie Gómez,Juan Acosta
+id:1491|genre:Action,Drama,Thriller|director:Steve Cohen|actors:Billy Blanks,Roddy Piper,Richard Norton,Charles Kahlenberg
+id:1492|genre:Comedy,Drama,Fantasy|director:Yuri Mamin|actors:Agnès Soral,Sergey Dreyden,Viktor Mikhaylov,Nina Usatova
+id:1493|genre:Comedy,Drama,Romance|director:Vern Oakley|actors:Lisa Eichhorn,Stanley Tucci,Caroline Aaron,Mary Jo Salerno
+id:1494|genre:Comedy,Mystery,Thriller|director:Luigi Zampa|actors:Johnny Dorelli,Sydne Rome,Renzo Palmer,Yves Beneyton
+id:1495|genre:Drama,Romance|director:Hal Hartley|actors:Paul Austin,Robert John Burke,Martin Donovan,Erica Gimpel
+id:1496|genre:Comedy|director:Arthur Hiller|actors:Tom Arnold,David Paymer,Rhea Perlman,Rod Steiger
+id:1497|genre:Documentary,Biography|director:Susan Warms Dryfoos|actors:Julie Andrews,Lauren Bacall,Carol Channing
+id:1498|genre:Documentary|director:Taggart Siegel|actors:John Peterson,Anna Nielsen,John Edwards,Lester Peterson
+id:1499|genre:Short|director:Camille Henrot|actors:Sigrid Bouaziz
+id:1500|genre:Comedy|director:John Murlowski|actors:Hulk Hogan,Don Stark,Robin Curtis,Garrett Morris
+id:1501|genre:Drama,War|director:Sergei Bodrov|actors:Oleg Menshikov,Sergey Bodrov,Jemal Sikharulidze,Susanna Mekhraliyeva
+id:1502|genre:Comedy,Romance|director:Daniel Algrant|actors:Eric Stoltz,Mary-Louise Parker,Ralph Macchio,Jill Clayburgh
+id:1503|genre:Adventure,Drama,Family|director:Kevin James Dobson|actors:Christina Ricci,Anna Chlumsky,Polly Draper,Brian Kerwin
+id:1504|genre:Comedy|director:Sönke Wortmann|actors:Til Schweiger,Katja Riemann,Joachim Król 
+id:1505|genre:Biography,Crime,Drama|director:Tim Metcalfe|actors:James Woods,Robert Sean Leonard,Ellen Greene,Cara Buono
+id:1506|genre:Drama|director:Anne Émond|actors:Mylène Mackay,Marie-Claude Guérin,Catherine Brunet,Marc Béland
+id:1507|genre:Comedy,Crime|director:Raoul Ruiz|actors:Marcello Mastroianni,Anna Galiena,Marisa Paredes,Melvil Poupaud
+id:1508|genre:Drama,Thriller|director:Guy Ferland|actors:Alicia Silverstone,Jeremy London,J.T. Walsh,Lee Garlington
+id:1509|genre:Comedy,Crime,Family|director:Howard Deutch|actors:Macaulay Culkin,Ted Danson,Glenne Headly,Saul Rubinek
+id:1510|genre:Comedy,Crime,Drama|director:Larry Bishop|actors:Ellen Barkin,Gabriel Byrne,Richard Dreyfuss,Jeff Goldblum
+id:1511|genre:Comedy,Drama,Romance|director:Peter Duncan|actors:Judy Davis,Sam Neill,F. Murray Abraham,Richard Roxburgh
+id:1512|genre:Drama|director:Satyajit Ray|actors:Soumitra Chatterjee,Sharmila Tagore,Alok Chakravarty,Swapan Mukherjee
+id:1513|genre:Comedy,Romance|director:Rusty Cundieff|actors:Tisha Campbell-Martin,Rusty Cundieff,Paula Jai Parker,Joe Torry
+id:1514|genre:Comedy,Drama|director:Finn Taylor|actors:David Arquette,Brad Hunt,Cathy Moriarty,Kathryn Erbe
+id:1515|genre:Adventure,Romance|director:Jean-Jacques Annaud|actors:Craig Sheffer,Tom Hulce,Elizabeth McGovern,Val Kilmer
+id:1516|genre:Short,Drama,Music|director:Chris Hanke|actors:Todd Griffitts,Sarah Ellis,Chris Hanke
+id:1517|genre:Adventure,Comedy,Drama|director:Charles T. Kanganis|actors:Halle Berry,James Belushi,Bill Hunter,Casey Affleck
+id:1518|genre:Drama|director:Stephen Gyllenhaal|actors:Jessica Lange,Halle Berry,David Strathairn,Cuba Gooding Jr.
+id:1519|genre:Crime,Drama|director:Nick Gomez|actors:Shar-Ron Corley,Gabriel Casseus,Saul Stein,Gwen McGee
+id:1520|genre:Crime,Thriller|director:N/A|actors:Peter Mullan,Anastasia Hille,Harry Lloyd,Paul Nicholls
+id:1521|genre:Comedy,Romance|director:Anthony Minghella|actors:Matt Dillon,Annabella Sciorra,Mary-Louise Parker,William Hurt
+id:1522|genre:Thriller,Crime,Drama|director:Heywood Gould|actors:Joanne Whalley,Armand Assante,Gabriel Byrne,William Hurt
+id:1523|genre:Comedy|director:Bruce Beresford|actors:Colin Friels,Sean Connery,John Lithgow,Diana Rigg
+id:1524|genre:Drama,History,Mystery|director:Peter Sehr|actors:André Eisermann,Udo Samel,Jeremy Clyde,Katharina Thalbach
+id:1525|genre:Comedy,Drama,Romance|director:Nicholas Hytner|actors:Paul Rudd,Kali Rocha,Jennifer Aniston,Lena Cardwell
+id:1526|genre:Crime,Drama,Romance|director:Peter Weir|actors:Harrison Ford,Kelly McGillis,Josef Sommer,Lukas Haas
+id:1527|genre:Comedy,Romance|director:Penelope Spheeris|actors:Marlon Wayans,Brad Dourif,Esther Scott,Debra Jo Rupp
+id:1528|genre:Comedy,Drama,Sci-Fi|director:Gregg Araki|actors:James Duval,Rachel True,Nathan Bexton,Chiara Mastroianni
+id:1529|genre:Comedy,Drama,War|director:Emir Kusturica|actors:Predrag 'Miki' Manojlovic,Lazar Ristovski,Mirjana Jokovic,Slavko Stimac
+id:1530|genre:Biography,Drama,History|director:James Ivory|actors:Nick Nolte,Gwyneth Paltrow,Estelle Eonnet,Thandie Newton
+id:1531|genre:Adventure,Family|director:Phillip Borsos|actors:Mimi Rogers,Bruce Davison,Jesse Bradford,Tom Bower
+id:1532|genre:Drama|director:Eva Sereny|actors:Robin Givens,Marco Hofschneider,Rick Johnson,Charlotte Ross
+id:1533|genre:Drama,Romance|director:María Luisa Bemberg|actors:Marcello Mastroianni,Luisina Brando,Alejandra Podesta,Betiana Blum
+id:1534|genre:Comedy,Drama|director:Kevin Allen|actors:Llyr Ifans,Rhys Ifans,Dorien Thomas,Dougray Scott
+id:1535|genre:Crime,Drama,Thriller|director:Claude Chabrol|actors:Emmanuelle Béart,François Cluzet,Nathalie Cardone,André Wilms
+id:1537|genre:Comedy,Drama,Music|director:Mark Joffe|actors:Ben Mendelsohn,Barry Otto,Toni Collette,Rachel Griffiths
+id:1538|genre:Crime,Drama,Romance|director:Alex Sichel|actors:Alison Folland,Tara Subkoff,Cole Hauser,Wilson Cruz
+id:1539|genre:Drama,Fantasy,Horror|director:N/A|actors:Sam Witwer,Meaghan Rath,Sam Huntington,Kristen Hager
+id:1540|genre:Family,Adventure,Drama|director:Christopher Cain|actors:Stephen Lang,Ryan Slater,Yi Ding,Wang Fei
+id:1541|genre:Drama|director:Jennifer Warren|actors:Martha Plimpton,Kelly Lynch,Rutger Hauer 
+id:1542|genre:Drama,Romance|director:Roland Joffé|actors:Demi Moore,Gary Oldman,Robert Duvall,Lisa Andoh
+id:1543|genre:Drama,Romance|director:Scott Silver|actors:David Arquette,Lukas Haas,Tony Epper,John C. McGinley
+id:1544|genre:Comedy,Family,Romance|director:Andy Tennant|actors:Kirstie Alley,Steve Guttenberg,Mary-Kate Olsen,Ashley Olsen
+id:1545|genre:Drama,Romance,War|director:Michael Lindsay-Hogg|actors:Corban Walker,Niall Toibin,Owen Roe,Gabriel Byrne
+id:1546|genre:Drama,Romance|director:John Cassavetes|actors:Ben Carruthers,Lelia Goldoni,Hugh Hurd,Anthony Ray
+id:1547|genre:Drama|director:Tod Browning|actors:John Gilbert,Renée Adorée,Lionel Barrymore,Edward Connelly
+id:1548|genre:Action,Thriller|director:Fred Walton|actors:Andrew McCarthy,Mädchen Amick,Cheech Marin,David Packer
+id:1549|genre:Thriller|director:René Bonnière|actors:Patsy Kensit,Bruce Greenwood,Andrew McCarthy,Denise Crosby
+id:1550|genre:Crime,Comedy,Fantasy|director:Jack Baran|actors:Dylan McDermott,Nancy Travis,James Le Gros,Quentin Tarantino
+id:1551|genre:Crime,Drama|director:Charles Burnett|actors:Erich Anderson,Richard Anderson,Thomas Babson,Monty Bane
+id:1552|genre:Action,Crime,Drama|director:William Friedkin|actors:Tommy Lee Jones,Benicio Del Toro,Connie Nielsen,Leslie Stefanson
+id:1553|genre:Crime,Thriller|director:Steven Soderbergh|actors:Peter Gallagher,Alison Elliott,William Fichtner,Adam Trese
+id:1554|genre:Drama|director:Robert Allan Ackerman|actors:Susan Sarandon,Nick Stahl,Sam Shepard,Marcia Gay Harden
+id:1555|genre:Animation,Adventure,Sci-Fi|director:Dave Borthwick|actors:Nick Upton,Deborah Collard,Frank Passingham,John Schofield
+id:1556|genre:Action,Drama,Thriller|director:Mika Kaurismäki|actors:James Russo,Cynda Williams,Paul Calderon,Victor Argo
+id:1557|genre:Comedy,Drama|director:Gray Hofmeyr|actors:Leon Schuster,John Matshikiza,Wilson Dunster,Terri Treas
+id:1558|genre:Drama|director:Satyajit Ray|actors:Kamala Adhikari,Lalchand Banerjee,Kali Bannerjee,Kanu Bannerjee
+id:1559|genre:Action,Drama,Thriller|director:Catherine Cyran|actors:Tia Carrere,Rigg Kennedy,Lisa Dean Ryan,Tricia Leigh Fisher
+id:1560|genre:Comedy,Mystery|director:Mick Jackson|actors:Dana Carvey,Valeria Golino,James Earl Jones,Kevin Pollak
+id:1561|genre:Documentary,Drama|director:Mika Kaurismäki|actors:Samuel Fuller,Jim Jarmusch
+id:1562|genre:Documentary,War|director:Claude Chabrol|actors:Michel Bouquet,Brian Cox,Maquisard Alfonso 
+id:1563|genre:Drama,History|director:Terry George|actors:Oscar Isaac,Charlotte Le Bon,Christian Bale,Daniel Giménez Cacho
+id:1564|genre:Comedy|director:Barry Caillier|actors:Patricia Royce,Lorraine Devon Wilke,JD Souther,Wade Madsen
+id:1565|genre:Biography,Drama,History|director:Stijn Coninx|actors:Jan Decleir,Gérard Desarthe,Antje de Boeck,Michael Pas
+id:1566|genre:Drama,War|director:Robert Z. Leonard|actors:Charles Laughton,Binnie Barnes,Richard Carlson,Donna Reed
+id:1567|genre:Comedy,Drama,Romance|director:Guy Maddin|actors:Kyle McCulloch,Gosia Dobrowolska,Sarah Neville,Brent Neale
+id:1568|genre:Comedy|director:John O'Brien|actors:George Thrush,Marya Cohn,Ann O'Brien,Euclid Farnham
+id:1569|genre:Comedy|director:Roger Pierre,Jean-Marc Thibault|actors:Roger Pierre,Jean-Marc Thibault,Noël Roquevert,Béatrice Arnac
+id:1570|genre:Comedy|director:Jean-Pierre Bekolo|actors:Pauline Andela,Jimmy Biyona,Essindi Mindja,Sandrine Ola'a
+id:1571|genre:Drama|director:Djibril Diop Mambéty|actors:Magaye Niang,Mareme Niang,Aminata Fall,Ousseynou Diop
+id:1572|genre:Drama|director:Gaston Kaboré|actors:Serge Yanogo,Rosine Yanogo,Joseph Nikiema,Colette Kaboré
+id:1573|genre:Horror,Mystery|director:Federico Fellini,Louis Malle,Roger Vadim|actors:Brigitte Bardot,Alain Delon,Jane Fonda,Terence Stamp
+id:1574|genre:Western|director:Robby Henson|actors:Chris Cooper,Patricia Clarkson,Kris Kristofferson,Robert Joy
+id:1575|genre:Drama|director:María Luisa Bemberg|actors:Assumpta Serna,Dominique Sanda,Héctor Alterio 
+id:1576|genre:Fantasy|director:Gyula Gazdag|actors:Dávid Vermes,Pál Hetényi,Frantisek Husák,Mária Varga
+id:1577|genre:Adventure,Drama|director:Luis Buñuel|actors:Simone Signoret,Charles Vanel,Georges Marchal,Michel Piccoli
+id:1578|genre:Adult|director:Fred Coppula|actors:Sebastian Barrio,Patrice Cabanel,Greg Centauro,Delfynn Delage
+id:1579|genre:Crime,Mystery,Romance|director:Rafael Moleón|actors:Victoria Abril,Carmen Maura,Antonio Banderas,Ángel de Andrés López
+id:1580|genre:Drama,Romance|director:Max Ophüls|actors:Paul Hörbiger,Magda Schneider,Luise Ullrich,Gustaf Gründgens
+id:1581:genre:Mystery|director:Anthony Asquith|actors:Jean Kent,Dirk Bogarde,John McCallum
+id:1582|genre:Crime,Film-Noir,Thriller|director:Anthony Mann|actors:Dennis O'Keefe,Mary Meade,Alfred Ryder,Wallace Ford
+id:1583|genre:Drama,Horror,Mystery|director:Karyn Kusama|actors:Logan Marshall-Green,Emayatzy Corinealdi,Aiden Lovekamp,Michelle Krusiec
+id:1584|genre:Drama|director:Jean Delannoy|actors:Pierre Blanchar,Michèle Morgan,Line Noro
+id:1585|genre:Documentary|director:Barbara Kopple,Cathy Caplan(co-director),Thomas Haneke(co-director),Lawrence Silk(co-director)|actors:Jesse Jackson,Juan Munoz,Ray Rogers
+id:1586|genre:Action,Crime,Drama|director:John Woo|actors:Yun-Fat Chow,Tony Chiu-Wai Leung,Teresa Mo 
+id:1587|genre:Western|director:Joseph H. Lewis|actors:Sterling Hayden,Sebastian Cabot,Carol Kelly,Eugene Mazzola
+id:1588|genre:Comedy|director:Merzak Allouache|actors:Gad Elmaleh,Messaoud Hattau,Magaly Berdy
+id:1589|genre:Comedy,Fantasy,Mystery|director:Steven Soderbergh|actors:Miles Hardy
+id:1592|genre:Comedy|director:Kôki Mitani|actors:Kôichi Satô,Satoshi Tsumabuki,Eri Fukatsu,Haruka Ayase
+id:1593|genre:Comedy,Crime,Thriller|director:John Ruane|actors:Sam Neill,Zoe Carides,John Clarke,Yvonne Lawley
+id:1594|genre:Action,Adventure,Drama|director:Baltasar Kormákur|actors:Jason Clarke,Ang Phula Sherpa,Thomas M. Wright,Martin Henderson
+id:1595|genre:Action,Crime,Drama|director:Paul W.S. Anderson|actors:Sadie Frost,Jude Law,Sean Pertwee,Fraser James
+id:1596|genre:Action,Sci-Fi,Thriller|director:Albert Pyun|actors:Sue Price,Chad Stahelski,Tina Cote,Earl White
+id:1597|genre:Crime,Drama|director:Geoffrey Wright|actors:Russell Crowe,Daniel Pollock,Jacqueline McKenzie,Alex Scott
+id:1598|genre:Crime,Drama,Thriller|director:John Irvin|actors:Harvey Keitel,Stephen Dorff,Timothy Hutton,Famke Janssen
+id:1599|genre:Comedy,Drama|director:Goran Paskaljevic|actors:Tom Conti,Predrag 'Miki' Manojlovic,María Casares,Zorka Manojlovic
+id:1600|genre:Comedy,Drama|director:Tomás Gutiérrez Alea,Juan Carlos Tabío|actors:Carlos Cruz,Mirta Ibarra,Jorge Perugorría,Raúl Eguren
+id:1601|genre:Comedy,Horror,Thriller|director:Cindy Sherman|actors:Carol Kane,Molly Ringwald,Jeanne Tripplehorn,Barbara Sukowa
+id:1602|genre:Drama,Romance|director:Boaz Yakin|actors:Renée Zellweger,Christopher Eccleston,Julianna Margulies,Allen Payne
+id:1603|genre:Drama|director:Rebecca Miller|actors:Miranda Rhyne,Charlotte Eve Blythe,Anna Levine,John Ventimiglia
+id:1604|genre:Crime,Film-Noir,Thriller|director:Alfred L. Werker,Anthony Mann|actors:Richard Basehart,Scott Brady,Roy Roberts,Whit Bissell
+id:1605|genre:Comedy,Crime,Drama|director:Shirley Barrett|actors:Miranda Otto,Rebecca Frith,George Shevtsov,John Alansu
+id:1606|genre:Crime,Drama,Mystery|director:Jonas Pate,Josh Pate|actors:Tim Roth,Chris Penn,Michael Rooker,Renée Zellweger
+id:1607|genre:Crime,Drama,Romance|director:Morgan J. Freeman|actors:Brendan Sexton III,Antoine McLean,Mtume Gant,Carlo Alban
+id:1608|genre:Comedy,Drama,Romance|director:Morten Tyldum|actors:Nicolai Cleve Broch,Aksel Hennie,Anders Baasmo Christiansen,Pia Tjelta
+id:1609|genre:Comedy|director:Robert Townsend|actors:Halle Berry,Martin Landau,Ian Richardson,Natalie Desselle Reid
+id:1610|genre:Action,Crime,Drama|director:Kiefer Sutherland|actors:Kiefer Sutherland,Kim Dickens,Vincent Gallo 
+id:1611|genre:Comedy,Drama|director:Philip Goodhew|actors:Julie Walters,Rupert Graves,Matthew Walker,Laura Sadler
+id:1612|genre:Drama,Romance,Thriller|director:John Duigan|actors:Jon Bon Jovi,Anna Galiena,Lambert Wilson,Thandie Newton
+id:1613|genre:Action,Drama,Thriller|director:Shin'ya Tsukamoto|actors:Kaori Fujii,Shin'ya Tsukamoto,Kôji Tsukamoto,Naomasa Musaka
+id:1614|genre:Comedy,Romance|director:Vincente Minnelli|actors:Rex Harrison,Kay Kendall,John Saxon,Sandra Dee
+id:1615|genre:Action,Adventure,Fantasy|director:Ronny Yu|actors:Angus Macfadyen,Mario Yedidia,Marley Shelton,Chao Li Chi
+id:1616|genre:Drama,Mystery,Romance|director:Michael A. Nickles|actors:Adam Ant,Heather Graham,Jessica Hamilton,Jack Kehler
+id:1617|genre:Comedy,Romance|director:Robert Downey Sr.|actors:Alyssa Milano,Mark Boone Junior,Malcolm McDowell,Brendan Dawson
+id:1618|genre:Crime,Thriller|director:Abel Ferrara|actors:Christopher Walken,David Caruso,Laurence Fishburne,Victor Argo
+id:1619|genre:Drama,Romance,War|director:Bo Widerberg|actors:Johan Widerberg,Marika Lagercrantz,Tomas von Brömssen,Karin Huldt
+id:1620|genre:Comedy,Drama,Fantasy|director:Randall Miller|actors:Marlon Wayans,Kadeem Hardison,David Paymer,Michael Michele
+id:1621|genre:Comedy,Drama,Romance|director:Michael Winterbottom|actors:Amanda Plummer,Kathy Jamieson,Saskia Reeves,Des McAleer
+id:1622|genre:Drama,Romance|director:Dariush Mehrjui|actors:Janet Avansiyan,Farhad Jam,Niki Karimi,Turan Mehrzad
+id:1623|genre:Crime,Drama,Mystery|director:Claude Chabrol|actors:Isabelle Huppert,Sandrine Bonnaire,Jean-Pierre Cassel,Jacqueline Bisset
+id:1624|genre:Horror,Thriller|director:Mike Flanagan|actors:John Gallagher Jr.,Kate Siegel,Michael Trucco,Samantha Sloyan
+id:1625|genre:Drama,Horror,Thriller|director:Ole Bornedal|actors:Anais Evans,Ewan McGregor,Nick Nolte,Erich Anderson
+id:1626|genre:Comedy,Drama|director:Doris Dörrie|actors:Maria Schrader,Pierre Sanoussi-Bliss,Michael von Au,Elisabeth Trissenaar
+id:1627|genre:Comedy,Drama|director:Tom Noonan|actors:Julie Hagerty,Tom Noonan,Wallace Shawn,Karen Young
+id:1628|genre:Drama|director:Gianni Amelio|actors:Enrico Lo Verso,Michele Placido,Piro Milkani,Carmelo Di Mazzarelli
+id:1629|genre:Documentary,Biography,Music|director:Susanne Ofteringer|actors:Nico,Tina Aumont,Christian Päffgen,Edith Boulogne
+id:1630|genre:Drama|director:Moufida Tlatli|actors:Amel Hedhili,Najia Ouerghi,Hend Sabry 
+id:1631|genre:Drama|director:Åke Sandgren|actors:Jesper Salén,Stellan Skarsgård,Basia Frydman,Niklas Olund
+id:1632|genre:Drama,War|director:Ken Loach|actors:Ian Hart,Rosana Pastor,Icíar Bollaín,Tom Gilroy
+id:1633|genre:Comedy,Drama,Mystery|director:Friðrik Þór Friðriksson|actors:Masatoshi Nagase,Lili Taylor,Fisher Stevens
+id:1634|genre:Drama|director:Eli Cohen|actors:Gila Almagor,Juliano Mer-Khamis,Uri Avrahami 
+id:1635|genre:Comedy,Romance|director:Louis Garrel|actors:Golshifteh Farahani,Vincent Macaigne,Louis Garrel,Mahaut Adam
+id:1636|genre:Comedy,Drama|director:Udayan Prasad|actors:Om Puri,Pavan Malhotra,Angeline Ball,Ace Bhatti
+id:1637|genre:Comedy,Drama|director:Jim McKay|actors:Lili Taylor,Bruklin Harris,Anna Grace,Aunjanue Ellis
+id:1638|genre:Crime,Drama|director:John McNaughton|actors:Ashley Judd,Luke Perry,Bruce A. Young,Jim True-Frost
+id:1639|genre:Drama,Romance|director:Leon Ichaso|actors:René Lavan,Mayte Vilán,Miguel Gutiérrez,Larry Villanueva
+id:1640|genre:Comedy,Drama|director:Jaco Van Dormael|actors:Daniel Auteuil,Pascal Duquenne,Miou-Miou,Henri Garcin
+id:1641|genre:Drama|director:Russ Hexter|actors:Jim Pryor,Stephen Beals,Fred Worrell,Edith Meeks
+id:1642|genre:Drama,History|director:Terry George|actors:Helen Mirren,Fionnula Flanagan,Aidan Gillen,David O'Hara
+id:1643|genre:Drama,Romance|director:Michael Rymer|actors:John Lynch,Jacqueline McKenzie,Colin Friels,Deborra-Lee Furness
+id:1644|genre:Comedy|director:Adrienne Shelly|actors:Adrienne Shelly,Tim Guinee,Roger Rees,Louise Lasser
+id:1645|genre:Comedy,Drama|director:Neil Jordan|actors:Eamonn Owens,Sean McGinley,Peter Gowen,Alan Boyle
+id:1646|genre:Adventure,Drama|director:John Sayles|actors:Federico Luppi,Damián Delgado,Dan Rivera González,Tania Cruz
+id:1647|genre:Crime,Drama,Romance|director:Takeshi Kitano|actors:Takeshi Kitano,Kayoko Kishimoto,Ren Ôsugi
+id:1648|genre:Drama,Romance|director:Bob Gosse|actors:Robin Tunney,Henry Thomas,Michael Parks
+id:1649|genre:Documentary,Comedy,Crime|director:Michael Moore|actors:Michael Moore,Elaine Bly,Dan Burns,Chip Carter
+id:1650|genre:Comedy,Drama|director:Neil Jordan|actors:Eamonn Owens,Sean McGinley,Peter Gowen,Alan Boyle
+id:1651|genre:Drama,Mystery,Thriller|director:David Mamet|actors:Campbell Scott,Steve Martin,Rebecca Pidgeon,Ben Gazzara
+id:1652|genre:Drama,Romance|director:Kaige Chen|actors:Leslie Cheung,Li Gong,Kevin Lin,Saifei He
+id:1653|genre:Biography,Drama,Romance|director:Michael Ray Rhodes|actors:Moira Kelly,Martin Sheen,Lenny von Dohlen,Melinda Dillon
+id:1654|genre:Comedy|director:Alex Zamm|actors:Scott 'Carrot Top' Thompson,Courtney Thorne-Smith,Larry Miller,Raquel Welch
+id:1655|genre:Comedy,Romance|director:Donald Petrie|actors:Harley Jane Kozak,Elizabeth McGovern,Bill Pullman,Brad Pitt
+id:1656|genre:Comedy,Romance|director:Roberto Benabib|actors:Jon Bon Jovi,Penelope Ann Miller,Joe Bellan,Robert Elross
+id:1657|genre:Action,Adventure,Crime|director:Arthur Penn|actors:Gene Hackman,Matt Dillon,Gayle Hunnicutt,Randy Moore
+id:1658|genre:Drama|director:Daniel J. Sullivan|actors:Tony Goldwyn,Benjamin Ungar,Timothy Hutton,Tom McDermott
+id:1659|genre:Comedy|director:Harvey Miller|actors:Dan Aykroyd,Lily Tomlin,Jack Lemmon,Bonnie Hunt
+id:1660|genre:Drama|director:Gillies MacKinnon|actors:Iain Robertson,Joe McFadden,Steven Duffy,Laura Fraser
+id:1661|genre:Comedy,Drama|director:Michael Tolkin|actors:Peter Weller,Judy Davis,Patrick Bauchau,Rachel Rosenthal
+id:1662|genre:Comedy,Drama,Romance|director:Clare Peploe|actors:Bridget Fonda,Russell Crowe,Jim Broadbent,D.W. Moffett
+id:1663|genre:Drama|director:Urszula Antoniak|actors:Lotte Verbeek,Stephen Rea,Tom Charlfa,Ann Marie Horan
+id:1664|genre:Comedy,Crime|director:Tom Schulman|actors:Joe Pesci,Andy Comeau,Kristy Swanson,George Hamilton
+id:1665|genre:Drama|director:Seth Zvi Rosenfeld|actors:Nick Chinlund,Michael Raynor,Justin Pierce,Joshua Danowsky
+id:1666|genre:Drama,Romance|director:Mo Ogrodnik|actors:Monica Keena,Daisy Eagan,Gordon Currie,Ron Brice
+id:1667|genre:Drama,Family,Romance|director:N/A|actors:Victoria Baldesarra,Brittany Raymond,Trevor Tordjman,Isaac Lupien
+id:1668|genre:Comedy,Romance|director:Dana Lustig|actors:Illeana Douglas,Paulina Porizkova,Julie Warner,John Corbett
+id:1669|genre:N/A|director:Yvonne Rainer|actors:Joanna Merlin,Kathleen Chalfant,Catherine Kellner,Isa Thomas
+id:1670|genre:Comedy,Thriller|director:Brian Evans|actors:Jason Brouwer,T.J. Timon,Ronnie Walsh,Greg James
+id:1671|genre:Drama,Romance,Thriller|director:Robert Dornhelm|actors:Stephen Rea,Alfred Molina,Rosana Pastor 
+id:1672|genre:Comedy|director:Pedro Almodóvar|actors:Verónica Forqué,Peter Coyote,Victoria Abril,Àlex Casanovas
+id:1673|genre:Mystery,Thriller|director:Edward Dmytryk|actors:Gregory Peck,Diane Baker,Walter Matthau,Kevin McCarthy
+id:1674|genre:Drama|director:Pier Paolo Pasolini|actors:Anna Magnani,Ettore Garofolo,Franco Citti,Silvana Corsini
+id:1675|genre:Crime,Drama|director:Michael Cimino|actors:Woody Harrelson,Jon Seda,Anne Bancroft,Alexandra Tydings
+id:1676|genre:Comedy,Romance|director:N/A|actors:Michael Rapaport,Anita Barone,Kaylee DeFer,Kyle Sullivan
+id:1677|genre:Drama|director:Gary Winick|actors:Michael Imperioli,Mira Sorvino,Joyce Phillips,Paul Calderon
+id:1678|genre:Drama|director:Aleksandr Sokurov|actors:Aleksei Ananishnov,Gudrun Geyer
+id:1679|genre:Crime,Drama,Romance|director:Michael Radford|actors:Asia Argento,Jared Harris,Rupert Everett,Jonathan Rhys Meyers
+id:1680|genre:Comedy,Drama,Fantasy|director:Peter Howitt|actors:Gwyneth Paltrow,John Hannah,John Lynch,Jeanne Tripplehorn
+id:1681|genre:Documentary,Comedy|director:Thomas Schlamme|actors:Martin Lawrence
+id:1682|genre:Drama|director:Werner Herzog|actors:Vittorio Mezzogiorno,Stefan Glowacz,Mathilda May,Al Waxman

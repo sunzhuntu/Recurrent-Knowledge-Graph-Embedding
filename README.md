@@ -14,5 +14,7 @@ id:1|genre:Animation,Adventure,Comedy|director:John Lasseter|actors:Tom Hanks,Ti
 ```
 userid itemid rating timestamp
 ```
+### Data Split (data-split.py)
 
-
+- Input Data: rating-delete-missing-itemid.txt
+- Output Data: training.txt, test.txt

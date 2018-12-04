@@ -11,18 +11,17 @@ This is the code of a knowledge graph embedding framework – RKGE – with a no
 id:1|genre:Animation,Adventure,Comedy|director:John Lasseter|actors:Tom Hanks,Tim Allen,Don Rickles,Jim Varney
 ```
 
-  - For the Yelp dataset, we use the provided genre and city information of the locations. The format is as follows:
-
-```
-id:11163|genre:Accountants,Professional Services,Tax Services,Financial Services|city:Peoria
-```
-
-- For the original user-movie rating data, we remove all items without auxiliary information. The data is save in a txt file (rating-delete-missing-itemid.txt) and the format is as follows:
+  - For the original user-movie rating data, we remove all items without auxiliary information. The data is save in a txt file (rating-delete-missing-itemid.txt) and the format is as follows:
 
 ```
 userid itemid rating timestamp
 ```
 
+   - For the Yelp dataset, we use the originally provided genre and city information of the locations. The format is as follows:
+
+```
+id:11163|genre:Accountants,Professional Services,Tax Services,Financial Services|city:Peoria
+```
 
 ### Data Split (data-split.py)
 

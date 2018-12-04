@@ -1,7 +1,7 @@
 # Recurrent-Knowledge-Graph-Embedding
 This is the code of a knowledge graph embedding framework – RKGE – with a novel recurrent network architecture for high-quality recommendation. RKGE not only learns the semantic representation of different types of entities but also automatically captures entity relations encoded in KGs.
 
-### Pre-requisits
+## Pre-requisits
 
 - We adopt two real-world datasets - MovieLens and Yelp. 
 
@@ -22,6 +22,9 @@ This is the code of a knowledge graph embedding framework – RKGE – with a no
       ```
       id:11163|genre:Accountants,Professional Services,Tax Services,Financial Services|city:Peoria
       ```
+## Modules of RKGE
+
+- For clarify, hereafter we use movielen dataset as an example to demonstrate the detailed modules of RKGE
 
 ### Data Split (data-split.py)
 

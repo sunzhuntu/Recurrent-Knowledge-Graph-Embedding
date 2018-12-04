@@ -31,7 +31,7 @@ This is the code of a knowledge graph embedding framework – RKGE – with a no
       ```
 ## Modules of RKGE
 
-- For clarify, hereafter we use movielen dataset as an example to demonstrate the detailed modules of RKGE
+For clarify, hereafter we use movielen dataset as an example to demonstrate the detailed modules of RKGE
 
 ### Data Split (data-split.py)
 

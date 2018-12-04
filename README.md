@@ -36,11 +36,11 @@ This is the code of a knowledge graph embedding framework – RKGE – with a no
 For clarify, hereafter we use movielen dataset as an example to demonstrate the detailed modules of RKGE
 
 
-  ### Data Split (data-split.py)
+  - ### Data Split (data-split.py)
 
-  - Input Data: rating-delete-missing-itemid.txt
+    - Input Data: rating-delete-missing-itemid.txt
 
-  - Output Data: training.txt, test.txt
+    - Output Data: training.txt, test.txt
 
 
   ### Negative Sample (negative-sample.py)

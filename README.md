@@ -3,6 +3,13 @@ This is the code of a knowledge graph embedding framework – RKGE – with a no
 
 ## Pre-requisits
 
+- Running environment
+
+  - Python 3
+  
+  - Pytorch (Configuration - https://zhuanlan.zhihu.com/p/26854386)
+  
+
 - We adopt two real-world datasets - MovieLens and Yelp. 
 
   - For the MoiveLens dataset, we crawl the corresponding IMDB dataset as movie auxiliary information, including genre, director, and actor. Note that we automatically remove the movies without auxilairy information. We then combined MovieLens and IMDB by movie title and released year. The combined data is save in a txt file (auxiliary.txt) and the format is as follows:

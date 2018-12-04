@@ -5,13 +5,13 @@ This is the code of a knowledge graph embedding framework – RKGE – with a no
 
 - We adopt two real-world datasets - MovieLens and Yelp. 
 
--- For the MoiveLens dataset, we crawl the corresponding IMDB dataset as movie auxiliary information, including genre, director, and actor. Note that we automatically remove the movies without auxilairy information. We then combined MovieLens and IMDB by movie title and released year. The combined data is save in a txt file (auxiliary.txt) and the format is as follows:
+  - For the MoiveLens dataset, we crawl the corresponding IMDB dataset as movie auxiliary information, including genre, director, and actor. Note that we automatically remove the movies without auxilairy information. We then combined MovieLens and IMDB by movie title and released year. The combined data is save in a txt file (auxiliary.txt) and the format is as follows:
 
 ```
 id:1|genre:Animation,Adventure,Comedy|director:John Lasseter|actors:Tom Hanks,Tim Allen,Don Rickles,Jim Varney
 ```
 
--- For the Yelp dataset, we use the provided genre and city information of the locations. The format is as follows:
+  - For the Yelp dataset, we use the provided genre and city information of the locations. The format is as follows:
 
 ```
 id:11163|genre:Accountants,Professional Services,Tax Services,Financial Services|city:Peoria

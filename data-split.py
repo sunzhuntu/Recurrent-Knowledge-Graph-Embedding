@@ -1,9 +1,6 @@
 #It aims to split the data into traning and testing according to the timestamp
-
 import argparse
 import operator
-
-
 
 def round_int (rating_num, ratio):
     '''
@@ -89,9 +86,9 @@ if __name__ == '__main__':
     
     parser = argparse.ArgumentParser(description=''' Split data into training and test''')
 
-    parser.add_argument('--rating', type=str, dest='rating_file', default='data/rating-delete-missing-itemid.txt')
-    parser.add_argument('--train', type=str, dest='train_file', default='data/training.txt')
-    parser.add_argument('--test', type=str, dest='test_file', default='data/test.txt')
+    parser.add_argument('--rating', type=str, dest='rating_file', default='data/ml/rating-delete-missing-itemid.txt')
+    parser.add_argument('--train', type=str, dest='train_file', default='data/ml/training.txt')
+    parser.add_argument('--test', type=str, dest='test_file', default='data/ml/test.txt')
     parser.add_argument('--ratio', type=float, dest='ratio', default=0.8)
 
     parsed_args = parser.parse_args()

@@ -41,7 +41,7 @@ This is the code of a knowledge graph embedding framework – RKGE – with a no
     
       - Input Data: auxiliary.txt
     
-      - Output Data: auxilary-map.txt
+      - Output Data: auxilary-mapping.txt
     
 
   - ### Data Split (data-split.py)

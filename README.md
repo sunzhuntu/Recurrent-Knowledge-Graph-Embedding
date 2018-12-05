@@ -35,7 +35,7 @@ This is the code of a knowledge graph embedding framework – RKGE – with a no
 
   - For clarify, hereafter we use movielen dataset as an example to demonstrate the detailed modules of RKGE
 
-  - ### Auxilairy Info Map (auxiliary-map.py)
+  - ### Auxiliary Info Mapping (auxiliary-mapping.py)
     
     - Map the auxiliary infomation into ID
     
@@ -45,17 +45,21 @@ This is the code of a knowledge graph embedding framework – RKGE – with a no
     
 
   - ### Data Split (data-split.py)
+  
+    - Split the user-movie rating data into training and test data
 
-    - Input Data: rating-delete-missing-itemid.txt
+      - Input Data: rating-delete-missing-itemid.txt
 
-    - Output Data: training.txt, test.txt
+      - Output Data: training.txt, test.txt
 
 
   - ### Negative Sample (negative-sample.py)
   
-    - Input Data: rating-delete-missing-itemid.txt
+    - Sample negative movies for each user to balance the model training 
+  
+      - Input Data: rating-delete-missing-itemid.txt
 
-    - Output Data: training.txt, test.txt
+      - Output Data: negative.txt
 
 
   - ### Path Extraction

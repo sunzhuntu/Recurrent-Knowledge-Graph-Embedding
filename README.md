@@ -35,6 +35,14 @@ This is the code of a knowledge graph embedding framework – RKGE – with a no
 
   - For clarify, hereafter we use movielen dataset as an example to demonstrate the detailed modules of RKGE
 
+  - ### Auxilairy Info Map (auxiliary-map.py)
+    
+    - Map the auxiliary infomation into ID
+    
+      - Input Data: auxiliary.txt
+    
+      - Output Data: auxilary-map.txt
+    
 
   - ### Data Split (data-split.py)
 

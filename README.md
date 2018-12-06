@@ -66,6 +66,6 @@ This is the code of a knowledge graph embedding framework – RKGE – with a no
   
     - Extract paths for both positive and negative user-moive interaction
     
-      - Input Data: training.txt, negative.txt, auxiliary-mapping.txt, path_lenght
+      - Input Data: training.txt, negative.txt, auxiliary-mapping.txt
       
       - Output Data: positive-path.txt, negative-path.txt

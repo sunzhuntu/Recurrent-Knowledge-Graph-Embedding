@@ -1,4 +1,4 @@
-#This is used to split the user-movie interaction data into traning and test according to the timestamp
+#This is used to sample negative movies that user has not interactions with, so as to balance model training process
 
 import argparse
 import math

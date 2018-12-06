@@ -62,7 +62,7 @@ This is the code of a knowledge graph embedding framework – RKGE – with a no
       - Output Data: negative.txt
 
 
-  - ### Path Extraction
+  - ### Path Extraction （path-extraction.py）
   
     - Extract paths for both positive and negative user-moive interaction
     

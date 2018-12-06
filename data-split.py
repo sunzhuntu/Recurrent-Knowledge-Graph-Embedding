@@ -1,4 +1,5 @@
-#It aims to split the data into traning and testing according to the timestamp
+#This is used to split the user-movie interaction data into traning and test according to the timestamp
+
 import argparse
 import operator
 
@@ -10,7 +11,7 @@ def round_int (rating_num, ratio):
         @rating_num: the total number of ratings for a specific user
         @ration: the percentage for training data
 
-    Outputs:
+    Output:
         @train_size: the size of training data
     '''
 
@@ -19,18 +20,18 @@ def round_int (rating_num, ratio):
     return train_size
 
 
-def rank_rating_by_timestamp(fr_rating):
+def load_data(fr_rating):
     '''
-    rank the user-item rating data by the timestamp
+    load the user-item rating data with the timestamp
 
-    Inputs: 
+    Input: 
         @fr_rating: the user-item rating data
 
-    Outputs:
-        @rank_data: user-specific rating data ranked by timestamp
+    Output:
+        @rating_data: user-specific rating data with timestamp
     '''
 
-    rank_data = {}
+    rating_data = {}
 
     for line in fr_rating:
         lines = line.split('\t')
@@ -40,33 +41,33 @@ def rank_rating_by_timestamp(fr_rating):
     
         item_list = []
 
-        if user in rank_data:
-            rank_data[user].update({item:time})
+        if user in rating_data:
+            rating_data[user].update({item:time})
             
         else:
-            rank_data.update({user:{item:time}})
+            rating_data.update({user:{item:time}})
 
-    return rank_data
+    return rating_data
 
     
-def split_rating_into_train_test(rank_data, fw_train, fw_test, ratio):
+def split_rating_into_train_test(rating_data, fw_train, fw_test, ratio):
     '''
-    split rank_rating data into training and test data
+    split rating_rating data into training and test data by timestamp
 
     Inputs:
-        @rank_data: the ranked rating data
+        @rating_data: the user-specific rating data
         @fw_train: the training data file
         @fw_test: the test data file
-        @ratio: the percentage for training data
+        @ratio: the percentage of training data
     '''
 
-    for user in rank_data:
-        item_list = rank_data[user]
+    for user in rating_data:
+        item_list = rating_data[user]
 
         sorted_u = sorted(item_list.items(), key=operator.itemgetter(1))
         sorted_u = dict(sorted_u)
         
-        rating_num = rank_data[user].__len__()
+        rating_num = rating_data[user].__len__()
         train_size = round_int (rating_num, ratio)
 
         flag = 0
@@ -102,8 +103,8 @@ if __name__ == '__main__':
     fw_train = open(train_file,'w')
     fw_test = open(test_file,'w')
 
-    rank_data = rank_rating_by_timestamp(fr_rating)
-    split_rating_into_train_test(rank_data, fw_train, fw_test, ratio)
+    rating_data = load_data(fr_rating)
+    split_rating_into_train_test(rating_data, fw_train, fw_test, ratio)
 
     fr_rating.close()
     fw_train.close()

@@ -33,7 +33,7 @@ This is the code of a knowledge graph embedding framework – RKGE – with a no
 
 ## Modules of RKGE
 
-  - For clarify, hereafter we use movielen dataset as an example to demonstrate the detailed modules of RKGE
+  - For clarify, hereafter we use movielen dataset as a toy example to demonstrate the detailed modules of RKGE
 
   - ### Auxiliary Info Mapping (auxiliary-mapping.py)
     

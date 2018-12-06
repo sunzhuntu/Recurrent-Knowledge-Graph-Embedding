@@ -57,9 +57,15 @@ This is the code of a knowledge graph embedding framework – RKGE – with a no
   
     - Sample negative movies for each user to balance the model training 
   
-      - Input Data: rating-delete-missing-itemid.txt
+      - Input Data: training.txt
 
       - Output Data: negative.txt
 
 
   - ### Path Extraction
+  
+    - Extract paths for both positive and negative user-moive interaction
+    
+      - Input Data: training.txt, negative.txt, auxiliary-mapping.txt, path_lenght
+      
+      - Output Data: positive-path.txt, negative-path.txt

@@ -66,7 +66,7 @@ This is the code of a knowledge graph embedding framework – RKGE – with a no
   
     - Extract paths for both positive and negative user-moive interaction
     
-      - Input Data: training.txt, negative.txt, auxiliary-mapping.txt
+      - Input Data: training.txt, negative.txt, auxiliary-mapping.txt,
                     pre-train-user-embedding.txt, pre-train-item-embedding.txt
       
       - Output Data: positive-path.txt, negative-path.txt
@@ -78,4 +78,13 @@ This is the code of a knowledge graph embedding framework – RKGE – with a no
     
       - Input Data: positive-path.txt, negative-path.txt
       
-      - Output Data: user-e
+      - Output Data: user-embedding.txt, item-embedding.txt
+      
+      
+  - ### Model Evaluation (model-evaluation.py)
+  
+    - Evaluate the performance of the model
+      
+      - Input Data: user-embedding.txt, item-embedding.txt
+      
+      - Output Data: the recommendation results

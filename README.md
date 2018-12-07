@@ -67,5 +67,15 @@ This is the code of a knowledge graph embedding framework – RKGE – with a no
     - Extract paths for both positive and negative user-moive interaction
     
       - Input Data: training.txt, negative.txt, auxiliary-mapping.txt
+                    pre-train-user-embedding.txt, pre-train-item-embedding.txt
       
       - Output Data: positive-path.txt, negative-path.txt
+      
+  
+  - ### Recurrent Neural Network (recurrent-neural-network.py)
+  
+    - Feed both postive and negative path into the recurrent neural network
+    
+      - Input Data: positive-path.txt, negative-path.txt
+      
+      - Output Data: user-e

@@ -93,4 +93,4 @@ This is the code of a knowledge graph embedding framework – RKGE – with a no
     [1] Sun Zhu, Jie Yang et al. [Recurrent knowledge graph embedding for effective recommendation](http://sunzhuntu.wixsite.com/summer). ACM RecSys, 2018.               
         
        
-    [2] Oren Barkan, Noam Koenigstein. [Item2Vec: Neural Item Embedding for Collaborative Filtering] (https://arxiv.org/pdf/1603.04259.pdf). 2017
+    [2] Oren Barkan, Noam Koenigstein. [Item2Vec: Neural Item Embedding for Collaborative Filtering](https://arxiv.org/pdf/1603.04259.pdf). 2017

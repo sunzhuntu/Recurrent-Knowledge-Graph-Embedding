@@ -77,16 +77,16 @@ This is the code of a knowledge graph embedding framework – RKGE – with a no
     
       - Input Data: positive-path.txt, negative-path.txt, pre-train-user-embedding.txt, pre-train-movie-embedding.txt (To speed up model training process, the movie embedding is pre-trained via item2vec [2], and the pre-train-user-embedding is the average embeddings of movie embeddings that the user has interaction with)
       
-      - Output Data: post-train-user-embedding.txt, post-train-item-embedding.txt
+      - Output Data: post-train-embedding.txt
       
       
   - ### Model Evaluation (model-evaluation.py)
   
     - Evaluate the performance of the model
       
-      - Input Data: post-train-user-embedding.txt, post-train-item-embedding.txt
+      - Input Data: post-train-embedding.txt
       
-      - Output Data: the recommendation results
+      - Output Data: results.txt
       
   - ### References
     

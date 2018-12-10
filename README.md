@@ -33,7 +33,7 @@ This is the code of a knowledge graph embedding framework – RKGE – with a no
 
 ## Modules of RKGE
 
-  - For clarify, hereafter we use movielen dataset as an example to demonstrate the detailed modules of RKGE
+  - For clarify, hereafter we use movielen dataset as a toy example to demonstrate the detailed modules of RKGE
 
   - ### Auxiliary Info Mapping (auxiliary-mapping.py)
     
@@ -57,9 +57,33 @@ This is the code of a knowledge graph embedding framework – RKGE – with a no
   
     - Sample negative movies for each user to balance the model training 
   
-      - Input Data: rating-delete-missing-itemid.txt
+      - Input Data: training.txt
 
       - Output Data: negative.txt
 
 
-  - ### Path Extraction
+  - ### Path Extraction （path-extraction.py）
+  
+    - Extract paths for both positive and negative user-moive interaction
+    
+      - Input Data: training.txt, negative.txt, auxiliary-mapping.txt,
+      
+      - Output Data: positive-path.txt, negative-path.txt
+      
+  
+  - ### Recurrent Neural Network (recurrent-neural-network.py)
+  
+    - Feed both postive and negative path into the recurrent neural network
+    
+      - Input Data: positive-path.txt, negative-path.txt, pre-train-user-embedding.txt, pre-train-item-embedding.txt
+      
+      - Output Data: post-train-user-embedding.txt, post-train-item-embedding.txt
+      
+      
+  - ### Model Evaluation (model-evaluation.py)
+  
+    - Evaluate the performance of the model
+      
+      - Input Data: post-train-user-embedding.txt, post-train-item-embedding.txt
+      
+      - Output Data: the recommendation results

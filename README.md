@@ -90,7 +90,7 @@ This is the code of a knowledge graph embedding framework – RKGE – with a no
       
   - ### References
     
-    [1]: Sun Zhu, Jie Yang et al. Recurrent knowledge graph embedding for effective recommendation. ACM RecSys, 2018.               
-        http://sunzhuntu.wixsite.com/summer
+    [1] Sun Zhu, Jie Yang et al. [Recurrent knowledge graph embedding for effective recommendation](http://sunzhuntu.wixsite.com/summer). ACM RecSys, 2018.               
+        
        
     [2] https://arxiv.org/pdf/1603.04259.pdf

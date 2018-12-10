@@ -90,8 +90,7 @@ if __name__ == '__main__':
 	parser.add_argument('--negativepath', type=str, dest='negative_path', default='data/ml/negative-path.txt')
 	parser.add_argument('--pretrainuserembedding', type=str, dest='pre_train_user_embedding', default='data/ml/pre-train-user-embedding.txt')
 	parser.add_argument('--pretrainmovieembedding', type=str, dest='pre_train_movie_embedding', default='data/ml/pre-train-movie-embedding.txt')
-	parser.add_argument('--posttrainuserembedding', type=str, dest='post_train_user_embedding', default='data/ml/post-train-user-embedding.txt')
-	parser.add_argument('--postrainmovieembedding', type=str, dest='post_train_movie_embedding', default='data/ml/post-train-movie-embedding.txt')
+	parser.add_argument('--posttrainembedding', type=str, dest='post_train_embedding', default='data/ml/post-train-embedding.txt')
 
 	parsed_args = parser.parse_args()
 
@@ -105,16 +104,14 @@ if __name__ == '__main__':
 	negative_path = parsed_args.negative_path
 	pre_train_user_embedding = parsed_args.pre_train_user_embedding
 	pre_train_movie_embedding = parsed_args.pre_train_movie_embedding
-	post_train_user_embedding = parsed_args.post_train_user_embedding
-	post_train_movie_embedding = parsed_args.post_train_movie_embedding
+	post_train_embedding = parsed_args.post_train_embedding
 
 
 	fr_postive = open(positive_path, 'r')
 	fr_negative = open(negative_path, 'r')
 	fr_pre_user = open(pre_train_user_embedding, 'r')
 	fr_pre_movie = open(pre_train_movie_embedding, 'r')
-	fw_post_user = open(post_train_user_embedding, 'w')
-	fw_post_movie = open(post_train_movie_embedding, 'w')
+	fw_post_train = open(post_train_embedding, 'w')
 
 	node_count = 0 #count the number of all entities (user, movie and attributes)
 	all_variables = {} #save variable and corresponding id
@@ -139,12 +136,11 @@ if __name__ == '__main__':
 	    model = model.cuda()
 
 	model_train = LSTMTrain(model, iteration, learning_rate, paths_between_pairs, positive_label, \
-	    all_variables, all_user, all_movie, fw_post_user, fw_post_movie)
+	    all_variables, all_user, all_movie, fw_post_train)
 	model_train.train()
 
 	fr_postive.close()
 	fr_negative.close()
 	fr_pre_user.close()
 	fr_pre_movie.close()
-	fw_post_user.close()
-	fw_post_movie.close()
+	fw_post_train.close()

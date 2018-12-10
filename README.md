@@ -8,7 +8,7 @@ This is the code of a knowledge graph embedding framework – RKGE – with a no
 
   - Python 3
   
-  - Pytorch (Configuration - https://zhuanlan.zhihu.com/p/26854386)
+  - Pytorch (conda 4.5.11 - https://zhuanlan.zhihu.com/p/26854386)
   
 
 - ### Datasets - MovieLens and Yelp. 

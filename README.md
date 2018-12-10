@@ -1,5 +1,5 @@
 # Recurrent-Knowledge-Graph-Embedding
-This is the code of a knowledge graph embedding framework – RKGE – with a novel recurrent network architecture for high-quality recommendation. RKGE [1][1] not only learns the semantic representation of different types of entities but also automatically captures entity relations encoded in KGs.
+This is the code of a knowledge graph embedding framework – RKGE – with a novel recurrent network architecture for high-quality recommendation. RKGE [1] not only learns the semantic representation of different types of entities but also automatically captures entity relations encoded in KGs.
 
 
 ## Pre-requisits
@@ -93,4 +93,4 @@ This is the code of a knowledge graph embedding framework – RKGE – with a no
     [1] Sun Zhu, Jie Yang et al. [Recurrent knowledge graph embedding for effective recommendation](http://sunzhuntu.wixsite.com/summer). ACM RecSys, 2018.               
         
        
-    [2] https://arxiv.org/pdf/1603.04259.pdf
+    [2] Oren Barkan, Noam Koenigstein. [Item2Vec: Neural Item Embedding for Collaborative Filtering] (https://arxiv.org/pdf/1603.04259.pdf). 2017

@@ -75,7 +75,7 @@ This is the code of a knowledge graph embedding framework – RKGE – with a no
   
     - Feed both postive and negative path into the recurrent neural network
     
-      - Input Data: positive-path.txt, negative-path.txt, pre-train-user-embedding.txt, pre-train-movie-embedding.txt (To speed up model training process, the movie embedding is pre-trained via item2vec [2], and the pre-train-user-embedding is the average embeddings of movie embeddings that the user has interaction with)
+      - Input Data: positive-path.txt, negative-path.txt, pre-train-user-embedding.txt, pre-train-movie-embedding.txt (To speed up model training process, the user and movie embedding is pre-trained via [2])
       
       - Output Data: post-train-embedding.txt
       
@@ -93,4 +93,4 @@ This is the code of a knowledge graph embedding framework – RKGE – with a no
     [1] Sun Zhu, Jie Yang et al. [Recurrent knowledge graph embedding for effective recommendation](http://sunzhuntu.wixsite.com/summer). ACM RecSys, 2018.               
         
        
-    [2] Oren Barkan, Noam Koenigstein. [Item2Vec: Neural Item Embedding for Collaborative Filtering](https://arxiv.org/pdf/1603.04259.pdf). 2017
+    [2] Grbovic Mihajlo, Radosavljevic Vladan et al. [E-commerce in Your Inbox: Product Recommendations at Scale](https://arxiv.org/pdf/1606.07154.pdf). 2015

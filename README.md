@@ -75,14 +75,19 @@ This is the code of a knowledge graph embedding framework – RKGE – with a no
   
     - Feed both postive and negative path into the recurrent neural network, train and evaluate the model
     
-      - Input Data: positive-path.txt, negative-path.txt, pre-train-user-embedding.txt, pre-train-movie-embedding.txt (To speed up model training process, the user and movie embedding is pre-trained via [2]. You may also use matrix factorization or bayesain personalized ranking to pre-train the embeddings), training.txt, test.txt
+      - Input Data: positive-path.txt, negative-path.txt, pre-train-user-embedding.txt, pre-train-movie-embedding.txt (To speed up model training process, the user and movie embedding is pre-trained via [2]. You may also use matrix factorization [3] or bayesain personalized ranking [4] to pre-train the embeddings), training.txt, test.txt
       
       - Output Data: results.txt
       
       
   - ### References
     
-    [1] Sun Zhu, Jie Yang et al. [Recurrent knowledge graph embedding for effective recommendation](http://sunzhuntu.wixsite.com/summer). ACM RecSys, 2018.               
+    [1] Sun Zhu, Jie Yang et al. [Recurrent Knowledge Graph Embedding for Effective Recommendation](http://sunzhuntu.wixsite.com/summer). ACM RecSys, 2018.               
         
        
-    [2] Grbovic Mihajlo, Radosavljevic Vladan et al. [E-commerce in Your Inbox: Product Recommendations at Scale](https://arxiv.org/pdf/1606.07154.pdf). 2015
+    [2] Grbovic Mihajlo, Radosavljevic Vladan et al. [E-commerce in Your Inbox: Product Recommendations at Scale](https://arxiv.org/pdf/1606.07154.pdf). KDD, 2015
+    
+    
+    [3] Koren, Yehuda, Robert Bell, et al. [Matrix Factorization Techniques for Recommender Systems](https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf). Computer, 2009
+    
+    [4] Rendle, Steffen, et al. [BPR: Bayesian Personalized Ranking from Implicit Feedback](https://arxiv.org/pdf/1205.2618.pdf). UAI, 2009.

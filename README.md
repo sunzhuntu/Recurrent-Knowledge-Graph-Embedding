@@ -85,7 +85,7 @@ This is the code of a knowledge graph embedding framework – RKGE – with a no
     [1] Sun Zhu, Jie Yang et al. [Recurrent knowledge graph embedding for effective recommendation](http://sunzhuntu.wixsite.com/summer). ACM RecSys, 2018.               
         
        
-    [2] Grbovic Mihajlo, Radosavljevic Vladan et al. [E-commerce in your inbox: product recommendations at scale](https://arxiv.org/pdf/1606.07154.pdf). KDD, 2015
+    [2] Grbovic Mihajlo, et al. [E-commerce in your inbox: product recommendations at scale](https://arxiv.org/pdf/1606.07154.pdf). KDD, 2015
     
     
     [3] Koren, Yehuda, Robert Bell, et al. [Matrix factorization techniques for recommender systems](https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf). Computer, 2009

@@ -73,7 +73,7 @@ This is the code of a knowledge graph embedding framework – RKGE – with a no
   
   - ### Recurrent Neural Network (recurrent-neural-network.py)
   
-    - Feed both postive and negative path into the recurrent neural network
+    - Feed both postive and negative path into the recurrent neural network, model training and evaluation
     
       - Input Data: positive-path.txt, negative-path.txt, pre-train-user-embedding.txt, pre-train-item-embedding.txt, training.txt, test.txt
       

@@ -1,5 +1,5 @@
 # Recurrent-Knowledge-Graph-Embedding
-This is the code of a knowledge graph embedding framework – RKGE – with a novel recurrent network architecture for high-quality recommendation. RKGE not only learns the semantic representation of different types of entities but also automatically captures entity relations encoded in KGs.
+This is the code of a knowledge graph embedding framework – RKGE – with a novel recurrent network architecture for high-quality recommendation. RKGE [1] not only learns the semantic representation of different types of entities but also automatically captures entity relations encoded in KGs.
 
 
 ## Pre-requisits
@@ -8,7 +8,7 @@ This is the code of a knowledge graph embedding framework – RKGE – with a no
 
   - Python 3
   
-  - Pytorch (Configuration - https://zhuanlan.zhihu.com/p/26854386)
+  - Pytorch (conda 4.5.11 - https://zhuanlan.zhihu.com/p/26854386)
   
 
 - ### Datasets - MovieLens and Yelp. 
@@ -73,9 +73,24 @@ This is the code of a knowledge graph embedding framework – RKGE – with a no
   
   - ### Recurrent Neural Network (recurrent-neural-network.py)
   
-    - Feed both postive and negative path into the recurrent neural network, model training and evaluation
+    - Feed both postive and negative path into the recurrent neural network
     
-      - Input Data: positive-path.txt, negative-path.txt, pre-train-user-embedding.txt, pre-train-item-embedding.txt, training.txt, test.txt
+      - Input Data: positive-path.txt, negative-path.txt, pre-train-user-embedding.txt, pre-train-movie-embedding.txt (To speed up model training process, the user and movie embedding is pre-trained via [2])
+      
+      - Output Data: post-train-embedding.txt
+      
+      
+  - ### Model Evaluation (model-evaluation.py)
+  
+    - Evaluate the performance of the model
+      
+      - Input Data: post-train-embedding.txt
       
       - Output Data: results.txt
       
+  - ### References
+    
+    [1] Sun Zhu, Jie Yang et al. [Recurrent knowledge graph embedding for effective recommendation](http://sunzhuntu.wixsite.com/summer). ACM RecSys, 2018.               
+        
+       
+    [2] Grbovic Mihajlo, Radosavljevic Vladan et al. [E-commerce in Your Inbox: Product Recommendations at Scale](https://arxiv.org/pdf/1606.07154.pdf). 2015

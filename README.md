@@ -75,7 +75,7 @@ This is the code of a knowledge graph embedding framework – RKGE – with a no
   
     - Feed both postive and negative path into the recurrent neural network, train and evaluate the model
     
-      - Input Data: positive-path.txt, negative-path.txt, pre-train-user-embedding.txt, pre-train-movie-embedding.txt (To speed up model training process, the user and movie embedding is pre-trained via [2]), training.txt, test.txt
+      - Input Data: positive-path.txt, negative-path.txt, pre-train-user-embedding.txt, pre-train-movie-embedding.txt (To speed up model training process, the user and movie embedding is pre-trained via [2]. You may also use matrix factorization or bayesain personalized ranking to pre-train the embeddings), training.txt, test.txt
       
       - Output Data: results.txt
       

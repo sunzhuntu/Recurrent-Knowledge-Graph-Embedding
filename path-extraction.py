@@ -141,7 +141,8 @@ def mine_paths_between_nodes(Graph, user_node, movie_node, maxLen, sample_size, 
         connected_path = connected_path[:sample_size]
     
     for path in connected_path:
-        fw_file.write(str(path) + '\n')
+        line = ",".join(path) + '\n'
+        fw_file.write(line)
    
     #print('The number of paths between '+ user_node + ' and ' + movie_node + ' is: ' +  str(len(connected_path)) +'\n')
 

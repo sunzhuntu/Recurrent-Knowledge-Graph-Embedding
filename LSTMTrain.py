@@ -10,7 +10,7 @@ class LSTMTrain(object):
 	recurrent neural network training process
 	'''
 	def __init__(self, model, iteration, learning_rate, paths_between_pairs, positive_label, \
-		all_variables, all_user, all_movie, fw_post_train):
+		all_variables, all_user, all_movie):
 		super(LSTMTrain, self).__init__()
 		self.model = model
 		self.iteration = iteration
@@ -20,18 +20,14 @@ class LSTMTrain(object):
 		self.all_variables = all_variables
 		self.all_user = all_user
 		self.all_movie = all_movie
-		self.fw_post_train = fw_post_train
 
 
-	def dump_post_embedding(self, fw_post_train, isUser):
+	def dump_post_embedding(self):
 		'''
 		dump the post-train user or item embedding
-
-		Inputs:
-			@fw_post_file: post-train-user and -item embeddings
-			@isUser: identify user or movie
 		'''
-		node_list = self.all_user + self.all_item
+		embedding_dict = {}
+		node_list = self.all_user + self.all_movie
 
 		for node in node_list:
 			node_id = torch.LongTensor([int(self.all_variables[node])])
@@ -39,12 +35,11 @@ class LSTMTrain(object):
 			if torch.cuda.is_available():
 				ur_id = ur_id.cuda()
 			node_embedding = self.model.embedding(node_id).squeeze().cpu().data.numpy()
+			if node not in embedding_dict:
+				embedding_dict.update({node:node_embedding})
 
-			node_embedding_str = [str(x) for x in node_embedding]
-			node_embedding_str = " ".join(node_embedding_str)
-			output = node + '|' + node_embedding_str + '\n'
-			fw_post_train.write(output)
-
+		return embedding_dict
+			
 		
 	def train(self):
 		criterion = nn.BCELoss()
@@ -95,4 +90,4 @@ class LSTMTrain(object):
 			print('epoch['+str(epoch) + ']: loss is '+str(running_loss))
 			print('accuracy is: '+ str(running_acc/data_size))
 
-		self.dump_post_embedding(self.fw_post_train)
+		return self.dump_post_embedding()

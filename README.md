@@ -75,15 +75,7 @@ This is the code of a knowledge graph embedding framework – RKGE – with a no
   
     - Feed both postive and negative path into the recurrent neural network
     
-      - Input Data: positive-path.txt, negative-path.txt, pre-train-user-embedding.txt, pre-train-item-embedding.txt
+      - Input Data: positive-path.txt, negative-path.txt, pre-train-user-embedding.txt, pre-train-item-embedding.txt, training.txt, test.txt
       
-      - Output Data: post-train-user-embedding.txt, post-train-item-embedding.txt
+      - Output Data: results.txt
       
-      
-  - ### Model Evaluation (model-evaluation.py)
-  
-    - Evaluate the performance of the model
-      
-      - Input Data: post-train-user-embedding.txt, post-train-item-embedding.txt
-      
-      - Output Data: the recommendation results

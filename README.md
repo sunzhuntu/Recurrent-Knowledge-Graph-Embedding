@@ -82,12 +82,12 @@ This is the code of a knowledge graph embedding framework – RKGE – with a no
       
   - ### References
     
-    [1] Sun Zhu, Jie Yang et al. [Recurrent Knowledge Graph Embedding for Effective Recommendation](http://sunzhuntu.wixsite.com/summer). ACM RecSys, 2018.               
+    [1] Sun Zhu, Jie Yang et al. [Recurrent knowledge graph embedding for effective recommendation](http://sunzhuntu.wixsite.com/summer). ACM RecSys, 2018.               
         
        
-    [2] Grbovic Mihajlo, Radosavljevic Vladan et al. [E-commerce in Your Inbox: Product Recommendations at Scale](https://arxiv.org/pdf/1606.07154.pdf). KDD, 2015
+    [2] Grbovic Mihajlo, Radosavljevic Vladan et al. [E-commerce in your inbox: product recommendations at scale](https://arxiv.org/pdf/1606.07154.pdf). KDD, 2015
     
     
-    [3] Koren, Yehuda, Robert Bell, et al. [Matrix Factorization Techniques for Recommender Systems](https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf). Computer, 2009
+    [3] Koren, Yehuda, Robert Bell, et al. [Matrix factorization techniques for recommender systems](https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf). Computer, 2009
     
-    [4] Rendle, Steffen, et al. [BPR: Bayesian Personalized Ranking from Implicit Feedback](https://arxiv.org/pdf/1205.2618.pdf). UAI, 2009.
+    [4] Rendle, Steffen, et al. [BPR: bayesian personalized ranking from implicit feedback](https://arxiv.org/pdf/1205.2618.pdf). UAI, 2009.

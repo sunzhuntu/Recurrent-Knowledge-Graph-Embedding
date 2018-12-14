@@ -7,6 +7,7 @@ from torch.autograd import Variable
 import torch.nn.functional as F
 from LSTMTagger import LSTMTagger
 from LSTMTrain import LSTMTrain
+from LSTMEvaluation import LSTMEvaluation
 
 
 def load_paths(fr_file, isPositive):
@@ -77,6 +78,42 @@ def load_pre_embedding(fr_pre_file, isUser):
 			pre_embedding[node_id] = embedding
 
 
+def load_data(fr_file):
+	'''
+	load training or test data
+
+	Input: 
+			@fr_rating: the user-item rating data
+
+	Output:
+			@rating_data: user-specific rating data with timestamp
+	'''
+
+	data_dict = {}
+
+	for line in fr_file:
+			lines = line.replace('\n', '').split('\t')
+			user = 'u' + lines[0]
+			item = 'i' + lines[1]
+
+			if user not in data_dict:
+				data_dict.update({user:[item]})
+			elif item not in data_dict[user]:
+				data_dict[user].append(item)
+
+	return data_dict
+
+
+def write_results(fw_results, precision_1, precision_5, precision_10, mrr_10):
+	'''
+	write results into text file
+	'''
+	line = 'precision@1: ' + str(precision_1) + '\n' + 'precision@5: ' + str(precision_5) + '\n' \
+		+ 'precision@10: ' + str(precision_10) + '\n' + 'mrr: ' + str(mrr_10) + '\n'
+	fw_results.write(line)
+
+
+
 if __name__ == '__main__':
 	
 	parser = argparse.ArgumentParser(description=''' Recurrent Neural Network ''')
@@ -86,11 +123,14 @@ if __name__ == '__main__':
 	parser.add_argument('--outdim', type=int, dest='out_dim', default=1)
 	parser.add_argument('--iteration', type=int, dest='iteration', default=5)
 	parser.add_argument('--learingrate', type=float, dest='learning_rate', default=0.001)
+	
 	parser.add_argument('--positivepath', type=str, dest='positive_path', default='data/ml/positive-path.txt')
 	parser.add_argument('--negativepath', type=str, dest='negative_path', default='data/ml/negative-path.txt')
 	parser.add_argument('--pretrainuserembedding', type=str, dest='pre_train_user_embedding', default='data/ml/pre-train-user-embedding.txt')
 	parser.add_argument('--pretrainmovieembedding', type=str, dest='pre_train_movie_embedding', default='data/ml/pre-train-movie-embedding.txt')
-	parser.add_argument('--posttrainembedding', type=str, dest='post_train_embedding', default='data/ml/post-train-embedding.txt')
+	parser.add_argument('--train', type=str, dest='train_file', default='data/ml/training.txt')
+	parser.add_argument('--test', type=str, dest='test_file', default='data/ml/test.txt')
+	parser.add_argument('--results', type=str, dest='results', default='data/ml/results.txt')
 
 	parsed_args = parser.parse_args()
 
@@ -104,14 +144,19 @@ if __name__ == '__main__':
 	negative_path = parsed_args.negative_path
 	pre_train_user_embedding = parsed_args.pre_train_user_embedding
 	pre_train_movie_embedding = parsed_args.pre_train_movie_embedding
-	post_train_embedding = parsed_args.post_train_embedding
+	train_file = parsed_args.train_file
+	test_file = parsed_args.test_file
+	results_file = parsed_args.results
 
 
 	fr_postive = open(positive_path, 'r')
 	fr_negative = open(negative_path, 'r')
 	fr_pre_user = open(pre_train_user_embedding, 'r')
 	fr_pre_movie = open(pre_train_movie_embedding, 'r')
-	fw_post_train = open(post_train_embedding, 'w')
+	fr_train = open(train_file,'r')
+	fr_test = open(test_file,'r')
+	fw_results = open(results_file, 'w')
+
 
 	node_count = 0 #count the number of all entities (user, movie and attributes)
 	all_variables = {} #save variable and corresponding id
@@ -119,7 +164,6 @@ if __name__ == '__main__':
 	positive_label = [] #save the positive user-movie pairs
 	all_user = [] #save all the users
 	all_movie = [] #save all the movies
-
 
 	load_paths(fr_postive, True)
 	load_paths(fr_negative, False)
@@ -136,11 +180,25 @@ if __name__ == '__main__':
 	    model = model.cuda()
 
 	model_train = LSTMTrain(model, iteration, learning_rate, paths_between_pairs, positive_label, \
-	    all_variables, all_user, all_movie, fw_post_train)
-	model_train.train()
+	    all_variables, all_user, all_movie)
+	embedding_dict = model_train.train()
+	print('model training finished')
+
+	train_dict = load_data(fr_train)
+	test_dict = load_data(fr_test)
+
+	model_evaluation = LSTMEvaluation(embedding_dict, all_movie, train_dict, test_dict)
+	top_score_dict = model_evaluation.calculate_ranking_score()
+	precision_1,_ = model_evaluation.calculate_results(top_score_dict, 1)
+	precision_5,_ = model_evaluation.calculate_results(top_score_dict, 5)
+	precision_10, mrr_10 = model_evaluation.calculate_results(top_score_dict, 10)
+
+	write_results(fw_results, precision_1, precision_5, precision_10, mrr_10)
 
 	fr_postive.close()
 	fr_negative.close()
 	fr_pre_user.close()
 	fr_pre_movie.close()
-	fw_post_train.close()
+	fr_train.close()
+	fr_test.close()
+	fw_results.close()

@@ -33,7 +33,7 @@ This is the code of a knowledge graph embedding framework – RKGE – with a no
 
 ## Modules of RKGE
 
-  - For clarify, hereafter we use movielen dataset as a toy example to demonstrate the detailed modules of RKGE
+  - For clarify, hereafter we use movielen dataset as a toy example to demonstrate the detailed modules of RKGE. For yelp dataset, you need to do some adaptation for the code and tune some parameters (e.g., input_dim = 20, hidden_dim = 32). 
 
   - ### Auxiliary Info Mapping (auxiliary-mapping.py)
     
@@ -75,7 +75,7 @@ This is the code of a knowledge graph embedding framework – RKGE – with a no
   
     - Feed both postive and negative path into the recurrent neural network, train and evaluate the model
     
-      - Input Data: positive-path.txt, negative-path.txt, pre-train-user-embedding.txt, pre-train-movie-embedding.txt (To speed up model training process, the user and movie embedding is pre-trained via [2]. You may also use matrix factorization [3] or bayesain personalized ranking [4] to pre-train the embeddings), training.txt, test.txt
+      - Input Data: positive-path.txt, negative-path.txt, training.txt, test.txt, pre-train-user-embedding.txt, pre-train-movie-embedding.txt (To speed up model training process, the user and movie embedding is pre-trained via [2]. You may also use matrix factorization [3] or bayesain personalized ranking [4] to pre-train the embeddings). 
       
       - Output Data: results.txt
       

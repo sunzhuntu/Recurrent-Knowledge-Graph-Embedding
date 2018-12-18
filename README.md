@@ -33,7 +33,7 @@ This is the code of a knowledge graph embedding framework – RKGE – with a no
 
 ## Modules of RKGE
 
-  - For clarify, hereafter we use movielen dataset as a toy example to demonstrate the detailed modules of RKGE. For yelp dataset, you need to do some adaptation for the code and tune some parameters (e.g., input_dim = 20, hidden_dim = 32). 
+  - For clarify, hereafter we use movielen dataset as a toy example to demonstrate the detailed modules of RKGE. For yelp dataset, you need to do some adaptation for the code and tune some parameters (e.g., input_dim and hidden_dim). 
 
   - ### Auxiliary Info Mapping (auxiliary-mapping.py)
     

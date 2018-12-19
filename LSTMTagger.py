@@ -9,7 +9,8 @@ class LSTMTagger(nn.Module):
 	'''
 	recurrent neural network  
 	'''
-	def __init__(self, node_size, input_dim, hidden_dim, out_dim, pre_embedding):
+	def __init__(self, node_size, input_dim, hidden_dim, out_dim, pre_embedding, \
+		nonlinearity = 'relu', n_layers = 1, dropout = 0.5):
 		super(LSTMTagger, self).__init__()
 		self.node_size = node_size
 		self.input_dim = input_dim
@@ -20,6 +21,7 @@ class LSTMTagger(nn.Module):
 		self.embedding.weight = nn.Parameter(pre_embedding)
 		self.lstm = nn.LSTM(input_dim, hidden_dim)
 		self.linear = nn.Linear(hidden_dim, out_dim, bias=True)
+		self.lstm = nn.LSTM(input_dim, hidden_dim, n_layers, dropout=dropout)
 					
 						 
 	def forward(self, paths_between_one_pair_id):

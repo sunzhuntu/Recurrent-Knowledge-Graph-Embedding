@@ -22,7 +22,7 @@ class LSTMEvaluation(object):
 		top_score_dict = {}
 
 		for user in self.test_dict:
-			if user in self.embedding_dict:
+			if user in self.embedding_dict and user in self.train_dict:
 				for movie in self.all_movie:
 					if movie not in self.train_dict[user] and movie in self.embedding_dict:
 						embedding_user = self.embedding_dict[user]
@@ -36,7 +36,7 @@ class LSTMEvaluation(object):
 				#rank score in a descending order
 				if user in score_dict and len(score_dict[user]) > 1:
 					item_score_list = score_dict[user]
-					k = min(len(item_score_list), 20) #to speed up the ranking process, we only find the top 20 movies
+					k = min(len(item_score_list), 15) #to speed up the ranking process, we only find the top 15 movies
 					top_item_list = heapq.nlargest(k, item_score_list, key=item_score_list.get)
 					top_score_dict.update({user:top_item_list})
 
@@ -50,7 +50,7 @@ class LSTMEvaluation(object):
 		isMrr = False
 		if k == 10: isMrr = True
 		
-		user_size = 1
+		user_size = 0
 		for user in self.test_dict:
 			if user in top_score_dict:
 				user_size = user_size + 1

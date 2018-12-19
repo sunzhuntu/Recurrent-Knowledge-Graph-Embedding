@@ -118,19 +118,19 @@ if __name__ == '__main__':
 	
 	parser = argparse.ArgumentParser(description=''' Recurrent Neural Network ''')
 
-	parser.add_argument('--inputdim', type=int, dest='input_dim', default=10)
-	parser.add_argument('--hiddendim', type=int, dest='hidden_dim', default=16)
+	parser.add_argument('--inputdim', type=int, dest='input_dim', default=20)
+	parser.add_argument('--hiddendim', type=int, dest='hidden_dim', default=32)
 	parser.add_argument('--outdim', type=int, dest='out_dim', default=1)
 	parser.add_argument('--iteration', type=int, dest='iteration', default=5)
-	parser.add_argument('--learingrate', type=float, dest='learning_rate', default=0.001)
+	parser.add_argument('--learingrate', type=float, dest='learning_rate', default=0.1)
 	
-	parser.add_argument('--positivepath', type=str, dest='positive_path', default='data/ml/positive-path.txt')
-	parser.add_argument('--negativepath', type=str, dest='negative_path', default='data/ml/negative-path.txt')
-	parser.add_argument('--pretrainuserembedding', type=str, dest='pre_train_user_embedding', default='data/ml/pre-train-user-embedding.txt')
-	parser.add_argument('--pretrainmovieembedding', type=str, dest='pre_train_movie_embedding', default='data/ml/pre-train-movie-embedding.txt')
-	parser.add_argument('--train', type=str, dest='train_file', default='data/ml/training.txt')
-	parser.add_argument('--test', type=str, dest='test_file', default='data/ml/test.txt')
-	parser.add_argument('--results', type=str, dest='results', default='data/ml/results.txt')
+	parser.add_argument('--positivepath', type=str, dest='positive_path', default='data/yelp/positive-path.txt')
+	parser.add_argument('--negativepath', type=str, dest='negative_path', default='data/yelp/negative-path.txt')
+	parser.add_argument('--pretrainuserembedding', type=str, dest='pre_train_user_embedding', default='data/yelp/pre-train-user-embedding.txt')
+	parser.add_argument('--pretrainmovieembedding', type=str, dest='pre_train_movie_embedding', default='data/yelp/pre-train-location-embedding.txt')
+	parser.add_argument('--train', type=str, dest='train_file', default='data/yelp/training.txt')
+	parser.add_argument('--test', type=str, dest='test_file', default='data/yelp/test.txt')
+	parser.add_argument('--results', type=str, dest='results', default='data/yelp/results.txt')
 
 	parsed_args = parser.parse_args()
 

@@ -43,11 +43,12 @@ class LSTMTrain(object):
 		
 	def train(self):
 		criterion = nn.BCELoss()
-		optimizer = optim.SGD(self.model.parameters(), lr=self.learning_rate)
+		#You may also try different types of optimization methods (e.g, SGD, Adam, Adadelta, etc.)
+		#optimizer = optim.SGD(self.model.parameters(), lr=self.learning_rate)
+		optimizer = optim.RMSprop(self.model.parameters(), lr=self.learning_rate)
 
 		for epoch in range (self.iteration):
 			running_loss = 0.0
-			running_acc = 0.0
 			data_size = len(self.paths_between_pairs)
 			label = Variable(torch.Tensor())    
 			
@@ -79,15 +80,10 @@ class LSTMTrain(object):
 				loss = criterion(out.cpu(), label)
 				running_loss += loss.item() * label.item()
 				
-				pred = torch.round(out)
-				num_correct = (pred.cpu() == label).sum()
-				running_acc += num_correct.item()
-				
 				optimizer.zero_grad()
 				loss.backward()
 				optimizer.step()
 			
 			print('epoch['+str(epoch) + ']: loss is '+str(running_loss))
-			print('accuracy is: '+ str(running_acc/data_size))
 
 		return self.dump_post_embedding()

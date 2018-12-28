@@ -43,9 +43,9 @@ class LSTMTrain(object):
 		
 	def train(self):
 		criterion = nn.BCELoss()
-		#You may also try different types of optimization methods (e.g, SGD, Adam, Adadelta, etc.)
-		#optimizer = optim.SGD(self.model.parameters(), lr=self.learning_rate)
-		optimizer = optim.RMSprop(self.model.parameters(), lr=self.learning_rate)
+		#You may also try different types of optimization methods (e.g, SGD, RMSprop, Adam, Adadelta, etc.)
+		optimizer = optim.SGD(self.model.parameters(), lr=self.learning_rate)
+		#optimizer = optim.RMSprop(self.model.parameters(), lr=self.learning_rate)
 
 		for epoch in range (self.iteration):
 			running_loss = 0.0

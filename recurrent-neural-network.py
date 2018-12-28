@@ -123,7 +123,7 @@ if __name__ == '__main__':
 
 	'''
 	Parameter Settings: 
-	for MovieLens in terms of [input_dim, hidden_dim, out_dim, iteration, learning_rate, optimizer] is [10, 16, 1, 5, 0.1/0.2, SGD]
+	for MovieLens in terms of [input_dim, hidden_dim, out_dim, iteration, learning_rate, optimizer] is [10, 16, 1, 5, 0.2/0.1, SGD]
 	for Yelp in terms of [input_dim, hidden_dim, out_dim, iteration, learning_rate, optimizer] is [20, 32, 1, 5, 0.01, SGD]
 	You can change optimizer in the LSTMTrain class
 	'''
